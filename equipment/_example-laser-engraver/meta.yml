@@ -1,0 +1,26 @@
+# Example equipment card. Copy this folder to add a new tool.
+#
+# Frontmatter specification — see README.md at the root of the repository.
+
+slug:
+  en: example-laser-engraver
+  et: naide-lasergraveerimine
+  ru: primer-lazernyy-graver
+
+status: active
+category: cutting
+order: 100
+
+cover: images/cover.jpg
+gallery: []
+
+rental:
+  enabled: false
+
+induction:
+  required: true
+
+externalLinks:
+  - { type: manual, label: "Manual (example)", url: "https://example.com/manual.pdf" }
+
+relatedSubscriptions: []

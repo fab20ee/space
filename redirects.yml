@@ -1,0 +1,10 @@
+# 301 redirects for renamed slugs.
+# Add an entry here whenever you rename a slug so the old URL keeps working
+# and SEO is preserved.
+#
+# Example:
+# redirects:
+#   - from: /en/equipment/old-name
+#     to:   /en/equipment/new-name
+
+redirects: []
