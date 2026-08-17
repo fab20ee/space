@@ -1,0 +1,12 @@
+# The home page. Marked with `layout: home`, so it answers on /{lang} and needs no slug.
+# Its text lives as structured blocks in the frontmatter of each index.{lang}.md — the
+# composition is fixed by the design, so the fields are named rather than free markdown.
+
+layout: home
+status: published
+
+# Cards shown in the equipment teaser, by English slug, in this order.
+featuredEquipment:
+  - co2-laser-cutter-100w
+  - 3d-printer-anycubic-kobra-3-combo
+  - oscilloscope-micsig-to3004

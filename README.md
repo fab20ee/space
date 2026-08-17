@@ -193,6 +193,61 @@ version: "1.2"            # optional, for versioned terms
 zone: hackspace           # optional — see below
 ```
 
+#### The home page
+
+The site's front page is content too. `pages/home/` carries `layout: home`, has no slug (it
+answers on `/{lang}`), and its text lives as **structured blocks** in the frontmatter of each
+`index.{lang}.md`:
+
+```yaml
+# pages/home/meta.yml
+layout: home
+status: published
+featuredEquipment: [co2-laser-cutter-100w, 3d-printer-anycubic-kobra-3-combo]
+```
+
+```yaml
+# pages/home/index.en.md — frontmatter
+hero:
+  eyebrow: "Pärnu mnt. 30, Tallinn · 24/7"
+  title: "A quiet place to work. A workshop to build in."
+  text: "Coworking and hackspace under one roof, but in separate rooms."
+  portals:
+    - { zone: coworking, label: "For work",     title: "Coworking", note: "Quiet, wifi, coffee" }
+    - { zone: hackspace, label: "For projects", title: "Hackspace", note: "3D printers, laser" }
+zones:
+  heading: "Two rooms, a wall between them"
+  text: "..."
+  cards:
+    - zone: hackspace
+      badge: "Hackspace"
+      title: "A workshop for what you can't make at home"
+      text: "..."
+      bullets: ["Room for noisy work", "Consumables included within reason"]
+howItWorks:
+  heading: "How to get access"
+  text: "..."
+  steps:
+    - { title: "Sign in with SmartID", text: "..." }
+equipment:
+  heading: "What's in the hackspace"
+  text: "..."
+  linkLabel: "All equipment"
+pricing:
+  heading: "Plans"
+  text: "..."
+```
+
+Why named fields instead of free markdown: the composition of the page is fixed by the design, and
+markdown would not survive it. Blocks you leave out are simply not rendered.
+
+Links, not copies: `zone` points at a zone landing page and `featuredEquipment` at equipment
+cards, so titles and URLs come from that content and stay localized.
+
+**Prices are not here.** Plans live in the application database, and repeating their numbers in git
+would eventually disagree with what the payment provider charges. The content only supplies the
+heading and the lead-in of the pricing section.
+
 #### Zone landing pages
 
 The site has no single equipment catalog. Instead there are two landing pages — one per room —
