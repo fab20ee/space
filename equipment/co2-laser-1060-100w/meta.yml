@@ -1,0 +1,24 @@
+slug:
+  en: co2-laser-cutter-100w
+  et: co2-laserloikur-100w
+  ru: lazernyy-stanok-co2-100w
+
+status: draft          # TODO: switch to active after the text is proofread
+category: cutting
+order: 10
+zone: hackspace
+
+# cover: images/cover.jpg     # TODO: add a photo of the machine
+
+rental:
+  enabled: false
+
+induction:
+  required: true
+
+# serial: "..."               # TODO: copy from the nameplate
+
+externalLinks:
+  - { type: manual, label: "Factory manual (PDF)", url: "https://github.com/fab20ee/docs/raw/main/100W%201060%20CO2%20laser.pdf" }
+
+relatedSubscriptions: []      # TODO: fill in once subscription slugs are settled

@@ -1,0 +1,32 @@
+# Equipment card template. Copy this folder to add a new tool.
+# Full specification — see README.md at the root of the repository.
+
+slug:
+  en: my-tool
+  et: minu-tooriist
+  ru: moy-instrument
+
+status: draft          # draft until proofread, then active
+category: cutting      # cutting | printing | electronics | measurement | optics
+order: 100
+zone: hackspace        # coworking | hackspace
+
+# cover: images/cover.jpg
+# gallery:
+#   - images/gallery-01.jpg
+
+rental:
+  enabled: false
+  # dailyRate: 0.00
+  # deposit: 0.00
+
+induction:
+  required: false
+
+# serial: "..."        # from the machine's nameplate; used in rental agreements
+
+externalLinks: []
+#   - { type: manual,  label: "Factory manual", url: "https://github.com/fab20ee/docs/raw/main/..." }
+#   - { type: youtube, label: "Tutorial",       url: "https://youtu.be/..." }
+
+relatedSubscriptions: []
