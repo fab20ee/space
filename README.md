@@ -43,6 +43,7 @@ localized too:
 
 | Content | en | et | ru |
 |---|---|---|---|
+| Zones | `/en/hackspace` | `/et/hackspace` | `/ru/hackspace` |
 | Equipment | `/en/equipment/{slug}` | `/et/seadmed/{slug}` | `/ru/oborudovanie/{slug}` |
 | Articles | `/en/articles/{slug}` | `/et/artiklid/{slug}` | `/ru/stati/{slug}` |
 | Events | `/en/events/{slug}` | `/et/sundmused/{slug}` | `/ru/meropriyatiya/{slug}` |
@@ -188,7 +189,29 @@ status: published
 updatedAt: 2026-03-01     # "last updated", required on legal pages
 fallbackLang: et          # defaults to en
 version: "1.2"            # optional, for versioned terms
+
+zone: hackspace           # optional — see below
 ```
+
+#### Zone landing pages
+
+The site has no single equipment catalog. Instead there are two landing pages — one per room —
+and each is both a description of that room and the list of what stands in it. A page becomes a
+zone landing by carrying a `zone` field:
+
+```yaml
+# pages/hackspace/meta.yml
+slug: { en: hackspace, et: hackspace, ru: hackspace }
+status: published
+zone: hackspace           # coworking | hackspace
+```
+
+Write the description in `index.{lang}.md` as usual — what the room is, what is included in the
+price, which plan opens it. The equipment list is added automatically from every tool whose own
+`meta.yml` says `zone: hackspace`, so the two can never drift apart.
+
+Each zone may have **at most one** landing page. Equipment in a zone with no landing page is not
+listed anywhere, and the site reports that as a warning.
 
 ### FAQ categories
 

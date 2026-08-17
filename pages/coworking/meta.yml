@@ -1,0 +1,13 @@
+slug:
+  en: coworking
+  et: coworking
+  ru: coworking
+
+status: published
+order: 1
+
+# Marks this page as a zone landing: the site renders the text below and then the equipment
+# that has `zone: coworking` in its own meta.yml.
+zone: coworking
+
+# cover: images/cover.jpg     # TODO: add a photo of the room

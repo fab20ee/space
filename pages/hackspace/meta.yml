@@ -1,0 +1,13 @@
+slug:
+  en: hackspace
+  et: hackspace
+  ru: hackspace
+
+status: published
+order: 2
+
+# Marks this page as a zone landing: the site renders the text below and then the equipment
+# that has `zone: hackspace` in its own meta.yml.
+zone: hackspace
+
+# cover: images/cover.jpg     # TODO: add a photo of the workshop
