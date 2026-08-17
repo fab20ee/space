@@ -1,0 +1,13 @@
+slug:
+  en: privacy
+  et: privaatsus
+  ru: privacy
+
+status: published
+order: 40
+
+# Estonian jurisdiction: once a translated version exists, it becomes the reference text.
+fallbackLang: et
+
+# TODO: no updatedAt — the original page carried no date. Add one when the text is next revised.
+# TODO: Estonian and Russian translations needed; legal text must be translated by a lawyer.

@@ -1,0 +1,10 @@
+slug:
+  en: rules
+  et: reeglid
+  ru: pravila
+
+status: published
+order: 30
+fallbackLang: et
+
+# TODO: Estonian and Russian translations needed.

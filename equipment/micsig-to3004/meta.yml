@@ -1,0 +1,20 @@
+slug:
+  en: oscilloscope-micsig-to3004
+  et: ostsilloskoop-micsig-to3004
+  ru: ostsillograf-micsig-to3004
+
+status: draft          # TODO: switch to active after the text is proofread
+category: measurement
+order: 30
+zone: hackspace
+
+rental:
+  enabled: false       # TODO: decide whether portable instruments can be rented out
+
+induction:
+  required: false
+
+externalLinks:
+  - { type: manual, label: "Factory manual (PDF)", url: "https://github.com/fab20ee/docs/raw/main/Micsig%20TO3004%20300%20MHz%20oscilloscope.pdf" }
+
+relatedSubscriptions: []

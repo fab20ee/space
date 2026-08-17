@@ -1,0 +1,20 @@
+slug:
+  en: 3d-printer-anycubic-kobra-3-combo
+  et: 3d-printer-anycubic-kobra-3-combo
+  ru: 3d-printer-anycubic-kobra-3-combo
+
+status: draft          # TODO: switch to active after the text is proofread
+category: printing
+order: 20
+zone: hackspace
+
+rental:
+  enabled: false
+
+induction:
+  required: false
+
+externalLinks:
+  - { type: manual, label: "Factory manual (PDF)", url: "https://github.com/fab20ee/docs/raw/main/Anycubic%20Kobra%203%20Combo%20(with%20multi-material%20printing).pdf" }
+
+relatedSubscriptions: []

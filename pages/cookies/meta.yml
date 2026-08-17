@@ -1,0 +1,10 @@
+slug:
+  en: cookies
+  et: kupsised
+  ru: cookies
+
+status: published
+order: 50
+fallbackLang: et
+
+# TODO: Estonian and Russian translations needed.
