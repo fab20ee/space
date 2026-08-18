@@ -5,6 +5,9 @@
 layout: home
 status: published
 
+# Hero background photo of the space.
+cover: images/hero.jpg
+
 # Cards shown in the equipment teaser, by English slug, in this order.
 featuredEquipment:
   - co2-laser-cutter-100w

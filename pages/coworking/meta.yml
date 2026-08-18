@@ -10,4 +10,10 @@ order: 1
 # that has `zone: coworking` in its own meta.yml.
 zone: coworking
 
-# cover: images/cover.jpg     # TODO: add a photo of the room
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+  - images/gallery-02.jpg
+  - images/gallery-03.jpg
+  - images/gallery-04.jpg
+  - images/gallery-05.jpg

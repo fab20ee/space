@@ -10,4 +10,7 @@ order: 2
 # that has `zone: hackspace` in its own meta.yml.
 zone: hackspace
 
-# cover: images/cover.jpg     # TODO: add a photo of the workshop
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+  - images/gallery-02.jpg
