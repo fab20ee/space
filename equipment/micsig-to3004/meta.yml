@@ -8,6 +8,12 @@ category: measurement
 order: 30
 zone: hackspace
 
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+  - images/gallery-02.jpg
+# NB: images are AI-generated placeholders for the internal preview — replace with real photos of the actual machine before launch.
+
 rental:
   enabled: false       # TODO: decide whether portable instruments can be rented out
 
