@@ -1,5 +1,5 @@
 ---
-title: "RW.HackSpace — coworking ja töökoda Tallinnas"
+title: "FAB20 — coworking ja töökoda Tallinnas"
 seoDescription: "Vaikne coworkingu ruum ja seadmetega töökoda Tallinna kesklinnas. Avatud ööpäev läbi, ligipääs SmartID-ga viie minutiga, ilma liikmelisuse ja vestlusteta."
 
 hero:
@@ -64,6 +64,10 @@ pricing:
   text: >
     Üks hind, kõik sees: käibemaks, kulumaterjalid, kohv, koristus. Ei „liikmelisust" ega
     masinapõhist tasu. Päevi saab juurde osta, kuni pakett on aktiivne.
+
+photos:
+  heading: "Fotod"
+  text: "Coworking ja töökoda sellisena, nagu need on — ilma stock-piltideta."
 
 events:
   heading: "Lähiajal toimuvad sündmused"

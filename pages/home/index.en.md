@@ -1,5 +1,5 @@
 ---
-title: "RW.HackSpace — coworking and a workshop in Tallinn"
+title: "FAB20 — coworking and a workshop in Tallinn"
 seoDescription: "A quiet coworking room and a fully equipped workshop in central Tallinn. Open around the clock, access via SmartID in five minutes, no membership or interviews."
 
 hero:
@@ -64,6 +64,10 @@ pricing:
   text: >
     One price, everything inside: VAT, consumables, coffee, cleaning. No "membership" and no
     per-machine fees. You can top up days while a plan is active.
+
+photos:
+  heading: "Photos"
+  text: "The coworking room and the workshop as they are — no stock pictures."
 
 events:
   heading: "Upcoming events"

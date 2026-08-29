@@ -1,6 +1,6 @@
 ---
 title: "Kontakt"
-seoDescription: "RW.HackSpace coworking ja hackspace, Pärnu mnt 30, Tallinn. Telefon +372 5718 1880, mail@rainwalker.ee, liikmetele avatud 24/7."
+seoDescription: "FAB20 coworking ja hackspace, Pärnu mnt 30, Tallinn. Telefon +372 5718 1880, mail@rainwalker.ee, liikmetele avatud 24/7."
 ---
 
 Ruumid asuvad aadressil **Pärnu mnt 30, Tallinn**, mõne minuti kaugusel Vabaduse väljakust.

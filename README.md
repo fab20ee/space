@@ -1,6 +1,6 @@
-# RW.HackSpace — Content
+# FAB20 — Content
 
-Open content base for the [RW.HackSpace](https://fab20.ee) hackspace and coworking in Tallinn, Estonia.
+Open content base for [FAB20](https://fab20.ee), the coworking and hackspace in Tallinn, Estonia.
 
 This repository holds equipment pages, articles, FAQs, event descriptions, member projects, and static pages. Content is served by the main web application via the GitHub API and published on [fab20.ee](https://fab20.ee). A push to `main` goes live within seconds — there is no separate deploy step.
 
@@ -370,7 +370,7 @@ copyright stays with the author.
 ## Contributing
 
 Anyone can propose improvements via Pull Request. Changes are reviewed and merged by the
-RW.HackSpace team.
+FAB20 team.
 
 If you are a member of the hackspace and want to add your own project, send a PR to
 `projects/` — we are happy to feature your work.

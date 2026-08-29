@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-seoDescription: "How RW.HackSpace (RainWalker OÜ) collects, processes and protects personal data under the GDPR and Estonian data protection law."
+seoDescription: "How FAB20 (RainWalker OÜ) collects, processes and protects personal data under the GDPR and Estonian data protection law."
 ---
 
 We at Fab20 are committed to protecting the privacy and security of your personal data that we
