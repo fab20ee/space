@@ -5,8 +5,22 @@
 layout: home
 status: published
 
-# Hero background photo of the space.
+# Cover: used for social previews (og:image). The page itself shows the photo strip below.
 cover: images/hero.jpg
+
+# Photo strip on the first screen. Each entry points at an image of a zone landing page, so the
+# room photos live in one place and the zone tag on the strip comes from that page. Order is the
+# order on the strip; alternate the rooms so the two-zone idea is visible before any text.
+photos:
+  - { page: coworking, image: images/cover.jpg }
+  - { page: hackspace, image: images/cover.jpg }
+  - { page: coworking, image: images/gallery-01.jpg }
+  - { page: hackspace, image: images/gallery-01.jpg }
+  - { page: coworking, image: images/gallery-02.jpg }
+  - { page: hackspace, image: images/gallery-02.jpg }
+  - { page: coworking, image: images/gallery-03.jpg }
+  - { page: coworking, image: images/gallery-04.jpg }
+  - { page: coworking, image: images/gallery-05.jpg }
 
 # Cards shown in the equipment teaser, by English slug, in this order.
 featuredEquipment:

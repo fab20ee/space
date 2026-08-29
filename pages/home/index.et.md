@@ -1,74 +1,109 @@
 ---
-title: "RW.HackSpace — hackspace ja coworking Tallinnas"
-seoDescription: "Vaikne coworkingu ruum ja töötav hackspace Tallinna kesklinnas. Ligipääs ööpäev läbi SmartID-ga, seadmete rent, sündmused."
+title: "RW.HackSpace — coworking ja töökoda Tallinnas"
+seoDescription: "Vaikne coworkingu ruum ja seadmetega töökoda Tallinna kesklinnas. Avatud ööpäev läbi, ligipääs SmartID-ga viie minutiga, ilma liikmelisuse ja vestlusteta."
 
 hero:
-  eyebrow: "Pärnu mnt. 30, Tallinn · 24/7"
-  title: "Vaikne koht, kus töötada. Töökoda, kus valmistada."
+  title: "Coworking ja töökoda Tallinna kesklinnas. Avatud 24/7."
   text: >
-    Coworking ja hackspace ühe katuse all, aga eraldi ruumides. Ligipääsu saamine võtab umbes
-    viis minutit — SmartID-ga, kellegagi kohtumata.
-  portals:
-    - zone: coworking
-      label: "Tööks"
-      title: "Coworking"
-      note: "Vaikne, wifi, kohv"
-    - zone: hackspace
-      label: "Projektideks"
-      title: "Hackspace"
-      note: "3D-printerid, laser, elektroonika"
+    Töökoht ja seadmed — ligipääs viie minutiga SmartID-ga. Ilma halduri, vestluse ja
+    liikmemaksuta.
+  facts:
+    - "Pärnu mnt 30"
+    - "Ööpäev läbi"
+    - "alates 19 € päevas"
+  cta: "Hangi ligipääs"
+  secondary: "Kuidas see käib"
 
 zones:
   heading: "Kaks ruumi, sein vahel"
   text: >
-    Coworking ja hackspace on füüsiliselt eraldi ruumid. 3D-printerite ja väljatõmbe müra ei
-    jõua nendeni, kes tulid siia keskenduma.
+    Coworking ja hackspace on eraldi ruumid. Masinate müra jääb sinna, kus on masinad, ja
+    coworkingus saab rahulikult keskenduda.
   cards:
     - zone: coworking
       badge: "Coworking"
-      title: "Töölaud, kuhu ei ole vastumeelt tulla"
+      title: "Vaikne koht, kus töötada"
       text: >
-        Rahulik ruum, kiire wifi, terveks päevaks mõeldud toolid, kohv ja tee ilma piiranguteta.
-        Tule tunniks või kuuks.
+        Lauad, korralikud toolid, kiire internet, koosolekuruum kõnedeks, kohv ja tee ilma
+        piiranguteta. Tule päevaks või kuuks.
       bullets:
-        - "Vaikus — selles ruumis masinaid ei ole"
-        - "Ööpäevaringne ligipääs SmartID-ga"
-        - "Kohv, tee ja snäkid ilma eraldi tasuta"
-        - "Saad päevi juurde osta, kui pakett saab nädala keskel otsa"
+        - "Vaikus — selles ruumis seadmeid ei ole"
+        - "Kohv, tee, snäkid ja koristus hinna sees"
+        - "Ööpäevaringne ligipääs telefonist"
+      linkLabel: "Coworkingust"
     - zone: hackspace
       badge: "Hackspace"
       title: "Töökoda selleks, mida kodus ei tee"
       text: >
-        Laserlõikur, 3D-printerid, jootekoht, mõõteseadmed, käsitööriistad. Osa seadmeid saab
-        rentida ja kaasa võtta.
+        Laserlõikur, 3D-printerid, jootejaam, mõõteseadmed ja tööriistad. Kõik uus ja ostetud
+        just töökoja jaoks — mitte see, mida keegi kodust kaasa tõi.
       bullets:
-        - "Ruumi lärmakate ja tolmuste tööde jaoks"
-        - "Kulumaterjalid (filament, tina) mõistlikes piirides sees"
-        - "Coworkingu ligipääs kuulub iga hackspace'i paketi juurde"
-        - "Allkirjasta digitaalne leping ja võta tööriist koju"
+        - "Kulumaterjalid — filament, tina — mõistlikus koguses hinna sees"
+        - "Hackspace'i pakett sisaldab ka coworkingut"
+        - "Osa seadmeid saab rentida ja koju kaasa võtta"
+      linkLabel: "Hackspace'ist ja seadmetest"
 
 howItWorks:
   heading: "Kuidas ligipääsu saada"
-  text: >
-    Ilma kohtumiseta ja ilma paberimajanduseta. Kõik toimub veebis — umbes nagu taksot tellides.
+  text: "Kõik käib veebis, igal kellaajal — nagu takso tellimine."
   steps:
     - title: "Logi sisse SmartID-ga"
-      text: "Üks klikk, PIN1 sisestus — ja konto on olemas. SmartID puudub? Logi sisse e-postiga."
-    - title: "Allkirjasta leping"
-      text: "Üks kord registreerimisel — majareeglid. Allkiri antakse sama SmartID-ga."
+      text: "Sisesta PIN1 ja konto on olemas. Leping allkirjastatakse sama SmartID-ga, ühe korra. SmartID-d pole? Logi sisse e-postiga."
     - title: "Vali pakett"
-      text: "Päev, nädal, kuu. Maksa kaardiga Stripe'i kaudu — või sisesta sooduskood."
+      text: "Päev, nädal või kuu. Maksa kaardiga Stripe'i kaudu või sisesta sooduskood."
     - title: "Ava uks QR-koodiga"
-      text: "Tuled ukse juurde, skaneerid muutuva QR-koodi — uks avaneb."
+      text: "Astu ukse juurde, skaneeri kood telefoniga — uks avaneb."
 
 equipment:
-  heading: "Mis on hackspace'is"
-  text: "Igal seadmel on oma leht tehniliste andmete, juhendite ja ohutusnõuetega."
+  heading: "Mis töökojas on"
+  text: "Igal seadmel on oma leht tehniliste andmete, juhendi ja ohutusnõuetega."
   linkLabel: "Kõik seadmed"
 
 pricing:
   heading: "Paketid"
   text: >
-    Ilma peidetud tasudeta. Käibemaks ja kaardimaksete teenustasud sisalduvad. Päevi saab juurde
-    osta ka siis, kui pakett on veel aktiivne.
+    Üks hind, kõik sees: käibemaks, kulumaterjalid, kohv, koristus. Ei „liikmelisust" ega
+    masinapõhist tasu. Päevi saab juurde osta, kuni pakett on aktiivne.
+
+events:
+  heading: "Lähiajal toimuvad sündmused"
+  linkLabel: "Kõik sündmused"
+
+projects:
+  heading: "Mida siin tehakse"
+  linkLabel: "Kõik projektid"
+
+faq:
+  heading: "Sagedased küsimused"
+  linkLabel: "Kõik küsimused ja vastused"
+  items:
+    - question: "Kas on vaja liikmelisust või vestlust?"
+      answer: >
+        Ei. See on äriteenus: logi sisse SmartID-ga, maksa paketi eest ja uks avaneb. Kellegagi
+        kokku leppida ei ole vaja.
+    - question: "Kas saab tulla üheks päevaks?"
+      answer: >
+        Jah, on päevapakett. Kui meeldib, osta päevi juurde või võta kuu — juba makstud raha ei
+        kao.
+    - question: "Kas tõesti on avatud öösel ja nädalavahetusel?"
+      answer: >
+        Jah, 24/7. Kohapeal personali ei ole — ligipääs on täielikult automaatne ja uks avaneb
+        telefonist.
+    - question: "Mul pole SmartID-d. Mida teha?"
+      answer: >
+        Logi sisse e-postiga: kirjuta meile, loome konto ja saadame sisselogimislingi. Kõik muu
+        töötab samamoodi.
+    - question: "Kas coworkingus on masinate pärast lärmakas?"
+      answer: >
+        Ei. Hackspace on eraldi ruum seina taga, kõik valju ja tolmune toimub seal. Coworkingus
+        kehtib vaikusereegel.
+
+location:
+  heading: "Kus me oleme"
+  address: "Pärnu mnt 30, Tallinn"
+  text: >
+    Kesklinn, esimene korrus. Trammid 1–5 ja enamik busse peatuvad peatustes „Kosmos" ja
+    „Vabaduse väljak". Parkimine: tsoon „Südalinn" (Süda 1) või Finesti parkla (Pärnu mnt 22).
+  mapUrl: "https://www.google.com/maps/search/?api=1&query=P%C3%A4rnu+mnt+30%2C+Tallinn"
+  mapLabel: "Ava kaardil"
 ---
