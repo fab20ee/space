@@ -1,0 +1,25 @@
+slug:
+  en: laser-printer-canon-lbp7010c
+  et: laserprinter-canon-lbp7010c
+  ru: lazernyy-printer-canon-lbp7010c
+
+status: draft          # TODO: switch to active after the text is proofread
+category: printing
+order: 25
+zone: coworking
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+
+rental:
+  enabled: false
+
+induction:
+  required: false
+
+# serial: "..."        # TODO: copy from the nameplate
+
+externalLinks: []
+
+relatedSubscriptions: []

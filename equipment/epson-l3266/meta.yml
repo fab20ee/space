@@ -1,0 +1,25 @@
+slug:
+  en: inkjet-printer-scanner-epson-l3266
+  et: tindiprinter-skanner-epson-l3266
+  ru: struynyy-printer-skaner-epson-l3266
+
+status: draft          # TODO: switch to active after the text is proofread
+category: printing
+order: 26
+zone: coworking
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+
+rental:
+  enabled: false
+
+induction:
+  required: false
+
+# serial: "..."        # TODO: copy from the nameplate
+
+externalLinks: []
+
+relatedSubscriptions: []

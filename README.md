@@ -106,7 +106,7 @@ years should not turn into 404s.
 ### Equipment
 
 ```yaml
-category: cutting     # groups the catalog: cutting | printing | electronics | measurement | optics
+category: cutting     # groups the catalog: cutting | printing | electronics | measurement | optics | office
 zone: hackspace       # coworking | hackspace — which room the tool lives in
 
 rental:               # only if the tool can be taken out of the space

@@ -1,0 +1,25 @@
+slug:
+  en: power-supply-owon-spe3102
+  et: toiteplokk-owon-spe3102
+  ru: blok-pitaniya-owon-spe3102
+
+status: draft          # TODO: switch to active after the text is proofread
+category: electronics
+order: 45
+zone: hackspace
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+
+rental:
+  enabled: false
+
+induction:
+  required: false
+
+# serial: "..."        # TODO: copy from the nameplate
+
+externalLinks: []      # TODO: link the factory manual once it is uploaded to fab20ee/docs
+
+relatedSubscriptions: []

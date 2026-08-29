@@ -1,0 +1,23 @@
+slug:
+  en: paper-cutter-a3
+  et: paberiloikur-a3
+  ru: rezak-dlya-bumagi-a3
+
+status: draft          # TODO: switch to active after the text is proofread
+category: cutting
+order: 14
+zone: coworking
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+
+rental:
+  enabled: false
+
+induction:
+  required: false
+
+externalLinks: []
+
+relatedSubscriptions: []

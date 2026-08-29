@@ -1,0 +1,24 @@
+slug:
+  en: tv-screen-panasonic-65
+  et: teleekraan-panasonic-65
+  ru: ekran-panasonic-65
+
+status: draft          # TODO: switch to active after the text is proofread
+category: office       # NB: new category — the app must know it (existing: cutting | printing | electronics | measurement | optics)
+order: 61
+zone: coworking
+
+cover: images/cover.jpg
+gallery: []
+
+rental:
+  enabled: false
+
+induction:
+  required: false
+
+# serial: "..."        # TODO: copy from the nameplate
+
+externalLinks: []
+
+relatedSubscriptions: []

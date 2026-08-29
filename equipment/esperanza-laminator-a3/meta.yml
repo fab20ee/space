@@ -1,0 +1,25 @@
+slug:
+  en: laminator-esperanza-a3
+  et: lamineerija-esperanza-a3
+  ru: laminator-esperanza-a3
+
+status: draft          # TODO: switch to active after the text is proofread
+category: office       # NB: new category — the app must know it (existing: cutting | printing | electronics | measurement | optics)
+order: 60
+zone: coworking
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+
+rental:
+  enabled: false
+
+induction:
+  required: false
+
+# serial: "..."        # TODO: copy from the nameplate, together with the exact model number
+
+externalLinks: []
+
+relatedSubscriptions: []

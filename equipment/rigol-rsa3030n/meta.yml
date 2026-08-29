@@ -1,0 +1,25 @@
+slug:
+  en: spectrum-analyzer-rigol-rsa3030n
+  et: spektrianaluusaator-rigol-rsa3030n
+  ru: analizator-spektra-rigol-rsa3030n
+
+status: draft          # TODO: switch to active after the text is proofread
+category: measurement
+order: 31
+zone: hackspace
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+
+rental:
+  enabled: false
+
+induction:
+  required: true       # expensive RF front end — one static discharge or a transmitter on the input kills it
+
+# serial: "..."        # TODO: copy from the nameplate
+
+externalLinks: []      # TODO: link the factory manual once it is uploaded to fab20ee/docs
+
+relatedSubscriptions: []

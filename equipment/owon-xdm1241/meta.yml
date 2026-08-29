@@ -1,0 +1,24 @@
+slug:
+  en: bench-multimeter-owon-xdm1241
+  et: lauamultimeeter-owon-xdm1241
+  ru: nastolnyy-multimetr-owon-xdm1241
+
+status: draft          # TODO: switch to active after the text is proofread
+category: measurement
+order: 32
+zone: hackspace
+
+cover: images/cover.jpg
+gallery: []
+
+rental:
+  enabled: false
+
+induction:
+  required: false
+
+# serial: "..."        # TODO: copy from the nameplate
+
+externalLinks: []      # TODO: link the factory manual once it is uploaded to fab20ee/docs
+
+relatedSubscriptions: []

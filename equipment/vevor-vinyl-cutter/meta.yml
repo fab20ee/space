@@ -1,0 +1,25 @@
+slug:
+  en: vinyl-cutter-vevor
+  et: vinuulloikur-vevor
+  ru: rezhushchiy-plotter-vevor
+
+status: draft          # TODO: switch to active after the text is proofread
+category: cutting
+order: 12
+zone: coworking        # TODO: confirm — photographed next to the printers on the coworking side
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+
+rental:
+  enabled: false
+
+induction:
+  required: false
+
+# serial: "..."        # TODO: copy from the nameplate, together with the exact model number
+
+externalLinks: []      # TODO: link the manual and the software download
+
+relatedSubscriptions: []

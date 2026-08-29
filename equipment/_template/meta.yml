@@ -7,7 +7,7 @@ slug:
   ru: moy-instrument
 
 status: draft          # draft until proofread, then active
-category: cutting      # cutting | printing | electronics | measurement | optics
+category: cutting      # cutting | printing | electronics | measurement | optics | office   # office = coworking-side equipment: printers, laminator, screen
 order: 100
 zone: hackspace        # coworking | hackspace
 

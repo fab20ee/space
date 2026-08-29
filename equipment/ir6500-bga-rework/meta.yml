@@ -1,0 +1,25 @@
+slug:
+  en: bga-rework-station-ir6500
+  et: bga-remondijaam-ir6500
+  ru: bga-remontnaya-stantsiya-ir6500
+
+status: draft          # TODO: switch to active after the text is proofread
+category: electronics
+order: 43
+zone: hackspace
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+
+rental:
+  enabled: false
+
+induction:
+  required: true       # IR heaters, mains-powered, easy to destroy a board — show people once
+
+# serial: "..."        # TODO: copy from the nameplate
+
+externalLinks: []      # TODO: link the factory manual once it is uploaded to fab20ee/docs
+
+relatedSubscriptions: []
