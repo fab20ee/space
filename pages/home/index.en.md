@@ -64,6 +64,13 @@ pricing:
   text: >
     One price, everything inside: VAT, consumables, coffee, cleaning. No "membership" and no
     per-machine fees. You can top up days while a plan is active.
+  extras:
+    - title: "Free access"
+      text: "Have a project but no budget? Write to us — sometimes we give access for free."
+      page: free-access
+    - title: "Give access as a gift"
+      text: "A certificate for a day, a week or a month — in the RainWalker store."
+      page: gift
 
 photos:
   heading: "Photos"
@@ -101,6 +108,14 @@ faq:
       answer: >
         No. The hackspace is a separate room behind a wall; everything loud and dusty happens
         there. The coworking room has a quiet rule.
+    - question: "Can I get access for free?"
+      answer: >
+        Sometimes — if you have a project that would be interesting to see in the workshop and no
+        budget for a plan. Write to clients@fab20.ee about what you are making. [More](/en/free-access).
+    - question: "Can I give access as a gift?"
+      answer: >
+        Yes. A certificate for a day, a week or a month is sold in the [RainWalker store](https://store.rainwalker.ee);
+        the recipient enters the code instead of paying.
 
 location:
   heading: "Where we are"

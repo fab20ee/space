@@ -64,6 +64,13 @@ pricing:
   text: >
     Üks hind, kõik sees: käibemaks, kulumaterjalid, kohv, koristus. Ei „liikmelisust" ega
     masinapõhist tasu. Päevi saab juurde osta, kuni pakett on aktiivne.
+  extras:
+    - title: "Tasuta ligipääs"
+      text: "On projekt, aga pole eelarvet? Kirjuta meile — mõnikord anname ligipääsu tasuta."
+      page: free-access
+    - title: "Kingi ligipääs"
+      text: "Kinkekaart päevaks, nädalaks või kuuks — RainWalkeri poes."
+      page: gift
 
 photos:
   heading: "Fotod"
@@ -101,6 +108,14 @@ faq:
       answer: >
         Ei. Hackspace on eraldi ruum seina taga, kõik valju ja tolmune toimub seal. Coworkingus
         kehtib vaikusereegel.
+    - question: "Kas ligipääsu saab tasuta?"
+      answer: >
+        Mõnikord — kui sul on projekt, mida oleks huvitav töökojas näha, ja pole eelarvet paketi
+        jaoks. Kirjuta aadressile clients@fab20.ee, mida teed. [Loe lisaks](/et/tasuta-ligipaas).
+    - question: "Kas ligipääsu saab kinkida?"
+      answer: >
+        Jah. Kinkekaart päevaks, nädalaks või kuuks on müügil [RainWalkeri poes](https://store.rainwalker.ee);
+        saaja sisestab koodi makse asemel.
 
 location:
   heading: "Kus me oleme"
