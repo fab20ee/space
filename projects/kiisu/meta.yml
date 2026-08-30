@@ -1,0 +1,30 @@
+slug:
+  en: kiisu
+  et: kiisu
+  ru: kiisu
+
+status: draft          # TODO: confirm the facts about where prototypes are built, then set to published
+featured: true
+order: 10
+
+# Ongoing project — no completedAt.
+author: { name: "RainWalker", url: "https://kiisu.io" }
+
+# What the workshop contributes: soldering, rework, measurement.
+equipmentUsed:
+  - soldering-station-atten-st-8802
+  - bga-rework-station-ir6500
+  - digital-microscope-andonstar
+  - oscilloscope-micsig-to3004
+  - spectrum-analyzer-rigol-rsa3030n
+
+links:
+  - { type: site, label: "kiisu.io", url: "https://kiisu.io" }
+  - { type: github, label: "GitHub", url: "https://github.com/kiisu-io/kiisu4" }
+
+tags: [electronics, rf, open-hardware]
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+  - images/gallery-02.jpg

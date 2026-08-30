@@ -1,0 +1,12 @@
+slug:
+  en: laser-first-cut
+  et: laseri-esimene-loige
+  ru: pervaya-rezka-na-lazere
+
+status: draft          # sample article — TODO: proofread, then publish
+publishedAt: 2026-08-30
+author: { name: "FAB20", url: null }
+tags: [laser, howto]
+relatedEquipment: [co2-laser-cutter-100w]
+
+cover: images/cover.jpg
