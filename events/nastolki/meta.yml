@@ -1,0 +1,27 @@
+# A club (kind: series): a permanent page without a date of its own. Dated meetings are
+# separate items with `series: board-games` — or, once the cabinet exists, posts from the host.
+slug:
+  en: board-games
+  et: lauamangud
+  ru: nastolnye-igry
+
+status: draft          # TODO: switch to active once the host name and the chat link are confirmed
+kind: series
+order: 10
+zone: coworking
+
+# Anyone may come; the host lets guests in.
+audience: everyone
+
+host:
+  name: "Ведущая"     # TODO: real name
+  role: member
+
+links:
+  - type: chat
+    label: "Telegram"
+    url: "https://t.me/fab20chat"   # TODO: the board-games chat, if it is separate
+
+# 0 = free. Absent = not decided yet.
+price: 0
+currency: EUR

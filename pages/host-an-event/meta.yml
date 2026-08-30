@@ -1,0 +1,10 @@
+# The "host your own event" offer. `layout: events-hosting` makes the events listing show it as
+# a block with a "write to us" button; the page itself holds the full text.
+slug:
+  en: host-an-event
+  et: korralda-sundmus
+  ru: provesti-meropriyatie
+
+status: draft          # TODO: switch to active once the terms are confirmed
+layout: events-hosting
+order: 50
