@@ -1,0 +1,24 @@
+slug:
+  en: ergonomic-chairs
+  et: ergonoomilised-toolid
+  ru: ergonomichnye-kresla
+
+status: draft          # TODO: switch to active after the text is proofread
+category: office
+order: 2
+zone: coworking
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+  - images/gallery-02.jpg
+
+rental:
+  enabled: false
+
+induction:
+  required: false
+
+externalLinks: []
+
+relatedSubscriptions: []

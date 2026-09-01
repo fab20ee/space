@@ -11,6 +11,7 @@ zone: coworking
 cover: images/cover.jpg
 gallery:
   - images/gallery-01.jpg
+  - images/gallery-02.jpg
 
 rental:
   enabled: false

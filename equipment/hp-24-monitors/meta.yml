@@ -1,0 +1,26 @@
+slug:
+  en: hp-24-monitors
+  et: hp-24-monitorid
+  ru: monitory-hp-24
+
+status: draft          # TODO: switch to active after the text is proofread
+category: office
+order: 3
+zone: coworking
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+  - images/gallery-02.jpg
+
+rental:
+  enabled: false
+
+induction:
+  required: false
+
+# TODO: confirm the exact model mix (HP EliteDisplay / E-series) and note which units have USB-C
+
+externalLinks: []
+
+relatedSubscriptions: []

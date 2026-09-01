@@ -1,0 +1,25 @@
+slug:
+  en: hp-usb-c-dock
+  et: hp-usb-c-dokk
+  ru: dok-stantsiya-hp-usb-c
+
+status: draft          # TODO: switch to active after the text is proofread
+category: office
+order: 4
+zone: coworking
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+
+rental:
+  enabled: false
+
+induction:
+  required: false
+
+# TODO: confirm the exact model (looks like HP USB-C Dock G5) and how many units there are
+
+externalLinks: []
+
+relatedSubscriptions: []

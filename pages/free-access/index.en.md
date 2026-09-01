@@ -18,5 +18,5 @@ rules, inductions on the machines, cleaning up after yourself.
 
 Write to [clients@fab20.ee](mailto:clients@fab20.ee): who you are, what the project is, how much
 time and which equipment you need. If we agree, we send a promo code and the rest is the usual
-path: sign in with SmartID, pick a plan, enter the code instead of paying, open the door from
+path: sign in with Smart-ID, pick a plan, enter the code instead of paying, open the door from
 your phone.

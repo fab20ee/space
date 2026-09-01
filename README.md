@@ -228,7 +228,7 @@ howItWorks:
   heading: "How to get access"
   text: "..."
   steps:
-    - { title: "Sign in with SmartID", text: "..." }
+    - { title: "Sign in with Smart-ID", text: "..." }
 equipment:
   heading: "What's in the hackspace"
   text: "..."

@@ -11,6 +11,7 @@ zone: coworking        # TODO: confirm — photographed next to the printers on 
 cover: images/cover.jpg
 gallery:
   - images/gallery-01.jpg
+  - images/gallery-02.jpg
 
 rental:
   enabled: false

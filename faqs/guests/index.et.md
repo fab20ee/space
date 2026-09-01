@@ -4,7 +4,7 @@ title: "Külalised ja koduloomad"
 
 ## Kas ma saan sõbra kaasa võtta?
 
-Saab, aga sõber on sinu vastutusel.
+Saab, aga sõbral peab olema oma makstud ligipääs ja allkirjastatud leping.
 
 ## Kas koduloomadega sisenemine on lubatud?
 

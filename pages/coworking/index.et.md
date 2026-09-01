@@ -1,39 +1,35 @@
 ---
 title: "Coworking"
-seoDescription: "Vaikne coworking Tallinna kesklinnas, avatud 24/7. Töölauad, kiire internet, kohv, koosolekuruum ja töökoda kõrvaltoas. Ligipääs SmartID-ga."
+seoDescription: "Vaikne coworking Tallinna kesklinnas, avatud 24/7. Elektrilise kõrgusega töölauad, monitorid, kohv ja töökoda kõrvaltoas. Ligipääs Smart-ID-ga."
 ---
 
-Ruum, kus töötada: vaikne, laua taga saab tegelikult mõelda. See asub hackspace'i kõrval, aga on
-eraldi ruum, nii et masinate müra jääb sinna, kus on masinad.
+Väike vaikne ruum Tallinna kesklinnas, kus saab rahulikult töötada — päeval või öösel. Hackspace
+koos masinatega on seina taga ja selle müra siia ei ulatu.
 
-Ligipääs on ööpäev läbi ja kellegagi kohtuma ei pea. Sõlmid liikmelepingu SmartID-ga, maksad
-kaardiga ja uks avaneb telefonist — kokku umbes viis minutit, ükskõik mis kell.
+Töötab ööpäev läbi ja kellegagi kohtuma ei pea: sõlmid lepingu Smart-ID-ga, maksad kaardiga ja
+avad ukse telefonist.
+
+Mugavaks tööks on kõik olemas — elektrilise kõrgusega lauad, mugavad toolid, monitorid, kohv
+ja tee.
 
 ## Mis hinnas sisaldub
 
-- Töölaud, tool, mis on mõeldud kaheksaks tunniks, ja pistikupesa iga koha juures
-- Kiire juhtmega ja juhtmevaba internet
-- Kohv, tee ja snäkid
-- Koosolekuruum kõnedeks ja väikesteks kohtumisteks
-- Köök külmiku, mikrolaineahju ja nõudepesumasinaga
+- Elektrilise kõrgusega töölaud: kõrgus muutub nupuvajutusega, osa päevast saab töötada seistes
+- Mugavad toolid, mitut sorti
+- Monitorid USB-C ja HDMI-ga, juhtmevabad hiired, klaviatuurid ja paar HP dokki
+- Kiire Wi-Fi
+- Suur ühine laud, tahvel märkmete jaoks, printerid ja skannerid
 - Koristus, nii et esmaspäeva hommikul on siin sama pilt nagu reedel
-- Printimine ja skaneerimine
+- Kohvimasin: espresso, cappuccino, flat white, lisaks tee ja kerged suupisted
+- Kööginurk külmiku ja mikrolaineahjuga oma toidu jaoks
 
-Eraldi tasu elektri, kohvimasina või "liikmemaksu" eest paketi peale ei tule. Üks hind, kõik sees.
+## Koht sinu jaoks
 
-## Vaikuse reegel
+Vestlusi, heakskiitu ega liitumistasu ei ole — see on kommertsteenus. Tulla siia tööle ja mitte
+kellegagi rääkida on täiesti normaalne viis kohta kasutada. Täpselt samamoodi nagu jagada ideed
+ja inspiratsiooni teistega — kui sa seda soovid.
 
-Telefonikõned tööalal peetakse vaikselt ja valjud vestlused liiguvad koosolekuruumi või kööki.
-See on ainus majareegel, mida inimesed päriselt tähele panevad, ja just tänu sellele ruum töötab.
+## Meil on ka hackspace
 
-## Mida ei ole vaja teha
-
-Ei ole vaja kellegi heakskiitu, vestlust, sisseastumistasu ega kogukonna liikmeks saamist. See on
-teenus: maksad ja saad võtme. Siia tööle tulla ja mitte kellegagi rääkida on täiesti normaalne
-viis kohta kasutada.
-
-## Kui soovid ka töökoda
-
-Kõrvalruumis asuvas hackspace'is on laserlõikur, 3D-printerid ja elektroonikalaud. See on eraldi
-pakett, sest tegemist on lärmakama ruumiga ja teiste reeglitega — aga coworkingu ala on selle
-sees.
+Ukse taga on hackspace: laserlõikur, 3D-printerid, jootmis- ja mõõteseadmed — võid kasutada ka
+neid.

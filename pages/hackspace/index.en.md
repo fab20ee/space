@@ -1,43 +1,39 @@
 ---
 title: "Hackspace"
-seoDescription: "Workshop in central Tallinn with a laser cutter, 3D printers and an electronics bench. Open 24/7, consumables included, access via SmartID."
+seoDescription: "A workshop in central Tallinn: laser cutter, 3D printers, soldering stations and measurement gear. Open 24/7, consumables included, access via Smart-ID."
 ---
 
-A workshop where the machines are new, actually work, and are already paid for. Laser cutting,
-3D printing, electronics and hand tools in one room, five minutes from Vabaduse väljak, open at
-any hour.
+A workshop with new equipment five minutes from Vabaduse väljak: laser cutting, 3D printing, all
+kinds of soldering and measurement equipment, hand tools and materials in one room. Open around
+the clock, no interviews — start working five minutes from now.
 
-Access includes the coworking area next door, so the plan covers both a desk to design at and the
-machines to build with.
+Feeling unsure, or don't know where to begin? Write to us, we will arrange a visit and show you
+everything. And of course, join [our Telegram community](https://t.me/fab20chat) and talk to
+people there.
+
+By the way, the coworking room is next door — for when you need a quiet place and a proper desk.
 
 ## What's included
 
-- Use of every machine in the room — no per-machine or per-hour fees
-- Consumables within reason: filament, solder, tape, sheets for test cuts
-- Hand tools, measuring instruments and a soldering bench
+- Any machine in the room — no hourly fees
+- Consumables within reason: filament, solder, electronic components, acrylic sheets and other materials
+- Hand tools, measuring instruments and soldering stations
 - Coffee, tea and snacks, cleaning, fast internet
-- The coworking room next door
+- No fear — don't be afraid of breaking something
 
-Bring your own material for larger jobs. If you need something specific in stock, say so — we buy
-things people actually ask for.
+If something is missing, tell us — we buy things people actually ask for.
+
+## Rent and take home
+
+Some of the equipment can be rented and taken home — arranged just as automatically, on the site.
+Look for the "Rental" mark on the equipment pages.
 
 ## Getting to work
 
-Every machine has its own page with instructions, materials and safety notes; the QR code on the
-machine leads straight there. Dangerous equipment needs a short induction before first use, marked
-on the machine's page — it takes about twenty minutes and once is enough.
+Every machine has its own page with instructions, materials and safety rules — read it carefully!
+Some equipment may require a short induction before first use.
 
-The room is noisy by nature: extraction fans, compressors, machines. That is why it is separate
-from the coworking area, and why the quiet room stays quiet.
+## A place for you
 
-## What we don't ask of you
-
-No approval by existing members, no interview, no joining fee, and no obligation to be part of a
-community. Pay, sign with SmartID, and the door opens. Asking for help is welcome; being social is
-not required.
-
-## Rules that matter
-
-Do not use a machine you have not been inducted on. Do not leave a running job unattended — laser
-and 3D printer alike. Clean up your material, and report anything broken instead of hoping
-somebody else noticed.
+There are no interviews, approvals or joining fees — this is a commercial service. Asking for help
+is welcome and encouraged; being sociable is optional.

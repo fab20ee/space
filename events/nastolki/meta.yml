@@ -13,6 +13,8 @@ zone: coworking
 # Anyone may come; the host lets guests in.
 audience: everyone
 
+cover: images/cover.jpg
+
 host:
   name: "Ведущая"     # TODO: real name
   role: member

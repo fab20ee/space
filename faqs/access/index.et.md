@@ -4,6 +4,9 @@ title: "Ligipääs"
 
 ## Kuidas siseneda ruumidesse?
 
-Ava uks oma liikmealast: https://fab20.ee/Cabinet/Offers
+Astu ukse juurde ja vajuta nuppu oma [kabinetis](/et/cabinet) — uks avaneb.
 
-Ukse kood genereeritakse ukse juures, seega pead koodi kasutamiseks olema ukse ees.
+## Kas tõesti on avatud öösel ja nädalavahetusel?
+
+Jah, 24/7. Kohapeal personali ei ole — ligipääs on täielikult automaatne ja uks avaneb
+telefonist.

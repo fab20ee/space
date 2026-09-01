@@ -17,4 +17,4 @@ koristamine.
 
 Kirjuta aadressile [clients@fab20.ee](mailto:clients@fab20.ee): kes sa oled, mis projekt, kui palju
 aega ja milliseid seadmeid on vaja. Kui lepime kokku, saadame sooduskoodi ja edasi on kõik
-tavapärane: sisselogimine SmartID-ga, paketi valik, kood makse asemel, uks avaneb telefonist.
+tavapärane: sisselogimine Smart-ID-ga, paketi valik, kood makse asemel, uks avaneb telefonist.

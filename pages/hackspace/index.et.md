@@ -1,42 +1,38 @@
 ---
 title: "Hackspace"
-seoDescription: "Töökoda Tallinna kesklinnas: laserlõikur, 3D-printerid ja elektroonikalaud. Avatud 24/7, kulumaterjalid hinnas, ligipääs SmartID-ga."
+seoDescription: "Töökoda Tallinna kesklinnas: laserlõikur, 3D-printerid, jootejaamad ja mõõteseadmed. Avatud 24/7, kulumaterjalid hinnas, ligipääs Smart-ID-ga."
 ---
 
-Töökoda, kus masinad on uued, päriselt töötavad ja juba ostetud. Laserlõikus, 3D-printimine,
-elektroonika ja käsitööriistad ühes ruumis, viis minutit Vabaduse väljakust, avatud ööpäev läbi.
+Uue varustusega töökoda viie minuti kaugusel Vabaduse väljakust: laserlõikus, 3D-printimine,
+mitmesugused joote- ja mõõteseadmed, käsitööriistad ja materjalid ühes ruumis. Avatud ööpäev
+läbi, vestlusi ei ole — alusta tööd viie minuti pärast.
 
-Ligipääs sisaldab ka kõrvalasuvat coworkingu ala, nii et pakett katab nii laua, kus disainida, kui
-masinad, millega ehitada.
+Tundub hirmutav või ei tea, kust alustada? Kirjuta meile, lepime kohtumise kokku ja näitame kõike.
+Ja muidugi liitu [meie Telegrami kogukonnaga](https://t.me/fab20chat) ja suhtle seal.
+
+Muide, kõrval on coworkingu ala — kui vajad vaikset kohta ja korralikku lauda.
 
 ## Mis hinnas sisaldub
 
-- Kõikide ruumis olevate masinate kasutamine — masina- ega tunnipõhiseid tasusid ei ole
-- Kulumaterjalid mõistlikes piirides: filament, tina, teip, lehed prooviks
-- Käsitööriistad, mõõteseadmed ja jootekoht
-- Kohv, tee ja snäkid, koristus, kiire internet
-- Kõrvalruumis asuv coworkingu ala
+- Iga masin ruumis — tunnitasu ei ole
+- Kulumaterjalid mõistlikes piirides: filament, tina, raadiokomponendid, akrüüllehed ja muud materjalid
+- Käsitööriistad, mõõteseadmed ja jootejaamad
+- Kohv, tee ja suupisted, koristus, kiire internet
+- Hirmu pole vaja — ära karda midagi katki teha
 
-Suuremate tööde jaoks võta materjal ise kaasa. Kui vajad midagi kindlat laos, ütle — ostame seda,
-mida inimesed päriselt küsivad.
+Kui midagi on puudu, kirjuta — ostame seda, mida inimesed päriselt küsivad.
+
+## Rendi koju kaasa
+
+Osa seadmeid saab rentida ja koju kaasa võtta — vormistamine käib sama automaatselt, veebis.
+Otsi seadmete lehtedelt märget „Rent".
 
 ## Kuidas tööle asuda
 
-Igal masinal on oma leht juhendite, materjalide ja ohutusnõuetega; masina peal olev QR-kood viib
-otse sinna. Ohtlikud seadmed vajavad enne esimest kasutamist lühikest instruktaaži, mis on masina
-lehel märgitud — see võtab umbes kakskümmend minutit ja ühest korrast piisab.
+Igal masinal on oma leht juhendite, materjalide ja ohutusnõuetega — loe see hoolikalt läbi!
+Osa seadmeid võib enne esimest kasutamist vajada lühikest instruktaaži.
 
-Ruum on oma olemuselt lärmakas: väljatõmbeventilaatorid, kompressorid, masinad. Just seepärast on
-see coworkingu alast eraldi ja just seepärast püsib vaikne ruum vaikne.
+## Koht sinu jaoks
 
-## Mida me sinult ei nõua
-
-Ei ole vaja olemasolevate liikmete heakskiitu, vestlust, sisseastumistasu ega kohustust kuuluda
-kogukonda. Maksad, allkirjastad SmartID-ga ja uks avaneb. Abi küsimine on teretulnud, seltskondlik
-olemine ei ole kohustus.
-
-## Reeglid, mis loevad
-
-Ära kasuta masinat, mille instruktaaži sa pole läbinud. Ära jäta töötavat masinat järelevalveta —
-ei laserit ega 3D-printerit. Koristada oma materjal ära ja teata katkisest asjast, mitte looda, et
-keegi teine märkas.
+Vestlusi, heakskiitu ega liitumistasu ei ole — see on kommertsteenus. Abi küsimine on teretulnud
+ja igati soositud, seltskondlik olemine aga vabatahtlik.

@@ -25,5 +25,12 @@ photos:
 # Cards shown in the equipment teaser, by English slug, in this order.
 featuredEquipment:
   - co2-laser-cutter-100w
-  - 3d-printer-anycubic-kobra-3-combo
-  - oscilloscope-micsig-to3004
+  - 3d-printer-anycubic-kobra-3-max-combo
+  - spectrum-analyzer-rigol-rsa3030n
+
+# Same idea for the coworking card: the three things people actually pick the room for.
+# The captions come from `coworking.labels` in the localized frontmatter, not from the card titles.
+featuredCoworking:
+  - sit-stand-desks
+  - hp-24-monitors
+  - dr-coffee-machine

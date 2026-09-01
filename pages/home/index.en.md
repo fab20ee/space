@@ -1,12 +1,12 @@
 ---
 title: "FAB20 — coworking and a workshop in Tallinn"
-seoDescription: "A quiet coworking room and a fully equipped workshop in central Tallinn. Open around the clock, access via SmartID in five minutes, no membership or interviews."
+seoDescription: "A quiet coworking room and a fully equipped workshop in central Tallinn. Open around the clock, access via Smart-ID in five minutes, no membership or interviews."
 
 hero:
   title: "Coworking and a workshop in central Tallinn. Open 24/7."
   text: >
-    A desk and the tools — access in five minutes through SmartID. No manager, no interview,
-    no membership fees.
+    Sign the agreement with Smart-ID, pay by card and open the door from your phone.
+    Registration and payment take about five minutes — then get to work, or to your hobby!
   facts:
     - "Pärnu mnt 30"
     - "Around the clock"
@@ -15,17 +15,18 @@ hero:
   secondary: "How it works"
 
 zones:
-  heading: "Two rooms, a wall between them"
+  heading: "Two rooms, side by side, out of each other's way"
   text: >
     The coworking room and the hackspace are separate rooms. Machine noise stays with the
-    machines, and the coworking side stays quiet enough to concentrate.
+    machines, and the coworking side is for concentrating, working and watching Tallinn
+    outside the window.
   cards:
     - zone: coworking
       badge: "Coworking"
       title: "A quiet place to work"
       text: >
-        Desks, proper chairs, fast internet, a meeting room for calls, unlimited coffee and
-        tea. Come for a day or for a month.
+        Sit-stand desks, monitors, fast internet, unlimited coffee and tea. Come for a day,
+        or work here for months.
       bullets:
         - "Quiet — there is no equipment in this room"
         - "Coffee, tea, snacks and cleaning included"
@@ -35,8 +36,8 @@ zones:
       badge: "Hackspace"
       title: "A workshop for what you can't do at home"
       text: >
-        Laser cutter, 3D printers, a soldering station, measurement gear and hand tools. All
-        of it new and bought for the workshop — not whatever someone brought from home.
+        Laser cutter, 3D printers, soldering stations, measurement gear and hand tools. All
+        of it new and bought for the workshop. Missing something? Tell us and we will buy it.
       bullets:
         - "Consumables — filament, solder — included within reason"
         - "The hackspace plan includes the coworking room"
@@ -45,14 +46,20 @@ zones:
 
 howItWorks:
   heading: "How to get access"
-  text: "Everything happens online, at any hour — like ordering a taxi."
+  text: "The coworking runs itself, so everything is done online. No interviews and no approvals — it is a commercial service."
   steps:
-    - title: "Sign in with SmartID"
-      text: "Enter PIN1 and the account exists. The agreement is signed once, with the same SmartID. No SmartID? Sign in by email."
+    - title: "Sign in with Smart-ID"
+      text: "Enter PIN1 and the account exists. The agreement is signed once, with the same Smart-ID. No Smart-ID? Sign in by email."
     - title: "Pick a plan"
       text: "A day, a week or a month. Pay by card through Stripe, or enter a promo code."
-    - title: "Open the door with a QR code"
-      text: "Walk up to the door, scan the code with your phone — the door opens."
+    - title: "Open the door from your phone"
+      text: "Walk up to the door and press the button on the site — the door opens."
+
+coworking:
+  heading: "What makes the coworking good"
+  labels:
+    hp-24-monitors: "Monitors included in the price"
+    dr-coffee-machine: "Good coffee — as much as you like"
 
 equipment:
   heading: "What's in the workshop"
@@ -62,22 +69,25 @@ equipment:
 pricing:
   heading: "Plans"
   text: >
-    One price, everything inside: VAT, consumables, coffee, cleaning. No "membership" and no
-    per-machine fees. You can top up days while a plan is active.
+    The price already includes VAT, consumables, coffee and cleaning. There is no separate
+    charge for the machines and no joining fee. You pay for days, and the more days you buy,
+    the cheaper they get. Invoicing a company works too. We don't take crypto yet, but we
+    are planning to.
   extras:
-    - title: "Free access"
-      text: "Have a project but no budget? Write to us — sometimes we give access for free."
+    - title: "Ouch, pricey"
+      text: "An interesting project but no budget? Write to us — we'll give a discount or free access."
       page: free-access
-    - title: "Give access as a gift"
+    - title: "Gift access to someone close"
       text: "A certificate for a day, a week or a month — in the RainWalker store."
       page: gift
 
 photos:
   heading: "Photos"
-  text: "The coworking room and the workshop as they are — no stock pictures."
+  text: "The coworking room and the workshop as they are."
 
 events:
   heading: "Upcoming events"
+  text: "You can host your own event here or run a regular club — write to us."
   linkLabel: "All events"
 
 projects:
@@ -90,7 +100,7 @@ faq:
   items:
     - question: "Do I need a membership or an interview?"
       answer: >
-        No. This is a commercial service: sign in with SmartID, pay for a plan, and the door
+        No. This is a commercial service: sign in with Smart-ID, pay for a plan, and the door
         opens. There is nobody you need to arrange anything with.
     - question: "Can I come for a single day?"
       answer: >
@@ -100,10 +110,10 @@ faq:
       answer: >
         Yes, 24/7. There is no staff on site — access is fully automatic and the door opens
         from your phone.
-    - question: "I don't have SmartID. What now?"
+    - question: "I don't have Smart-ID. What now?"
       answer: >
-        Sign in by email: write to us, we create the account, and you get a sign-in link.
-        Everything else works the same way.
+        Not a problem. [Sign up](/en/login) with your e-mail; we will sign the agreement
+        remotely or meet you at the hackspace.
     - question: "Is the coworking room noisy because of the machines?"
       answer: >
         No. The hackspace is a separate room behind a wall; everything loud and dusty happens
@@ -123,6 +133,6 @@ location:
   text: >
     City centre, ground floor. Trams 1–5 and most buses stop at "Kosmos" and "Vabaduse
     väljak". Parking: the "Südalinn" zone (Süda 1) or the Finest car park (Pärnu mnt 22).
-  mapUrl: "https://www.google.com/maps/search/?api=1&query=P%C3%A4rnu+mnt+30%2C+Tallinn"
+  mapUrl: "https://maps.app.goo.gl/Nawp5SP6Uwaxkz7J6"
   mapLabel: "Open in maps"
 ---
