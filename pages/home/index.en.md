@@ -10,7 +10,7 @@ hero:
   facts:
     - "Pärnu mnt 30"
     - "Around the clock"
-    - "from €19 a day"
+    - "from €5 a day"
   cta: "Get access"
   secondary: "How it works"
 
