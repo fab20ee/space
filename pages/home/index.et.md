@@ -10,7 +10,7 @@ hero:
   facts:
     - "Pärnu mnt 30"
     - "Ööpäev läbi"
-    - "alates 19 € päevas"
+    - "alates 5 € päevas"
   cta: "Hangi ligipääs"
   secondary: "Kuidas see käib"
 
