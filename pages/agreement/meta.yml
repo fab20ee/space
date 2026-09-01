@@ -1,0 +1,14 @@
+# The client agreement. The signed artefact is Agreements/membership-v2.html in the web
+# repository — THAT file is what gets signed, byte for byte. This page is its public copy:
+# the Estonian text is authoritative, the Russian and English pages are reference translations.
+# When the agreement text changes, update both places and bump `version` here.
+slug:
+  en: membership-agreement
+  et: liikmeleping
+  ru: dogovor
+
+status: published
+order: 25
+
+version: "2"
+updatedAt: 2026-09-01
