@@ -1,3 +1,4 @@
+# A short digest of the agreement — the agreement itself is the binding text (pages/agreement).
 slug:
   en: rules
   et: reeglid
@@ -5,6 +6,5 @@ slug:
 
 status: published
 order: 30
-fallbackLang: et
 
-# TODO: Estonian and Russian translations needed.
+updatedAt: 2026-09-01
