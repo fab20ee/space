@@ -8,3 +8,10 @@ slug:
 status: draft          # TODO: switch to active once the terms are confirmed
 layout: events-hosting
 order: 50
+
+# The lounge and the folding-chair stock — what the room offers an event host.
+cover: images/cover.jpg
+gallery:
+  - images/cover.jpg
+  - images/gallery-01.jpg
+  - images/gallery-02.jpg
