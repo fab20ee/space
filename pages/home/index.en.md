@@ -114,7 +114,7 @@ faq:
         budget for a plan. Write to clients@fab20.ee about what you are making. [More](/en/free-access).
     - question: "Can I give access as a gift?"
       answer: >
-        Yes. A certificate for a day, a week or a month is sold in the [RainWalker store](https://store.rainwalker.ee);
+        Yes. A certificate for a day, a week or a month is sold in the [RainWalker store](https://store.rainwalker.ee/products/fab20-gift-card);
         the recipient enters the code instead of paying.
 
 location:

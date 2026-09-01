@@ -9,7 +9,7 @@ valimisel makse asemel.
 
 ## Kuidas see käib
 
-1. Osta kinkekaart [RainWalkeri poest](https://store.rainwalker.ee) — kood tuleb e-postiga.
+1. Osta kinkekaart [RainWalkeri poest](https://store.rainwalker.ee/products/fab20-gift-card) — kood tuleb e-postiga.
 2. Anna kood saajale.
 3. Saaja logib sisse SmartID-ga, valib paketi ja sisestab koodi makse asemel. Uks avaneb
    telefonist.

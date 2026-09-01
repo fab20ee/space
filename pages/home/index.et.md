@@ -114,7 +114,7 @@ faq:
         jaoks. Kirjuta aadressile clients@fab20.ee, mida teed. [Loe lisaks](/et/tasuta-ligipaas).
     - question: "Kas ligipääsu saab kinkida?"
       answer: >
-        Jah. Kinkekaart päevaks, nädalaks või kuuks on müügil [RainWalkeri poes](https://store.rainwalker.ee);
+        Jah. Kinkekaart päevaks, nädalaks või kuuks on müügil [RainWalkeri poes](https://store.rainwalker.ee/products/fab20-gift-card);
         saaja sisestab koodi makse asemel.
 
 location:

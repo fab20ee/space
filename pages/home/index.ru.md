@@ -114,7 +114,7 @@ faq:
         нет. Напишите на clients@fab20.ee, что делаете. [Подробнее](/ru/besplatnyy-dostup).
     - question: "Можно ли подарить доступ?"
       answer: >
-        Да. Сертификат на день, неделю или месяц продаётся в [магазине RainWalker](https://store.rainwalker.ee);
+        Да. Сертификат на день, неделю или месяц продаётся в [магазине RainWalker](https://store.rainwalker.ee/products/fab20-gift-card);
         получатель вводит код вместо оплаты.
 
 location:
