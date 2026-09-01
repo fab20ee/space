@@ -7,8 +7,8 @@ We at Fab20 are committed to protecting the privacy and security of your persona
 process or control. This Privacy Policy gives you an overview of how we collect and use
 information when you use any of the services located on our website at www.fab20.ee (the
 "Website") or if you use any other services (the "Services") that we provide to you or when we
-collect your personal information on our website www.fab20.ee or Facebook page
-https://www.facebook.com/fab20hackspace or on our Members Portal at https://inside.fab20.ee.
+collect your personal information on our website www.fab20.ee, on our Facebook page
+https://www.facebook.com/fab20hackspace, or in the member cabinet on fab20.ee.
 
 By using or interacting with the Website or our Services, you, as a user of our website,
 Facebook page, Instagram page or as our client, ("User", "Client" or "you") agree to the
@@ -48,6 +48,17 @@ individually identify you as a natural person.
 **c) Marketing materials, offers, bookings.** We may use the information that you have provided
 (name, your e-mail address) to send you information regarding your bookings or any offers and
 marketing materials that are related to our Services.
+
+**d) Account, agreement and access.** When you create an account and sign the membership
+agreement, we process your name, personal identification code (from the certificate of your
+qualified electronic signature), e-mail address, payment records and the signed agreement
+container. When you use the space, door openings are logged against your account. We keep this
+data for as long as the agreement and accounting legislation require.
+
+**e) Video surveillance.** The FAB20 premises are under video surveillance with recording, for
+the safety of clients and property (our legitimate interest). Recordings may be used to
+establish the circumstances of incidents and violations. They are stored for a limited period
+and then overwritten, and are not disclosed to anyone except where the law requires it.
 
 ## 3. The legal basis for processing your Personal Data
 
@@ -104,7 +115,7 @@ in mind that the latter can only be done if that is technically feasible.
 you have the right to withdraw your consent to such processing at any time.
 
 **g) Opt-out from marketing.** We will also give you the opportunity to opt out of our
-communication with you whenever we send you information about the Firm, the events that we
+communication with you whenever we send you information about FAB20, the events that we
 organize or any other information that we believe may be of interest to you. Additionally, you
 can also opt out at any time by contacting us.
 
