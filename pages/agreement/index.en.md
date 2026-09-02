@@ -42,9 +42,8 @@ under the Agreement are not transferable to others.
 2.4. The Agreement is concluded for an indefinite term. Having or not having Access Days does
 not terminate the Agreement: a Client without paid days simply has no access to the Space.
 
-2.5. Purchases of Access Days and other services happen within the Agreement and require no
-separate contracts. The exception is renting equipment to take outside the Space: each rental
-is arranged by a separate contract.
+2.5. Access Days, equipment rental and other services are bought under this Agreement and require no
+separate contracts.
 
 2.6. The Privacy Policy is an integral part of the Agreement and applies in its current
 version. The Operator notifies of material changes through the Cabinet or by e-mail.
@@ -141,7 +140,7 @@ working and informs the Operator. Repairing or modifying the equipment yourself 
   use narcotic substances;
 - be under the influence of alcohol or drugs;
 - take the Operator's equipment, furniture, materials or other items out of the Space — except
-  equipment rented under a separate contract;
+  equipment rented through the Cabinet (clauses 5.11–5.15);
 - use the address of the Space as a legal or postal address without the Operator's written
   consent;
 - use the Space's internet connection for unlawful activities.
@@ -158,6 +157,28 @@ systematic excessive use, the Operator may restrict the use or offer separate te
 
 5.10. The Client places their own large or stationary equipment in the Space only as agreed
 with the Operator (clients@fab20.ee).
+
+5.11. **Equipment rental.** Equipment marked on fab20.ee as available for rent may be taken out of
+the Space for the period the Client chooses when ordering on the equipment page or in the Cabinet.
+The rental is paid in advance at the price shown on the equipment page (VAT included) and is
+concluded under this Agreement, with no separate contract.
+
+5.12. The rental period starts on the day of payment; the equipment must be back in the Space by the
+end of the last day of the period. To pick up and return the equipment, the door of the Space opens
+for the Client even without active Access Days; in that case the Client takes or returns the
+equipment and leaves — working in the Space without Access Days is not allowed.
+
+5.13. The Client marks the pick-up and the return in the Cabinet. The equipment is returned in the
+condition and completeness it was received in, normal wear excepted.
+
+5.14. For loss, damage or non-return of rented equipment the Client is liable under section 6: the
+Operator may claim the cost of repair or replacement and, for a late return, the rental fee for
+every day of delay at the same rate. No deposit is taken.
+
+5.15. A paid rental that has not started (the equipment has not been picked up) may be cancelled by
+writing to clients@fab20.ee before the end of the first day of the period, with a full refund.
+Picking up the equipment starts the service with the Client's consent, and the fee is no longer
+refundable.
 
 ## 6. Liability and safety
 

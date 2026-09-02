@@ -11,13 +11,16 @@ zone: hackspace
 cover: images/cover.jpg
 gallery: []
 
-rental:
-  enabled: false
+rental:                # the first rental trial (docs/redesign/14): cheap, portable, not missed
+  enabled: true
+  dailyRate: 5.00
+  deposit: 0.00
 
 induction:
   required: false
 
 # serial: "..."        # TODO: copy from the nameplate
+code: P01              # sticker code; the QR on the sticker points at fab20.ee/p/P01
 
 externalLinks: []      # TODO: link the factory manual once it is uploaded to fab20ee/docs
 

@@ -41,9 +41,8 @@ teistele isikutele üleantavad.
 2.4. Leping on tähtajatu. Pääsupäevade olemasolu või puudumine ei lõpeta Lepingut: ilma ostetud
 päevadeta Kliendil lihtsalt puudub juurdepääs Ruumidesse.
 
-2.5. Pääsupäevade ja muude teenuste ostmine toimub Lepingu raames ega nõua eraldi lepinguid.
-Erandiks on seadmete rentimine väljapoole Ruume: see vormistatakse iga rendi kohta eraldi
-lepinguga.
+2.5. Pääsupäevade ostmine, seadmete rent ja muud teenused toimuvad Lepingu raames ega nõua eraldi
+lepinguid.
 
 2.6. Privaatsuspoliitika on Lepingu lahutamatu osa ja seda kohaldatakse kehtivas redaktsioonis.
 Olulistest muudatustest teavitab Operaator Kabineti kaudu või e-posti teel.
@@ -137,7 +136,7 @@ teatab sellest Operaatorile. Seadmeid ei tohi ise remontida ega ümber ehitada.
   tarvitada narkootilisi aineid;
 - viibida alkoholi- või narkojoobes;
 - viia Ruumidest välja Operaatori seadmeid, mööblit, materjale ja muid esemeid — välja arvatud
-  eraldi lepingu alusel renditud seadmed;
+  Kabineti kaudu renditud seadmed (punktid 5.11–5.15);
 - kasutada Ruumide aadressi juriidilise või postiaadressina ilma Operaatori kirjaliku
   nõusolekuta;
 - kasutada Ruumide internetiühendust õigusvastasteks tegevusteks.
@@ -155,6 +154,28 @@ eritingimusi.
 
 5.10. Oma suuri või statsionaarseid seadmeid paigutab Klient Ruumidesse ainult Operaatoriga
 kooskõlastatult (clients@fab20.ee).
+
+5.11. **Seadmete rent.** Seadmeid, mis on veebilehel fab20.ee märgitud renditavaks, võib Klient viia
+Ruumidest välja tähtajaks, mille ta valib tellimisel seadme lehel või Kabinetis. Rendi eest
+tasutakse ette seadme lehel näidatud hinnaga (hind sisaldab käibemaksu); rent vormistatakse Lepingu
+raames ilma eraldi lepinguta.
+
+5.12. Renditähtaeg algab tasumise päevast; seade tuuakse Ruumidesse tagasi hiljemalt tähtaja viimase
+päeva lõpuks. Seadme kättesaamiseks ja tagastamiseks avatakse Kliendile Ruumide uks ka ilma
+aktiivsete Pääsupäevadeta; sel juhul Klient võtab või tagastab seadme ja lahkub Ruumidest — ilma
+Pääsupäevadeta Ruumides töötada ei tohi.
+
+5.13. Klient märgib seadme kättesaamise ja tagastamise Kabinetis. Seade tagastatakse samas
+seisukorras ja komplektsuses, milles see kätte saadi, arvestades tavapärast kulumist.
+
+5.14. Renditud seadme kaotsimineku, kahjustamise või tagastamata jätmise eest vastutab Klient punkti
+6 kohaselt: Operaatoril on õigus nõuda remondi või asendamise maksumust, tagastamisega hilinemisel
+aga renditasu iga hilinetud päeva eest sama hinnaga. Tagatisraha ei võeta.
+
+5.15. Tasutud, kuid alustamata rendi (seade on kätte saamata) võib Klient tühistada pöördumisega
+aadressile clients@fab20.ee tähtaja esimese päeva lõpuni — tasutud summa tagastatakse täies
+ulatuses. Seadme kättesaamisega algab teenuse osutamine Kliendi nõusolekul ja renditasu enam ei
+tagastata.
 
 ## 6. Vastutus ja ohutus
 

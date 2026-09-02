@@ -1,0 +1,15 @@
+# The rental landing (docs/redesign/14 in the web repository). `layout: rental` makes the site
+# render this page's text and then every tool whose own meta.yml has `rental.enabled: true`,
+# with live availability from the database. The page gets an entry in the top menu.
+slug:
+  en: equipment-rental
+  et: seadmete-rent
+  ru: arenda
+
+status: published
+order: 5
+
+layout: rental
+
+# cover: images/cover.jpg   # TODO: a photo of a tool leaving the space; without it the hero is text only
+updatedAt: 2026-09-02

@@ -118,6 +118,8 @@ induction:
   required: true      # a safety briefing is required before first use
 
 serial: "1060-100W-2024-01"        # serial number, used in rental agreements
+code: P12             # sticker code (1–8 letters/digits, unique); the sticker's QR opens fab20.ee/p/P12
+                      # A page with `layout: rental` (pages/rental) lists every tool with rental.enabled: true
 
 externalLinks:
   - { type: manual,  label: "Factory manual", url: "https://github.com/fab20ee/docs/raw/main/100W%201060%20CO2%20laser.pdf" }
