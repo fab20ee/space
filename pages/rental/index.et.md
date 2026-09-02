@@ -1,5 +1,6 @@
 ---
 title: "Seadmete rent"
+seoTitle: "Seadmete ja tööriistade rent Tallinnas"
 seoDescription: "Mõõteseadmete ja tööriistade rent Tallinnas: maksa kaardiga, tagatisrahata, tule FAB20-sse järele ükskõik mis kell. Hind päeva kohta, tähtaeg alates ühest päevast."
 ---
 

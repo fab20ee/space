@@ -1,5 +1,6 @@
 ---
 title: "Hackspace"
+seoTitle: "Hackspace Tallinnas: laser, 3D-print, elektroonika 24/7"
 seoDescription: "Töökoda Tallinna kesklinnas: laserlõikur, 3D-printerid, jootejaamad ja mõõteseadmed. Avatud 24/7, kulumaterjalid hinnas, ligipääs Smart-ID-ga."
 ---
 

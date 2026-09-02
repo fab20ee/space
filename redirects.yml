@@ -1,10 +1,52 @@
-# 301 redirects for renamed slugs.
+# 301 redirects for renamed slugs and for the URLs of the old site (before 2026-09).
 # Add an entry here whenever you rename a slug so the old URL keeps working
-# and SEO is preserved.
+# and SEO is preserved. Matching is exact and case-insensitive; the query string is kept.
 #
-# Example:
-# redirects:
-#   - from: /en/equipment/old-name
-#     to:   /en/equipment/new-name
+# The old site (ASP.NET, /{lang}/PageName) had one <title> for every page and no real sitemap,
+# so little ranking is at stake — these exist so bookmarks, QR codes and old links keep working.
 
-redirects: []
+redirects:
+  # Language-less legacy paths go to the Estonian version (the site default).
+  - { from: /plans,   to: "/et#pricing" }
+  - { from: /privacy, to: /et/privaatsus }
+  - { from: /rules,   to: /et/reeglid }
+  - { from: /AboutEquipment, to: /et/hackspace }
+  - { from: /Auth/SignIn,        to: /et/login }
+  - { from: /Auth/SignInByEmail, to: /et/login }
+
+  # et
+  - { from: /et/AboutEquipment, to: /et/hackspace }
+  - { from: /et/Equipments/1, to: /et/hackspace }
+  - { from: /et/AboutServices, to: /et/teenused }
+  - { from: /et/Contact, to: /et/kontakt }
+  - { from: /et/CookiePolicy, to: /et/kupsised }
+  - { from: /et/PrivacyPolicy, to: /et/privaatsus }
+  - { from: /et/Rules, to: /et/reeglid }
+  - { from: /et/ServiceAgreement, to: /et/liikmeleping }
+  - { from: /et/EndorsementProgram, to: /et/tasuta-ligipaas }
+  - { from: /et/Faqs, to: /et/kkk }
+  - { from: /et/Cabinet/Feedbacks, to: /et/cabinet }
+
+  # en
+  - { from: /en/AboutEquipment, to: /en/hackspace }
+  - { from: /en/Equipments/1, to: /en/hackspace }
+  - { from: /en/AboutServices, to: /en/services }
+  - { from: /en/CookiePolicy, to: /en/cookies }
+  - { from: /en/PrivacyPolicy, to: /en/privacy }
+  - { from: /en/ServiceAgreement, to: /en/membership-agreement }
+  - { from: /en/EndorsementProgram, to: /en/free-access }
+  - { from: /en/Faqs, to: /en/faq }
+  - { from: /en/Cabinet/Feedbacks, to: /en/cabinet }
+
+  # ru
+  - { from: /ru/AboutEquipment, to: /ru/hackspace }
+  - { from: /ru/Equipments/1, to: /ru/hackspace }
+  - { from: /ru/AboutServices, to: /ru/uslugi }
+  - { from: /ru/Contact, to: /ru/kontakty }
+  - { from: /ru/CookiePolicy, to: /ru/cookies }
+  - { from: /ru/PrivacyPolicy, to: /ru/privacy }
+  - { from: /ru/Rules, to: /ru/pravila }
+  - { from: /ru/ServiceAgreement, to: /ru/dogovor }
+  - { from: /ru/EndorsementProgram, to: /ru/besplatnyy-dostup }
+  - { from: /ru/Faqs, to: /ru/faq }
+  - { from: /ru/Cabinet/Feedbacks, to: /ru/cabinet }

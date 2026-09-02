@@ -1,5 +1,6 @@
 ---
 title: "Equipment rental"
+seoTitle: "Tool and instrument rental in Tallinn"
 seoDescription: "Rent measurement instruments and tools in Tallinn: pay by card, no deposit, pick up at FAB20 at any hour. Priced per day, from a single day."
 ---
 

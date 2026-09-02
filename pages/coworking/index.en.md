@@ -1,5 +1,6 @@
 ---
 title: "Coworking"
+seoTitle: "Coworking in Tallinn 24/7, pay by the day"
 seoDescription: "Quiet coworking in central Tallinn, open 24/7. Sit-stand desks, monitors, unlimited coffee and a separate workshop next door. Access via Smart-ID."
 ---
 

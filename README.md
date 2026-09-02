@@ -310,6 +310,10 @@ Notes:
   heading. Start with text, and use `## H2` for sections.
 - `seoDescription` is what shows up in search results. Aim for 140–160 characters, mention the
   city, and write it for a human.
+- `seoTitle` (optional) replaces `title` in the browser tab and in search results only; the page
+  heading stays `title`. Use it where the heading is short but people search for more words:
+  "Hackspace in Tallinn: laser, 3D printing, electronics 24/7". Up to ~55 characters — the site
+  name is appended.
 - `specs` is optional but recommended for equipment: it renders as a consistent table across
   all tools and feeds structured data to search engines. Labels are translated, so they live
   here rather than in `meta.yml`.

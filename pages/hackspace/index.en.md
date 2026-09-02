@@ -1,5 +1,6 @@
 ---
 title: "Hackspace"
+seoTitle: "Hackspace in Tallinn: laser, 3D printing, electronics 24/7"
 seoDescription: "A workshop in central Tallinn: laser cutter, 3D printers, soldering stations and measurement gear. Open 24/7, consumables included, access via Smart-ID."
 ---
 

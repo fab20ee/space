@@ -1,5 +1,6 @@
 ---
 title: "Coworking"
+seoTitle: "Coworking Tallinnas 24/7, maksa päevade kaupa"
 seoDescription: "Vaikne coworking Tallinna kesklinnas, avatud 24/7. Elektrilise kõrgusega töölauad, monitorid, kohv ja töökoda kõrvaltoas. Ligipääs Smart-ID-ga."
 ---
 
