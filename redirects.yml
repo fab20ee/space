@@ -16,6 +16,7 @@ redirects:
 
   # et
   - { from: /et/AboutEquipment, to: /et/hackspace }
+  - { from: /et/Equipments, to: /et/hackspace }
   - { from: /et/Equipments/1, to: /et/hackspace }
   - { from: /et/AboutServices, to: /et/teenused }
   - { from: /et/Contact, to: /et/kontakt }
@@ -29,6 +30,7 @@ redirects:
 
   # en
   - { from: /en/AboutEquipment, to: /en/hackspace }
+  - { from: /en/Equipments, to: /en/hackspace }
   - { from: /en/Equipments/1, to: /en/hackspace }
   - { from: /en/AboutServices, to: /en/services }
   - { from: /en/CookiePolicy, to: /en/cookies }
@@ -40,6 +42,7 @@ redirects:
 
   # ru
   - { from: /ru/AboutEquipment, to: /ru/hackspace }
+  - { from: /ru/Equipments, to: /ru/hackspace }
   - { from: /ru/Equipments/1, to: /ru/hackspace }
   - { from: /ru/AboutServices, to: /ru/uslugi }
   - { from: /ru/Contact, to: /ru/kontakty }
