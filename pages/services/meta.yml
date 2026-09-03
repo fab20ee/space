@@ -5,3 +5,7 @@ slug:
 
 status: published
 order: 10
+
+# Not a document: keeps the page out of the footer list (any layout value does), rendered as a plain page.
+# The page stays reachable by URL and from the old-site redirects.
+layout: offer
