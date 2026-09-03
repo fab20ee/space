@@ -1,44 +1,29 @@
 ---
-title: "Guillotine Paper Cutter A3"
-seoDescription: "Lever guillotine paper cutter for A3 in the FAB20 coworking room in Tallinn. Straight, clean cuts through a stack of paper, card or laminated sheets with a printed grid and rulers."
+title: "A3 Guillotine Paper Cutter"
+seoDescription: "A3 guillotine paper cutter with a clamp at the FAB20 coworking in Tallinn: trim a stack of sheets, laminated pages, business cards and photos straight. Access 24/7."
 specs:
-  - { label: "Type",        value: "lever guillotine with clamp" }
-  - { label: "Cut length",  value: "A3 long edge, 430 mm" }
-  - { label: "Capacity",    value: "approx. 10–12 sheets of 80 g paper" }
-  - { label: "Guides",      value: "printed grid, metric rulers, adjustable fence" }
+  - { label: "Type",        value: "guillotine, with a clamp bar" }
+  - { label: "Size",        value: "A3 along the long edge" }
+  - { label: "Stack",       value: "about 10 sheets of office paper" }
+  - { label: "Marking",     value: "grid and rulers on the base, angled stop" }
 ---
 
-<!-- TODO: confirm brand, cut length and sheet capacity on the base plate. -->
-
-A guillotine cutter is how you get a truly straight edge. Scissors wander and a craft knife needs
-a steady hand; here you line the paper up on the grid, hold it down, and bring the blade down
-once. It cuts a small stack in one stroke, so trimming twenty flyers to size takes a minute.
-
-It is the natural partner of the printers and the laminator: print, laminate, trim the margins.
-
-## What it is good for
-
-- Trimming printed sheets, flyers and business cards to size
-- Cutting the margins off laminated signs
-- Card and thin cardboard for templates, mock-ups and packaging
-- Cutting photo paper and labels straight
-
-## Safety
-
-- The blade is sharp along its whole length and the handle is a lever — keep your fingers on
-  the clamp, never under the blade or near the cutting line.
-- Lower the blade after every cut and leave it down. Do not leave it standing up.
-- One person at a time at the cutter. Do not hold the paper for somebody else.
-- Only paper, card and laminate. No plastic sheet, metal or wood — that is what the laser is for.
+Cuts a stack of sheets straight in one stroke: trimming margins after the laminator, cutting
+business cards or stickers, sizing a photo for a frame. Stands next to the laminator and the
+printers.
 
 ## How to use
 
-1. Lift the blade all the way up.
-2. Lay the sheets flat on the base, aligned against the back fence and the grid, and press
-   them down with the clamp bar.
-3. Bring the handle down in one smooth motion with the other hand well clear.
-4. Leave the blade down, take out your cut pieces, and put the offcuts in the paper bin.
+1. Line the stack up against the stop and the ruler on the base, hold it down with the clamp bar.
+2. Bring the blade down in one even stroke, fingers behind the clamp.
+3. Cut more than ten sheets in two passes, or the bottom sheets drift.
+4. Offcuts into the bin, blade down to its lowest position.
+
+## Take care
+
+- The blade is sharp and stays open after a cut until it is lowered fully. Always lower it.
+- Keep your fingers behind the clamp bar, never under the blade.
 
 ## Access
 
-The cutter is in the coworking room and is included in every plan.
+In the coworking room, available with any plan.

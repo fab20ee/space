@@ -1,53 +1,45 @@
 ---
-title: "Desoldering Station ZD-8915"
-seoDescription: "Vacuum desoldering station at the Tallinn hackspace. ZD-8915 with a heated suction gun removes through-hole components cleanly without damaging the board."
+title: "ZD-8915 Desoldering Station"
+seoDescription: "Vacuum desoldering station at the Tallinn hackspace: ZD-8915, 90 W, 160–480 °C, a heated tip with a pump lifts through-hole parts without tearing pads. Access 24/7."
 specs:
-  - { label: "Type",         value: "vacuum desoldering gun with built-in pump" }
-  - { label: "Temperature",  value: "160–480 °C, digital control" }
-  - { label: "Tips",         value: "interchangeable suction tips, several diameters" }
-  - { label: "Display",      value: "LCD with set and actual temperature" }
+  - { label: "Type",        value: "vacuum desoldering gun with a built-in pump" }
+  - { label: "Heater",      value: "90 W, 160–480 °C" }
+  - { label: "Vacuum",      value: "up to 600 mm Hg" }
+  - { label: "Tip",         value: "one, hollow, with a temperature sensor" }
+  - { label: "Display",     value: "set and actual temperature" }
 ---
 
-<!-- TODO: verify against the actual station — heater power, which tip diameters are on the
-     bench, condition of the filters. -->
+A tool for taking through-hole components out of a board without damaging either the part or the
+board. The gun has a hollow heated tip and a vacuum pump: the tip goes over the lead, the solder
+melts, a press of the button sucks it inside and the hole is left empty. With an iron and a spring
+solder sucker the same job takes ten times longer and often ends with a torn pad.
 
-A desoldering station does one thing well: it melts a solder joint and sucks the solder out in
-the same motion. The gun has a heated hollow tip and a vacuum pump behind it — press the trigger
-and the joint is empty. Removing a 40-pin connector this way takes a minute and leaves the pads
-and the component intact; doing it with a plain iron and a spring pump takes much longer and
-often lifts a pad.
-
-It is the tool for salvaging parts from old boards, replacing through-hole components, and
-cleaning holes before fitting a new part.
-
-## What it is good for
-
-- Removing multi-pin connectors, IC sockets and DIP chips in one piece
-- Replacing electrolytic capacitors and other through-hole parts on repairs
-- Clearing plated-through holes of old solder
-- Salvaging usable components from scrap boards
-
-## Safety
-
-- The tip is at 350 °C or more and the sucked-up solder inside the gun is hot too. Do not touch
-  the tip or the collection chamber until it has cooled.
-- Put the gun back in its stand every time. Never on the table.
-- The pump exhaust carries flux fumes — use the fume extractor or open a window.
-- Do not press the tip hard against the pad: heat, wait for the solder to melt, then trigger.
+What it is for in practice: lifting a 40-pin connector or a DIP chip whole in a minute, replacing
+the bulging electrolytic capacitors in an old power supply, salvaging working parts from a scrapped
+board, clearing holes before fitting a new part.
 
 ## How to use
 
-1. Switch on and set around 350–380 °C for lead-free solder; a little higher than for
-   soldering, because the tip has to melt the joint through the hollow.
-2. Pick a tip whose hole is slightly larger than the component lead.
-3. Place the tip over the lead, wait two or three seconds for the solder to melt fully, wiggle
-   the lead gently so it frees up, and pull the trigger.
-4. Move to the next lead. If a joint does not empty, add fresh solder to it first and try again.
-5. When done, run the pump for a few seconds with the tip in the air to clear it, clean the tip,
-   empty the collection chamber if it is full, and switch off.
+1. Switch on, set 350–380 °C for lead-free solder. That is a little above soldering temperature:
+   the tip heats the joint through its bore.
+2. Put the tip over the lead, wait two or three seconds until the solder has melted completely,
+   wiggle the lead slightly and press the button.
+3. If the hole did not clear, add fresh solder to it and try again: old oxidised solder melts
+   poorly.
+4. When done, run the pump for a few seconds with the tip in the air to blow it through, then
+   switch the station off.
+
+We empty the solder chamber and clean the filter from time to time. If the chamber is full and
+you need to work, you can empty it yourself: it unscrews from the gun, the solder inside has set
+into chips.
+
+## Take care
+
+- The tip and the solder chamber are hot. The gun goes into its holder only.
+- Do not press the tip onto the pad. Melt first, then press the button.
+- The pump exhaust carries flux fumes; open a window.
 
 ## Access
 
-The station is on the electronics bench in the hackspace room, so a plan that includes hackspace
-access is required. No induction is needed, but ask someone to show you how to empty the
-solder chamber the first time.
+The station is on the electronics bench in the hackspace room, so a plan with hackspace access is
+required. No induction is needed. The station stays in the room; it is not for rent.

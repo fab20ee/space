@@ -1,55 +1,45 @@
 ---
-title: "Joote- ja kuumaõhujaam ATTEN ST-8802"
-seoDescription: "Temperatuurikontrolliga jootekolb ja kuumaõhupüstol ühes jaamas Tallinna hackspace'is. ATTEN ST-8802 SMD-tööks, läbiviikjootmiseks ja termokahanevate torude jaoks."
+title: "Jootejaam kuumaõhupüstoliga ATTEN ST-8802"
+seoDescription: "Jootejaam kuumaõhuga Tallinna hackspace'is: ATTEN ST-8802, kolb 65 W kuni 480 °C, kuumaõhk 800 W kuni 500 °C, tina ja räbusti kohapeal. Saab rentida. Ligipääs 24/7."
 specs:
-  - { label: "Tüüp",        value: "2 ühes: jootekolb + kuum õhk" }
-  - { label: "Jootekolb",   value: "temperatuurikontrolliga, kuni 480 °C" }
-  - { label: "Kuum õhk",    value: "reguleeritav temperatuur ja õhuvool" }
-  - { label: "Eelseaded",   value: "3 mälukanalit" }
-  - { label: "Lisad",       value: "otsikupuhasti, varuotsikud, kuumaõhu düüsid" }
+  - { label: "Jootekolb",     value: "65 W, 80–480 °C, vahetatavad otsikud" }
+  - { label: "Kuumaõhk",      value: "800 W, 100–500 °C, reguleeritav õhuvool" }
+  - { label: "Eelseaded",     value: "3 mälupesa temperatuuridele" }
+  - { label: "Töö",           value: "kolb ja püstol korraga, püstol jääb hoidikus unele" }
+  - { label: "Tarvikud",      value: "tina, räbusti, pasta, imipunutis — karbis kõrval" }
 ---
 
-<!-- TODO: kontrolli päris jaama järgi — kütteelementide võimsus, temperatuurivahemikud, millised
-     otsikud ja düüsid on laual. -->
+Elektroonikalaua põhiline jootejaam: temperatuurikontrolliga kolb ja kuumaõhupüstol ühes korpuses.
+Kolvega joodetakse läbiviikkomponente, juhtmeid ja pistikuid, püstoliga pannakse ja võetakse
+SMD-kiipe, soojendatakse plaadi piirkonda ja kuumutatakse termokahanevaid torusid. Mõlemad võivad
+töötada korraga.
 
-Elektroonikalaua peamine jootejaam. Üks karp, kaks tööriista: temperatuurikontrolliga kolb
-tavaliseks jootmiseks ja kuumaõhupüstol pindmonteeritavate komponentide jaoks — kiipide paigaldamine
-ja eemaldamine, terve plaadiosa ülessulatamine, termokahanevate torude kahandamine.
+## Mis on kõrval
 
-Kui oled seni kasutanud ainult lihtsat pistikuga kolbi, on see teine kogemus: otsik saavutab
-temperatuuri sekunditega, hoiab seda koormuse all ja ekraan näitab, mis tegelikult toimub.
-
-## Milleks see sobib
-
-- Komponentide, pistikute ja juhtmete läbiviikjootmine
-- SMD-töö: takistid, kondensaatorid, kiibid, QFN- ja väikesed BGA-korpused kuuma õhuga
-- Komponentide eemaldamine ilma jootepindu üles tõstmata
-- Katkiste radade parandamine ja kahjustatud pistikute vahetus
-- Termokahanevad torud kaablikoostudel
-
-## Ohutus
-
-- Otsik ja kuumaõhu düüs ulatuvad 400 °C ja kõrgemale — pea kõike jaama küljes olevat metalli
-  kuumaks, kuni see on nähtavalt jahtunud.
-- Pane kolb iga kord, kui selle käest paned, hoidikusse tagasi. Mitte kunagi lauale.
-- Kuum õhk sulatab plastpistikud, ekraanid ja kõik muu läheduses; kata need teibi või
-  metallplaadiga.
-- Jooteaurud ei ole tervislikud: kasuta suitsuimurit või vähemalt ava aken.
-- Pese pärast jootmist käed — enamik siinset tina on pliivaba, aga mitte kõik.
+Jaama juures karbis: mitu vahetatavat otsikut, jootetina, jootepasta, räbusti süstaldes ja pudelis,
+imipunutis tina eemaldamiseks, otsiku puhastaja. Kõike seda võib kasutada. Pintsetid ja "kolmas
+käsi" on samas.
 
 ## Kuidas kasutada
 
-1. Lülita jaam sisse ja vali kolb, kuum õhk või mõlemad.
-2. Sea temperatuur: pliivaba tina ja tavalise otsikuga umbes 300–350 °C; madalam peentööks,
-   kõrgem suurte jootekohtade ja jämedate juhtmete jaoks. Kuuma õhuga alusta umbes 300 °C ja
-   nõrga vooluga ning tõsta, kui tina ei voola.
-3. Tinuta otsik enne esimest jootekohta ja pühi seda jootekohtade vahel messingpuhastis.
-4. Lõpus puhasta ja tinuta otsik, lülita jaam välja ja lase kuumaõhupüstolil jahutustsükkel
-   lõpetada, enne kui midagi vooluvõrgust eemaldad.
-5. Pane otsikud, düüsid ja pintsetid sinna tagasi, kust need võtsid.
+1. Lülita jaam sisse, vali kolb, püstol või mõlemad.
+2. Kolvi temperatuur tavaliseks tööks 300–350 °C, peentele komponentidele madalam, jämedatele
+   juhtmetele ja suurtele padjanditele kõrgem. Püstoliga alusta 300 °C ja nõrga vooluga, tõsta, kui
+   tina ei voola.
+3. Enne jootmist tinata otsik, jootmiste vahel pühi seda messingpuhastajas.
+4. Püstoliga töötades kata kõrvalolevad pistikud ja plast kaptonteibi või metallplaadiga, need
+   sulavad kiiremini, kui tina voolab.
+5. Lõpus puhasta ja tinata otsik, lülita jaam välja, püstol lõpetab jahutustsükli ise. Otsikud ja
+   düüsid pane karpi tagasi.
 
-## Ligipääs
+## Oluline
 
-Jaam asub hackspace'i ruumi elektroonikalaual, seega on vaja paketti, mis sisaldab hackspace'i
-ligipääsu. Ohutusinstruktaaži pole vaja; kui sa pole kunagi jootnud, küsi — keegi näitab kümne
-minutiga põhitõed ette.
+- Otsik ja püstoli düüs on kuumad kuni 500 °C. Kolvi paned ainult hoidikusse, mitte lauale.
+- Jootmisaurud on kahjulikud, ava aken. Osa karbis olevast tinast on pliiga, pese pärast tööd käed.
+
+## Ligipääs ja rent
+
+Jaam asub hackspace'i ruumi elektroonikalaual, vaja on hackspace'i ligipääsuga paketti.
+Instruktaaži ei ole vaja.
+
+Jaama saab rentida ja kaasa võtta, päevahind on ülal. Karbi tarvikud jäävad ruumi.

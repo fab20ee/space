@@ -1,54 +1,40 @@
 ---
-title: "Programmable Power Supply OWON SPE3102"
-seoDescription: "Programmable bench power supply at the Tallinn hackspace. OWON SPE3102: 0–30 V, 0–10 A, 200 W, with overvoltage and overcurrent protection and a USB charging port."
+title: "OWON SPE3102 Programmable Power Supply"
+seoDescription: "Bench power supply at the Tallinn hackspace: OWON SPE3102, 0–30 V, 0–10 A, 200 W, current limit, OVP and OCP protection, a consumption graph on the screen. Access 24/7."
 specs:
-  - { label: "Output",       value: "0–30 V, 0–10 A, 200 W" }
-  - { label: "Resolution",   value: "1 mV / 1 mA" }
-  - { label: "Protection",   value: "OVP, OCP, overtemperature" }
-  - { label: "Display",      value: "2.8\" colour LCD with V/A trend graph" }
-  - { label: "Extras",       value: "5 V / 1 A USB charging port, USB for PC control" }
+  - { label: "Output",      value: "0–30 V, 0–10 A, 200 W" }
+  - { label: "Resolution",  value: "1 mV / 1 mA" }
+  - { label: "Protection",  value: "OVP, OCP, over-temperature" }
+  - { label: "Display",     value: "2.8\" colour, voltage, current and a graph" }
+  - { label: "Also",        value: "USB 5 V / 1 A for charging; PC control not set up" }
+  - { label: "Leads",       value: "plugged into the supply, spares on the shelf" }
 ---
 
-<!-- TODO: verify against the actual instrument — firmware, whether PC control is set up, which
-     leads are with it. -->
-
-The main bench supply. A programmable supply gives you a clean, adjustable DC voltage with a
-current limit you set yourself — so when a fresh circuit has a short, the supply just clamps to
-the limit instead of letting the smoke out. With 10 A available it also powers motors, LED strips
-and heaters, not only small logic boards.
-
-The display shows voltage and current live and draws a trend graph, which is handy for
-watching how much a device actually draws over time.
-
-## What it is good for
-
-- Powering a prototype at exactly the voltage it needs, with a safe current limit
-- Finding a short: set the limit low, watch the voltage collapse, feel for the warm part
-- Measuring the consumption of a device — idle, active, sleep
-- Charging or testing batteries under supervision, with OVP set as a guard
-- Running motors, pumps, LED strips and other loads up to 200 W
-
-## Safety
-
-- Set the current limit **before** connecting your circuit, and set it as low as the circuit
-  allows. This is what saves boards.
-- Check polarity twice. Red is plus, black is minus; the green terminal is earth, not minus.
-- 10 A through thin wires or a breadboard is a fire hazard — use proper leads for high currents.
-- Never connect the supply output to a live circuit or to another supply.
-- Do not use it for lithium cells without a proper charger circuit or someone who knows what
-  they are doing.
+The main power supply on the electronics bench. Voltage and current limit are set to a millivolt
+and a milliamp, and when a fresh circuit has a short, the supply sits at the limit instead of
+letting out smoke. 10 A is enough for motors, LED strips and heaters, not just microcontroller
+boards. The graph on the screen shows how much a device draws over time.
 
 ## How to use
 
-1. Switch on with the output **off**. Set the voltage with the knob and the V button, then set
-   the current limit with the I button.
-2. Optionally set OVP and OCP a little above your working values as a second guard.
-3. Connect the leads to your circuit, check polarity, then press On/Off to enable the output.
-4. Watch the display: if the CC indicator lights up, the supply is in current limit — your
-   circuit draws more than you allowed.
-5. When done, switch the output off first, then disconnect the leads, then power down.
+1. Switch the supply on with the output off. Set the voltage with the V button and the knob, the
+   current limit with the I button. Set the limit as low as the circuit allows: that is what saves
+   boards.
+2. Optionally set OVP and OCP a little above the working values as a second safety net.
+3. Connect the leads, check polarity: red is plus, black is minus, the green terminal is earth, not
+   minus. Press On/Off to enable the output.
+4. The CC indicator means the circuit draws more than you allowed and the supply is holding the
+   current.
+5. When done, switch the output off first, then remove the leads, then switch the supply off.
+
+## Take care
+
+- 10 A through thin leads or a breadboard heats them to a fire. For high currents take proper
+  leads from the shelf.
+- Do not connect the output to a live circuit or in parallel with another source.
+- Do not charge lithium cells from it; that needs a charging circuit.
 
 ## Access
 
-The supply is on the electronics bench in the hackspace room, so a plan that includes hackspace
-access is required. No induction is needed.
+The supply is on the electronics bench in the hackspace room, so a plan with hackspace access is
+required. No induction is needed. The supply stays in the room.

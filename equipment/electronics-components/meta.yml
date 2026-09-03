@@ -8,9 +8,8 @@ category: electronics
 order: 49
 zone: hackspace
 
-cover: images/cover.jpg
+cover: images/gallery-01.jpg   # the solder-and-flux box photo moved to atten-st-8802 (2026-09-03)
 gallery:
-  - images/gallery-01.jpg
   - images/gallery-02.jpg
   - images/gallery-03.jpg
 

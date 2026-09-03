@@ -1,63 +1,40 @@
 ---
-title: "Vinyl Cutter Vevor"
-seoDescription: "Desktop vinyl cutting plotter at FAB20 in Tallinn. Vevor cutter for adhesive vinyl stickers, heat-transfer vinyl for T-shirts, paper and cardstock — drag-knife cutting from a vector file."
+title: "Vevor Cutting Plotter"
+seoDescription: "Cutting plotter at the FAB20 coworking in Tallinn: Vevor with two tools and optical mark registration, print-and-cut stickers, vinyl, film, cardboard. Access 24/7."
 specs:
-  - { label: "Type",        value: "desktop drag-knife cutting plotter" }
-  - { label: "Media width", value: "up to 12\" (305 mm) on a cutting mat" }
-  - { label: "Materials",   value: "adhesive vinyl, heat-transfer vinyl, paper, cardstock, thin foils" }
-  - { label: "Tools",       value: "drag knife with depth adjustment, pen holder" }
-  - { label: "Connection",  value: "USB, Bluetooth; vector files (SVG, DXF)" }
+  - { label: "Type",          value: "desktop cutting plotter" }
+  - { label: "Tools",         value: "two at once: a blade and a second tool, e.g. a marker or a creasing tool" }
+  - { label: "Marks",         value: "optical mark registration: cutting along the printed outline" }
+  - { label: "Materials",     value: "self-adhesive paper and film, vinyl, cardboard" }
+  - { label: "Control",       value: "the plotter's software on the computer next to it" }
 ---
 
-<!-- TODO: confirm the exact model, cutting width and which software is used (Vevor app,
-     Inkscape plugin, SignMaster); note which vinyl is in stock and where the weeding tools are. -->
-
-A vinyl cutter is a plotter with a knife instead of a pen. Load a sheet of self-adhesive vinyl on
-the mat, send it a vector drawing, and the blade cuts the outline through the vinyl but not the
-backing. Peel away the excess, apply with transfer tape, and you have a sticker, a label or a
-lettering job that looks professionally made.
-
-With heat-transfer vinyl the same machine makes T-shirt and bag prints: cut mirrored, weed, and
-iron on. It also cuts paper and cardstock for cards, stencils and packaging mock-ups.
-
-## What you can make
-
-- Stickers, decals and window lettering
-- Labels for the equipment and the storage boxes
-- T-shirt and tote-bag prints with heat-transfer vinyl
-- Paper and cardstock cut-outs, stencils, greeting cards
-- Masks for spray painting and for etching
-
-## Materials
-
-**Works well:** adhesive vinyl (matt, gloss, coloured), heat-transfer vinyl, paper, cardstock,
-thin craft foils.
-
-**Not here:** anything thicker than about 0.5 mm, fabric, leather, magnetic sheet — that is
-a job for the laser or a knife. And no PVC-free claims are needed here: unlike the laser, this
-machine cuts vinyl by design.
-
-## Safety
-
-- The blade is small but sharp. Handle the blade holder by its body, and use tweezers when
-  changing blades.
-- Keep fingers away from the carriage while it moves.
-- Weeding tools are hooks and knives — cap them and put them back.
+The plotter cuts along a vector outline what a printer can print but not cut: stickers in the
+shape of the artwork, stencils, vinyl lettering, box nets from cardboard. Its main trick is
+print-and-cut. A sheet with the artwork and registration marks is printed on the printer next to
+it, the plotter finds the marks with its camera and cuts exactly along the outline, even if the
+sheet went in askew. Two tools are mounted at once, so one pass can, for example, kiss-cut the
+stickers and crease the fold lines.
 
 ## How to use
 
-1. Prepare the design as a vector (SVG or DXF). Text must be converted to outlines. For
-   heat-transfer vinyl, mirror the design.
-2. Stick the vinyl to the cutting mat, smooth, and load the mat with the arrow pointing into the
-   machine.
-3. Set the blade depth for the material and do a small test cut in a corner. The cut should go
-   through the vinyl and only score the backing.
-4. Send the job, and stay with the machine.
-5. Unload, weed away the excess with the hook, and apply with transfer tape. Clean stray bits
-   off the mat and put the blade cover on.
+1. The plotter's software is on the computer next to the printers. It drives the whole process:
+   printing the artwork with marks on the printer, then cutting along those marks.
+2. Material is on the shelf above the printers: self-adhesive paper, film, cardboard. You can bring
+   your own.
+3. Prepare the file: cut lines on a separate layer or in a separate colour; the software adds the
+   marks.
+4. Print the sheet, put it into the plotter with the mark in the corner the software indicates,
+   start mark detection and cutting.
+5. For stickers without printing, such as vinyl lettering, no marks are needed: load the material
+   and cut right away.
+6. Afterwards take out the material and the offcuts, park the blade.
+
+## Take care
+
+- Find the blade depth by testing on a scrap: for stickers cut only the film, not the backing.
+- Do not cut anything thicker than cardboard or metallised materials without a test.
 
 ## Access
 
-The cutter is on the coworking side and is included in every plan. Vinyl is available within
-reason; for a larger job bring your own roll. Ask someone to show you the blade depth setting
-the first time.
+In the coworking room, available with any plan.

@@ -1,18 +1,16 @@
 ---
-title: "CO2 laserlõikur 100 W"
-seoDescription: "Laserlõikus ja graveerimine Tallinna kesklinnas. 100 W CO2 laser tööalaga 1000 × 600 mm: vineer, akrüül, nahk, paber. Ligipääs 24/7."
+title: "CO2 laserlõikur HL-1060, 100 W"
+seoDescription: "Laserlõikus ja graveerimine Tallinna kesklinnas. 100 W CO2 laser HL-1060 tööalaga 1000 × 600 mm: vineer, akrüül, nahk, paber. Ligipääs 24/7."
 specs:
   - { label: "Laser",       value: "100 W CO2, suletud klaastoru" }
   - { label: "Tööala",      value: "1000 × 600 mm" }
   - { label: "Lõikamine",   value: "vineer kuni 10 mm, akrüül kuni 12 mm" }
-  - { label: "Kontroller",  value: "Ruida" }
-  - { label: "Tarkvara",    value: "LightBurn, RDWorks" }
-  - { label: "Jahutus",     value: "veejahuti" }
-  - { label: "Väljatõmme",  value: "väljatõmbeventilaator ja õhuabi" }
+  - { label: "Kontroller",  value: "Ruida RDC6445" }
+  - { label: "Tarkvara",    value: "RDWorks V8 masina kõrval oleval sülearvutil; saab panna ka enda arvutisse" }
+  - { label: "Ühendus",     value: "USB sülearvutiga, võrku ühendatud ei ole" }
+  - { label: "Jahutus",     value: "veejahuti masina all" }
+  - { label: "Väljatõmme",  value: "väljatõmbeventilaator ja õhuabi (kompressor)" }
 ---
-
-<!-- TODO: kontrolli kõik parameetrid päris masina järgi — toru tegelik võimsus,
-     maksimaalsed paksused, milline tarkvara on töökoja arvutis, kas pöördtelg on olemas. -->
 
 CO2 laser lõikab ja graveerib lehtmaterjali, põletades sellest läbi kitsa joone. See on kiireim
 viis muuta joonis füüsiliseks detailiks: pole vaja tööriistu ega kinnitusi, ja sama faili saab
@@ -48,31 +46,37 @@ tuvastada.
 Kui sa ei tea kindlalt, millest leht on, küsi enne lõikamist. "Ilmselt akrüül" ei ole piisav —
 akrüül ja polükarbonaat näevad täpselt ühesugused välja.
 
+Valmis kiiruste tabelit ei ole. Võimsus on peaaegu alati 100 %, kiirus sõltub materjalist:
+proovi sama lehe jäätmetükil.
+
 ## Ohutus
 
-- Ära kunagi käivita tööd avatud kaanega ja ära blokeeri kaane turvalülitit.
-- Lülita veejahuti ja väljatõmme sisse **enne** laserit. Jahutuseta praguneb toru, väljatõmbeta
-  läheb suits ruumi.
-- Ära kunagi jäta töötavat masinat järelevalveta. Leek muutub tulekahjuks vähem kui minutiga —
-  püsi käeulatuses kaanest ja voolulülitist.
-- CO2 tulekustuti peab olema masina juures käeulatuses; tea, kus see asub, enne kui alustad.
-- Ära vaata graveerimise ajal tööalasse. Kiir on nähtamatu, aga peegeldunud valgus ja suits ei
-  ole kahjutud.
-- Pärast tööd lase väljatõmbel veel minut töötada, enne kui kaane avad.
+- Masin lülitatakse sisse võtme keeramisega, koos sellega käivituvad jahuti, kompressor ja
+  väljatõmme. Kui midagi neist ei käivitunud — ära lõika.
+- Ära käivita tööd avatud kaanega ja ära blokeeri kaane turvalülitit.
+- Ära jäta töötavat masinat järelevalveta. Leek muutub tulekahjuks vähem kui minutiga.
+- Jälgi jahuti temperatuuri, jahuti on masina all. Üle 30–35 °C — lõpeta töö.
+- Selgelt tuntav ebameeldiv lõhn töö ajal tähendab, et väljatõmme ei käivitunud või midagi läks
+  valesti: lõpeta töö, ava aken, teata personalile.
+- Hädaseiskamine — suur punane nupp.
+- Kui materjal süttis: tulekustuti on masina kõrval, seejärel teata kohe personalile.
+- Pärast lõikamise lõppu oota veidi, kuni väljatõmme suitsu eemaldab, ja ava kaas alles siis.
 
 ## Kuidas kasutada
 
-1. Valmista fail ette LightBurnis — vektorid lõikamiseks, raster või vektor graveerimiseks.
-   Joone värv valib kihi ja igal kihil on oma võimsus ja kiirus.
-2. Aseta materjal lauale tasaselt ja lükka vastu nurgajoonlauda.
-3. Sea fookus materjali paksuse järgi fookusmõõdikuga.
-4. Käivita raami kontroll (frame), et töö kindlasti lehele mahuks.
-5. Tee proovilõige sama materjali jäätmetükil — võimsus ja kiirus sõltuvad partiist, mitte
-   ainult materjali liigist.
-6. Käivita töö, püsi masina juures ja jälgi esimest läbimist.
-7. Kui töö on valmis, võta detailid ja jäägid välja ning tolmuimeja abil puhasta laud.
+1. Masina kõrval on Lenovo sülearvuti programmiga RDWorks V8. Kui masin pole sellega ühendatud,
+   pane masina USB-kaabel sülearvutisse.
+2. RDWorksis: File → Import, ava oma fail ja kontrolli mõõtmeid. Paremal paneelil määra kiirus ja
+   võimsus. Võimsus on peaaegu alati 100 %, kiirus leitakse prooviga materjalitükil.
+3. Lülita masin võtmega sisse. Veendu, et jahuti, kompressor ja väljatõmme käivitusid.
+4. Aseta materjal lauale. RDWorksis vajuta paremal Download — töö läheb masinasse.
+5. Masina paneelil vii pea nooltega lõikamise alguspunkti ja vajuta Origin. Seejärel Frame: masin
+   joonistab ilma kiireta raami, mille sees ta lõikab. Kontrolli, et raam jääb materjalile.
+6. Sulge kaas ja vajuta masina paneelil Start. Püsi kõrval.
+7. Kui töö on läbi, oota, kuni suits kaob, ava kaas, võta detailid ja jäägid välja.
 
-<!-- TODO: lisa tegelik võimsuse/kiiruse tabel materjalide kohta, mida laos hoiame. -->
+RDWorksi saab internetist alla laadida ja enda sülearvutisse panna: siis ühendatakse masin USB-ga
+sellega ja juhitakse sealt. Võrku masin veel ühendatud ei ole.
 
 ## Ligipääs
 
@@ -80,4 +84,4 @@ Laser asub hackspace'i ruumis, seega on vaja paketti, mis sisaldab hackspace'i l
 ainult coworkingu liikmelisus seda ust ei ava.
 
 Enne esimest tööd on ohutusinstruktaaž kohustuslik. See võtab umbes kakskümmend minutit ja
-katab turvalüliti, jahuti, väljatõmbe, fookuse seadmise ja selle, mida teha, kui midagi süttib.
+katab turvalüliti, jahuti, väljatõmbe, töö RDWorksis ja selle, mida teha, kui midagi süttib.

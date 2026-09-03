@@ -1,61 +1,52 @@
 ---
-title: "3D Printer Anycubic Kobra 3 Max Combo"
-seoDescription: "Large-format FDM 3D printing in central Tallinn. Anycubic Kobra 3 Max Combo with a 420 × 420 × 500 mm build volume and a four-spool multi-colour system."
+title: "Anycubic Kobra 3 Max Combo 3D Printer"
+seoDescription: "Large-format FDM 3D printing in central Tallinn: Anycubic Kobra 3 Max Combo, 420 × 420 × 500 mm, four ACE Pro spools, PETG in stock. Access 24/7."
 specs:
-  - { label: "Technology",   value: "FDM" }
-  - { label: "Build volume", value: "420 × 420 × 500 mm" }
-  - { label: "Materials",    value: "PLA, PETG, TPU" }
-  - { label: "Nozzle",       value: "0.4 mm, up to 300 °C" }
-  - { label: "Multi-colour", value: "ACE Pro, up to 4 spools" }
-  - { label: "Slicer",       value: "Anycubic Slicer, OrcaSlicer" }
+  - { label: "Build volume",  value: "420 × 420 × 500 mm" }
+  - { label: "Speed",         value: "up to 600 mm/s" }
+  - { label: "Nozzle",        value: "0.4 mm, up to 300 °C" }
+  - { label: "Bed",           value: "up to 90 °C, flexible magnetic plate" }
+  - { label: "Multi-colour",  value: "ACE Pro for 4 spools, with drying" }
+  - { label: "Materials",     value: "PLA, PETG, TPU" }
+  - { label: "Slicer",        value: "Anycubic Slicer Next on the laptop next to the printers" }
+  - { label: "Files",         value: "from a USB stick" }
 ---
 
-<!-- TODO: verify against the actual machine — which filaments are stocked, real print speeds
-     after tuning, whether the ACE Pro dryer is in use, nozzle sizes available. -->
+The big brother of the Kobra 3 Combo: a 420 × 420 mm bed and half a metre of height. This is for
+parts that fit nowhere else: a large enclosure in one piece, a long bracket, a full-size helmet.
+The same four-spool ACE Pro, so a big part can be multi-coloured too.
 
-The big version of the Kobra 3: the same printer family, but with a 420 × 420 mm bed and half a
-metre of height. This is the machine for parts that do not fit anywhere else — a full-size
-helmet, a long bracket, a large enclosure printed in one piece instead of glued from four.
-
-Like the smaller Combo it comes with the ACE Pro four-spool system, so a big print can still mix
-colours or use a dissolvable support material. A part this size takes many hours, so plan the
-job and check that nobody else has the machine booked.
-
-## What you can make
-
-- Large enclosures, cases and covers in a single piece
-- Cosplay props, helmets and masks
-- Long brackets, rails and guides
-- Big signage and lettering
-- Batches of small parts on one plate
+A big part takes hours or days. Check the time in the slicer before you start, and do not tie
+the printer up with small parts that fit the smaller Kobra next to it.
 
 ## Materials
 
-**Works well:** PLA for most parts, PETG when the part must survive heat or sunlight, TPU for
-flexible parts.
-
-**Ask first:** abrasive filaments (carbon or glass filled) wear out the standard nozzle, and ABS
-warps badly on an open printer of this size.
-
-## Safety
-
-- The nozzle runs at up to 300 °C and the bed gets hot: do not reach into the machine mid-print.
-- Do not leave a first layer unattended — that is when things go wrong, and on a bed this size a
-  failed first layer wastes a lot of plastic.
-- Remove parts with the print sheet off the bed, not by prying at them with a knife in place.
-- Keep the printer's area clear of paper and other flammables.
+PETG is always in stock and free to use. You can bring your own filament. Put an opened spool
+straight into the ACE Pro: it doubles as a dryer, for your filament too. Do not load abrasive
+filaments with carbon or glass fibre; they wear out the standard nozzle.
 
 ## How to use
 
-1. Prepare the model as STL or 3MF and slice it in Anycubic Slicer or OrcaSlicer.
-2. Check that the filament loaded matches your profile; a long print needs a full spool.
-3. The printer runs its own calibration, but watch the first layer go down.
-4. Start the print, stay for the first layer, and check the part after the first few
-   millimetres.
-5. When done, take the part off, clean the plate, and put leftover filament back in its bag
-   with the desiccant.
+1. Slice your STL or 3MF in Anycubic Slicer Next. It is installed on the Lenovo laptop next to
+   the printers, and you can install it on your own computer.
+2. Copy the file to a USB stick, they lie next to the printers, and plug it into the printer.
+   Printing over the network is not set up yet.
+3. Check that the right filament is loaded and start the file from the printer's screen.
+4. Watch the first layer. On a bed this size it matters most: if an edge lifts, raise the bed
+   temperature. If that does not help, there is a glue stick nearby; after such a print, clean
+   the plate yourself.
+5. You may leave the printer running, but it has no sensor for a part that came loose, so look
+   in from time to time.
+6. When the print is done, take the magnetic plate off, let it cool a little and flex the part
+   off. A plate this big is easier to flex with two people or corner by corner.
+
+## Take care
+
+- The nozzle runs at up to 300 °C and the bed at up to 90 °C. Keep your hands out while it
+  prints.
+- Clear away filament scraps and supports and put the plate back.
 
 ## Access
 
-The printer is in the hackspace room, so a plan that includes hackspace access is required.
-No induction is needed, but ask someone to show you the material change the first time.
+The printer is in the hackspace room, so a plan with hackspace access is required. No induction
+is needed.

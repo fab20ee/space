@@ -1,31 +1,25 @@
 ---
-title: "Dr.Coffee kohvimasin"
-seoDescription: "Automaatne oakohvimasin Dr.Coffee FAB20 coworkingus Tallinnas: espresso, americano, cappuccino, flat white — piiranguteta, kuulub paketi hinda."
+title: "Kohvimasin Dr.Coffee"
+seoDescription: "Automaatne kohvimasin ubadega FAB20 coworkingus Tallinnas: espresso, cappuccino, latte ühe puutega, kohv ja piim on hinna sees. Ligipääs 24/7."
 specs:
-  - { label: "Tüüp",      value: "automaatne, ubadest" }
-  - { label: "Menüü",     value: "espresso, coffee crema, americano, latte, cappuccino, flat white, piimavaht, kuum vesi" }
-  - { label: "Piim",      value: "minikülmik masina kõrval, ühendatud otse piimasüsteemi" }
-  - { label: "Juhtimine", value: "puuteekraan, jook ühe puudutusega" }
+  - { label: "Tüüp",       value: "automaatne, ubadega" }
+  - { label: "Menüü",      value: "espresso, americano, latte, cappuccino, flat white, kuum vesi" }
+  - { label: "Piim",       value: "minikülmik kõrval, masinaga ühendatud" }
+  - { label: "Juhtimine",  value: "puuteekraan, jook ühe puutega" }
+  - { label: "Hind",       value: "hinna sees" }
 ---
 
-Automaatne oakohvimasin piimasüsteemiga — põhjus, miks "kohv hinna sees" tähendab siin
-cappuccino't, mitte lahustuva kohvi pakikest. Vali puuteekraanilt jook ning masin jahvatab,
-valmistab ja vahustab piima ise.
-
-Piim elab masina kõrval minikülmikus ja on otse ühendatud — cappuccino või flat white'i jaoks
-ei pea midagi kuhugi valama. Veekeetja, tee ja mikrolaineahi on paar sammu eemal köögis.
-
-## Menüü
-
-Espresso, coffee crema, americano, caffe latte, cappuccino, flat white, piimavaht eraldi ja
-lihtsalt kuum vesi — kui oled tee-inimene.
+Kohv on hinna sees: vajutasid ekraanil, said. Oad ja piim on ühised, masinat puhastame me kord
+päevas.
 
 ## Kuidas kasutada
 
-1. Pane tass restile, vali ekraanilt jook — ongi kõik.
-2. Kui masin küsib vett või ube või kurdab tilgaaluse üle — võid ise lisada ja tühjendada või
-   lihtsalt kirjuta meile.
+1. Pane tass alla, vali ekraanilt jook.
+2. Kui oad või piim on otsas, on need masina all sahtlis: oad kallatakse ülemisse mahutisse, piim
+   pannakse kõrvalolevasse minikülmikusse ja ühendatakse vooliku külge.
+3. Kui masin küsib tilgaaluse või kohvipaksu mahuti tühjendamist, tee see, need tulevad eest välja.
+4. Tassid pärast ennast nõudepesumasinasse.
 
 ## Ligipääs
 
-Seisab coworkingus ja kuulub iga paketi hinda. Tasse ei loe keegi.
+Asub coworkingus, saadaval iga paketiga.

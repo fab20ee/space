@@ -1,55 +1,47 @@
 ---
-title: "Soldering and Hot Air Station ATTEN ST-8802"
-seoDescription: "Temperature-controlled soldering iron and hot air gun in one station at the Tallinn hackspace. ATTEN ST-8802 for SMD rework, through-hole soldering and heat-shrink."
+title: "ATTEN ST-8802 Soldering and Hot Air Station"
+seoDescription: "Soldering station with hot air at the Tallinn hackspace: ATTEN ST-8802, 65 W iron up to 480 °C, 800 W hot air up to 500 °C, solder and flux on site. Available for rent. Access 24/7."
 specs:
-  - { label: "Type",        value: "2-in-1: soldering iron + hot air" }
-  - { label: "Iron",        value: "temperature controlled, up to 480 °C" }
-  - { label: "Hot air",     value: "adjustable temperature and airflow" }
-  - { label: "Presets",     value: "3 memory channels" }
-  - { label: "Extras",      value: "tip cleaner, spare tips, hot air nozzles" }
+  - { label: "Iron",         value: "65 W, 80–480 °C, interchangeable tips" }
+  - { label: "Hot air",      value: "800 W, 100–500 °C, adjustable airflow" }
+  - { label: "Presets",      value: "3 memory slots for temperatures" }
+  - { label: "Operation",    value: "iron and hot air at the same time, the gun sleeps in its holder" }
+  - { label: "Consumables",  value: "solder, flux, paste, wick — in the box next to it" }
 ---
 
-<!-- TODO: verify against the actual station — heater power, temperature ranges, which tips and
-     nozzles are on the bench. -->
+The main soldering station on the electronics bench: a temperature-controlled iron and a hot air
+gun in one body. The iron is for through-hole parts, wires and connectors; the hot air puts on and
+takes off SMD chips, warms an area of a board and shrinks heat-shrink tubing. Both can run at the
+same time.
 
-The main soldering station on the electronics bench. One box, two tools: a temperature-controlled
-iron for ordinary soldering, and a hot air gun for surface-mount work — placing and removing
-chips, reflowing a whole board section, shrinking heat-shrink tubing.
+## What lies next to it
 
-If you have only ever used a plain plug-in iron, this is a different experience: the tip reaches
-temperature in seconds, holds it under load, and the display tells you what it is actually doing.
-
-## What it is good for
-
-- Through-hole soldering of components, connectors and wires
-- SMD work: resistors, capacitors, ICs, QFN and small BGA packages with hot air
-- Removing components without lifting the pads
-- Repairing broken traces and replacing damaged connectors
-- Heat-shrink tubing on cable assemblies
-
-## Safety
-
-- The tip and the hot air nozzle reach 400 °C and more — treat everything metal on the station
-  as hot until it has visibly cooled.
-- Put the iron back in its stand every time you let go of it. Never on the table.
-- Hot air melts plastic connectors, LCDs and anything else nearby; shield them with tape or a
-  metal plate.
-- Solder fumes are not healthy: use the fume extractor or at least open a window.
-- Wash your hands after soldering — most solder here is lead-free, but not all of it.
+In the box by the station: several interchangeable tips, solder wire, solder paste, flux in
+syringes and a bottle, desoldering wick, a tip cleaner. All of it is free to use. Tweezers and a
+helping hand are there too.
 
 ## How to use
 
-1. Switch the station on and select the iron, the hot air, or both.
-2. Set the temperature: around 300–350 °C for lead-free solder with a normal tip; lower for
-   fine work, higher for big joints and thick wires. For hot air start around 300 °C with a
-   gentle airflow and raise it if the solder does not flow.
-3. Tin the tip before the first joint and wipe it in the brass cleaner between joints.
-4. When done, clean and tin the tip, turn the station off, and let the hot air gun finish its
-   cool-down cycle before unplugging anything.
-5. Put tips, nozzles and tweezers back where they came from.
+1. Switch the station on, pick the iron, the hot air or both.
+2. Iron temperature for everyday work is 300–350 °C, lower for fine parts, higher for thick wires
+   and big pads. Start the hot air at 300 °C and low airflow; raise it if the solder does not flow.
+3. Tin the tip before soldering and wipe it in the brass cleaner between joints.
+4. With hot air, cover nearby connectors and plastic with Kapton tape or a metal plate; they melt
+   faster than the solder flows.
+5. When done, clean and tin the tip, switch the station off; the gun finishes its cooling cycle by
+   itself. Put the tips and nozzles back in the box.
 
-## Access
+## Take care
 
-The station is on the electronics bench in the hackspace room, so a plan that includes hackspace
-access is required. No induction is needed; if you have never soldered, ask — someone will show
-you the basics in ten minutes.
+- The tip and the hot air nozzle are hot, up to 500 °C. The iron goes into its stand only, never on
+  the bench.
+- Soldering fumes are harmful; open a window. Some of the solder in the box is leaded, wash your
+  hands afterwards.
+
+## Access and rental
+
+The station is on the electronics bench in the hackspace room, so a plan with hackspace access is
+required. No induction is needed.
+
+The station can be rented and taken with you; the daily price is above. The consumables in the box
+stay in the room.

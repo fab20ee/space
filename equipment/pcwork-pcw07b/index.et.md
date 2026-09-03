@@ -1,45 +1,39 @@
 ---
-title: "Kompaktne alalisvoolu toiteplokk PCWork PCW07B"
-seoDescription: "Kompaktne reguleeritav laboritoiteplokk Tallinna hackspace'is. PCWork PCW07B: 0–30 V, 0–5 A, jäme ja peen reguleerimine, LED-näidik — lihtne teine toiteallikas igapäevatööks."
+title: "Toiteplokk PCWork PCW07B, 0–50 V"
+seoDescription: "Kompaktne laboritoiteplokk Tallinna hackspace'is: PCWork PCW07B, 0–50 V, 0–3 A, impulss-toiteplokk, LED-näidik, ülepingekaitse. Saab rentida. Ligipääs 24/7."
 specs:
-  - { label: "Väljund",      value: "0–30 V, 0–5 A" }
-  - { label: "Režiimid",     value: "püsipinge / püsivool" }
-  - { label: "Reguleerimine", value: "vajutatavad nupud, jäme ja peen" }
-  - { label: "Ekraan",       value: "LED, pinge ja vool" }
+  - { label: "Väljund",     value: "0–50 V, 0–3 A" }
+  - { label: "Tüüp",        value: "impulss, 1,8 kg" }
+  - { label: "Režiimid",    value: "pinge- / voolustabilisatsioon, OVP" }
+  - { label: "Seadmine",    value: "kaks enkoodernuppu, seadete lukk" }
+  - { label: "Näidik",      value: "LED, neli kohta, pinge ja vool" }
+  - { label: "Juhtmed",     value: "plokis, varu on riiulil" }
 ---
 
-<!-- TODO: kontrolli voolu nimiväärtust ja lahutusvõimet andmesildi järgi; märgi, millised juhtmed
-     selle juurde kuuluvad. -->
-
-Väike, lihtne reguleeritav toiteplokk. Kaks nuppu, üks väljund, näidik — kõik, mida on vaja, et
-toita mikrokontrolleriplaati, operatsioonivõimendi skeemi või andurit, kui suur OWON-i toiteplokk on
-millegi muuga hõivatud. See töötab püsipinge režiimis, kuni koormus tõmbab rohkem kui seatud vool,
-siis lülitub püsivoolule ja hoiab piiri.
-
-## Milleks see sobib
-
-- Teise skeemi toitmine laual
-- Lihtsad katsed, kus 5 A on küllaga
-- Fikseeritud pinge andmine plaadile, kui seda ostsilloskoobiga uurid
-- „Kindlalt korras" toiteallikas plaadile, mille toites sa kahtled
-
-## Ohutus
-
-- Keera voolunupp enne uue skeemi ühendamist alla, siis tõsta ainult nii palju, kui skeem vajab.
-- Punane on pluss, must on miinus; roheline klemm on maandus.
-- Ära ühenda väljundit pinge all oleva skeemiga ega paralleelselt teise toiteallikaga.
-- Ära kasuta seda liitiumelementide laadijana.
+Laua teine plokk ja ainus, mis annab üle 30 V: kuni 50 V, kuni 3 A. Kulub ära 36 või 48 V skeemidele,
+samm-mootori draiveritele, LED-koostudele ja kõigele, mida OWON-ist toita ei saa. Kompaktne ja kerge,
+seepärast anname just seda rendile.
 
 ## Kuidas kasutada
 
-1. Lülita sisse, ilma et midagi oleks ühendatud. Sea pinge jämeda ja peene nupuga.
-2. Sea voolupiir: lühista väljund korraks juhtmega, keera voolunupp soovitud piirile, eemalda lühis.
-   Või lihtsamalt — alusta madalalt ja tõsta, kui skeem on ühendatud.
-3. Ühenda juhtmed, kontrolli polaarsust, vajuta Output.
-4. Kui C.C.-indikaator põleb, tarbib skeem piirist rohkem.
-5. Lõpus vajuta Output, et väljund välja lülitada, ühenda juhtmed lahti ja lülita seade välja.
+1. Lülita sisse, ilma midagi ühendamata. Pingenupuga sea vajalik väärtus.
+2. Sea voolupiir: voolunupuga madalast alates, tõstes juba ühendatud skeemiga, või lühistades
+   väljundi korraks juhtmega ja seades piiri näidiku järgi.
+3. Ühenda juhtmed, kontrolli polaarsust: punane pluss, must miinus, roheline klemm maandus. Vajuta
+   Output.
+4. Indikaator C.C. tähendab, et skeem tarbib üle piiri ja plokk hoiab voolu.
+5. Lõpus vajuta Output, võta juhtmed ära, lülita plokk välja.
 
-## Ligipääs
+## Oluline
 
-Toiteplokk asub hackspace'i ruumi elektroonikalaual, seega on vaja paketti, mis sisaldab hackspace'i
-ligipääsu. Ohutusinstruktaaži pole vaja.
+- 50 V väljundis on juba sõrmedega tuntav ja ohtlik 5 või 12 V skeemidele. Kontrolli pinget
+  näidikul enne Outputi vajutamist.
+- Ära ühenda väljundit pinge all oleva skeemiga ega paralleelselt teise allikaga.
+- Liitiumelemente sellest ei laeta.
+
+## Ligipääs ja rent
+
+Plokk asub hackspace'i ruumi elektroonikalaual, vaja on hackspace'i ligipääsuga paketti. Instruktaaži
+ei ole vaja.
+
+Plokki saab rentida ja kaasa võtta, päevahind on ülal. Riiuli juhtmed jäävad ruumi.

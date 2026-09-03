@@ -1,51 +1,29 @@
 ---
-title: "Laminator Esperanza A3"
-seoDescription: "A3 pouch laminator in the FAB20 coworking room in Tallinn. Hot and cold lamination of documents, signs, menus and cards up to A3 — pouches available on site."
+title: "Esperanza A3 Laminator"
+seoDescription: "A3 pouch laminator at the FAB20 coworking in Tallinn: Esperanza, hot and cold lamination, 80–125 µm pouches. Access 24/7."
 specs:
-  - { label: "Type",        value: "pouch laminator, hot and cold" }
-  - { label: "Max format",  value: "A3 (up to 320 mm wide)" }
-  - { label: "Pouches",     value: "80–125 µm" }
-  - { label: "Warm-up",     value: "a few minutes; READY light" }
+  - { label: "Type",         value: "pouch, hot and cold" }
+  - { label: "Max size",     value: "A3, up to 320 mm wide" }
+  - { label: "Film",         value: "pouches 80–125 µm" }
+  - { label: "Warm-up",      value: "a few minutes, READY indicator" }
 ---
 
-<!-- TODO: confirm the exact model, the maximum pouch thickness and the warm-up time from the
-     manual; note where the pouches are kept. -->
-
-A laminator seals a sheet of paper inside a plastic pouch so it survives hands, coffee and
-weather. Anything that will be handled a lot or hung outdoors — a sign for the door, a price
-list, a set of instruction cards for a machine, a name badge — lasts years laminated instead of
-weeks.
-
-The machine takes pouches up to A3, so a full-size sign fits, and it has a cold setting for
-self-adhesive pouches and heat-sensitive prints.
-
-## What it is good for
-
-- Signs, labels and instruction cards for the workshop
-- Menus, price lists, schedules
-- ID and membership cards, luggage tags, bookmarks
-- Protecting photos, maps and drawings
-
-## Safety
-
-- The rollers are hot in HOT mode. Do not touch the exit slot, and keep hair and loose sleeves
-  away from the feed.
-- Do not feed anything metallic, wet, or thicker than the pouch is rated for.
-- Never pull a pouch back out against the rollers; use the release lever if it jams.
-- Switch off after use — it is a heater sitting on a wooden desk.
+Seals a sheet in film: cards, badges, instructions next to machines, signs that must survive rain
+and dirty hands. Up to A3.
 
 ## How to use
 
-1. Switch on, choose HOT for standard pouches or COLD for self-adhesive ones, and wait for the
-   READY light.
-2. Put your sheet inside a pouch, pushed up against the sealed edge, with an even margin around
-   it.
-3. Feed the pouch **sealed edge first**, straight, and let the machine pull it through. Do not
-   push or pull.
-4. Take the laminate from the back and lay it flat for a minute to cool.
-5. Trim the margins with the paper cutter if you like. Switch the laminator off when done.
+1. Switch on, pick the hot mode for ordinary pouches and wait for the READY indicator.
+2. Put the sheet into the pouch up to the sealed edge, leaving even margins.
+3. Feed the pouch sealed edge first, straight, and do not pull from the other side; the machine
+   pushes it out itself.
+4. Let it cool for half a minute, then trim the margins with the cutter next to it.
+
+## Take care
+
+- Do not laminate thermal receipt paper or an inkjet print before it has dried.
+- Do not yank a jammed pouch backwards; use reverse.
 
 ## Access
 
-The laminator is in the coworking room and is included in every plan. Pouches are provided
-within reason — for a large batch, bring your own.
+In the coworking room, available with any plan.

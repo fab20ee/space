@@ -1,51 +1,45 @@
 ---
-title: "Oscilloscope Micsig TO3004"
-seoDescription: "300 MHz four-channel tablet oscilloscope in the Tallinn hackspace. Debug embedded hardware, buses and power supplies with proper equipment."
+title: "Micsig TO3004 Oscilloscope"
+seoDescription: "Tablet oscilloscope, 300 MHz, 4 channels, 2 GSa/s at the Tallinn hackspace. Micsig TO3004 with I2C, SPI, UART, CAN and LIN decoding, four probes included. Access 24/7."
 specs:
-  - { label: "Bandwidth",   value: "300 MHz" }
-  - { label: "Channels",    value: "4" }
-  - { label: "Format",      value: "tablet, touch screen, battery powered" }
-  - { label: "Interfaces",  value: "USB, LAN" }
+  - { label: "Bandwidth",     value: "300 MHz" }
+  - { label: "Channels",      value: "4, four passive probes included" }
+  - { label: "Sample rate",   value: "2 GSa/s" }
+  - { label: "Memory",        value: "220 Mpts" }
+  - { label: "Decoding",      value: "I2C, SPI, UART, CAN, LIN — included" }
+  - { label: "Display",       value: "10.1\" touch, 1280 × 800" }
+  - { label: "Power",         value: "battery for about 4 hours, mains" }
+  - { label: "Interfaces",    value: "USB, LAN, 32 GB storage" }
 ---
 
-<!-- TODO: verify against the actual instrument — sample rate, memory depth, which probes and
-     accessories are present, whether the serial bus decoding option is licensed. -->
+A tablet oscilloscope: a 10.1-inch touch screen, a battery for several hours, about five
+centimetres thick. You carry it to the board or the machine instead of dragging the circuit to
+the instrument. Four channels and 300 MHz cover the usual embedded work: clock, reset, PWM, a
+switching supply and a serial bus on one screen. The I2C, SPI, UART, CAN and LIN decoders are
+included, no extra licences.
 
-An oscilloscope shows you what a signal actually does over time, instead of what the datasheet
-says it should do. With 300 MHz of bandwidth and four channels it covers most of what embedded
-work throws at you: clocks, resets, PWM, switching power supplies, and serial buses seen next to
-each other on the same timebase.
+## Included
 
-The tablet form factor matters in practice — it runs on battery and can be carried to whatever
-bench or machine you are debugging.
-
-## What it is good for
-
-- Finding out why a microcontroller resets or a bus stops responding
-- Measuring rise times, jitter, ripple and noise
-- Comparing four signals at once — for example clock, chip select and both data lines
-- Checking switching supplies under load
-- Capturing rare glitches with triggering rather than by staring at the screen
-
-## Safety
-
-- Ground the probe correctly before touching a circuit; a floating ground turns measurements into
-  fiction and can damage the instrument.
-- Never connect the probe ground to a live mains conductor. Mains-referenced work needs an
-  isolation transformer or a differential probe — ask before starting.
-- Respect the probe's voltage rating, including the attenuation setting (×1 and ×10 differ).
-- Do not open the case. If something is wrong with the instrument, report it.
+Four passive ×1/×10 probes. There is no differential probe and no current clamp.
 
 ## How to use
 
-1. Switch on, check the battery, and set the probe attenuation to match the setting on screen.
-2. Compensate the probe on the calibration output before precise measurements.
-3. Connect the ground clip as close to the measurement point as possible.
-4. Set the timebase and vertical scale roughly, then use auto-set only as a starting point.
-5. Use triggering deliberately — edge for periodic signals, pulse width or serial for glitches.
-6. When done, save your screenshots to a USB drive, wipe the probes, and put everything back.
+1. Switch on, check the charge. The divider setting on the probe and on the screen must match,
+   or the readings are off by ten times.
+2. Connect the ground clip as close to the measurement point as possible.
+3. Auto-set is a starting point; set the timebase and the scale by hand from there.
+4. For faults that happen rarely, trigger on pulse width or on the bus instead of watching for
+   them.
+5. Screenshots go to USB or the internal storage. When done, put the probes back and put the
+   instrument on charge.
+
+## Take care
+
+- The probe ground is tied to the instrument ground. Never clip it to a live conductor: mains
+  230 V measurements without a differential probe or an isolation transformer are not done here.
+- The probe's voltage limit depends on the divider setting; ×1 and ×10 differ.
 
 ## Access
 
-The instrument is in the hackspace room, so a plan that includes hackspace access is required.
-It stays on site — do not take it home.
+The instrument is in the hackspace room, so a plan with hackspace access is required. No
+induction is needed. The oscilloscope stays in the room; it is not for rent.

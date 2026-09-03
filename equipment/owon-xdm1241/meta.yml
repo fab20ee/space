@@ -20,7 +20,7 @@ induction:
   required: false
 
 # serial: "..."        # TODO: copy from the nameplate
-code: P01              # sticker code; the QR on the sticker points at fab20.ee/p/P01
+code: M01              # sticker code (M = measurement; P01 went to the printers); the QR opens fab20.ee/p/M01
 
 externalLinks: []      # TODO: link the factory manual once it is uploaded to fab20ee/docs
 

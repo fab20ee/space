@@ -1,59 +1,48 @@
 ---
-title: "3D Printer Anycubic Kobra 3 Combo"
-seoDescription: "Multi-colour FDM 3D printing in central Tallinn. Anycubic Kobra 3 Combo with a four-spool material system, 250 × 250 × 260 mm build volume."
+title: "Anycubic Kobra 3 Combo 3D Printer"
+seoDescription: "FDM 3D printing in central Tallinn: Anycubic Kobra 3 Combo, 250 × 250 × 260 mm, four ACE Pro spools for multi-colour prints, PETG in stock. Access 24/7."
 specs:
-  - { label: "Technology",   value: "FDM" }
-  - { label: "Build volume", value: "250 × 250 × 260 mm" }
-  - { label: "Materials",    value: "PLA, PETG, TPU" }
-  - { label: "Nozzle",       value: "0.4 mm, up to 300 °C" }
-  - { label: "Multi-colour", value: "ACE Pro, up to 4 spools" }
-  - { label: "Slicer",       value: "Anycubic Slicer, OrcaSlicer" }
+  - { label: "Build volume",  value: "250 × 250 × 260 mm" }
+  - { label: "Speed",         value: "up to 600 mm/s, typically 350" }
+  - { label: "Nozzle",        value: "0.4 mm, up to 300 °C" }
+  - { label: "Bed",           value: "up to 110 °C, flexible magnetic plate" }
+  - { label: "Multi-colour",  value: "ACE Pro for 4 spools, with drying" }
+  - { label: "Materials",     value: "PLA, PETG, TPU" }
+  - { label: "Slicer",        value: "Anycubic Slicer Next on the laptop next to the printers" }
+  - { label: "Files",         value: "from a USB stick" }
 ---
 
-<!-- TODO: verify against the actual machine — which filaments are stocked, whether the ACE Pro
-     dryer is in use, real maximum speeds after tuning, nozzle sizes available. -->
-
-An FDM printer builds parts by laying down molten plastic layer by layer. It is the fastest route
-from a 3D model to a part you can hold: no moulds, no machining, and a design change costs
-nothing but another print.
-
-The Combo version adds a four-spool material system, so a single print can mix colours or
-combine a model with dissolvable support. Typical jobs here are enclosures, brackets, jigs,
-replacement parts and prototypes ahead of a laser or CNC run.
-
-## What you can make
-
-- Enclosures and housings for electronics
-- Brackets, mounts and adapters
-- Jigs and fixtures for other tools
-- Multi-colour models, signage and lettering
-- Replacement parts for things that broke
+A four-spool printer: the ACE Pro swaps filament during the print, so one part can be
+multi-coloured or have soluble supports. The 250 × 250 × 260 mm volume fits an electronics
+enclosure, a bracket or a spare part. For bigger parts the Kobra 3 Max stands next to it.
 
 ## Materials
 
-**Works well:** PLA for most parts, PETG when the part must survive heat or sunlight, TPU for
-flexible parts.
-
-**Ask first:** abrasive filaments (carbon or glass filled) wear out the standard nozzle, and ABS
-needs ventilation and an enclosure.
-
-## Safety
-
-- The nozzle runs at up to 300 °C and the bed gets hot: do not reach into the machine mid-print.
-- Do not leave a first layer unattended — that is when things go wrong.
-- Remove parts with the print sheet off the bed, not by prying at them with a knife in place.
-- Keep the printer's area clear of paper and other flammables.
+PETG is always in stock and free to use. You can bring your own filament. Put an opened spool
+straight into the ACE Pro: it doubles as a dryer, for your filament too. Do not load abrasive
+filaments with carbon or glass fibre; they wear out the standard nozzle.
 
 ## How to use
 
-1. Prepare the model as STL or 3MF and slice it in Anycubic Slicer or OrcaSlicer.
-2. Check that the filament loaded matches your profile; swap it if it does not.
-3. Level check: the printer runs its own calibration, but watch the first layer go down.
-4. Start the print, stay for the first layer, and check the part after the first few millimetres.
-5. When done, take the part off, clean the plate, and put leftover filament back in its bag with
-   the desiccant.
+1. Slice your STL or 3MF in Anycubic Slicer Next. It is installed on the Lenovo laptop next to
+   the printers, and you can install it on your own computer.
+2. Copy the file to a USB stick, they lie next to the printers, and plug it into the printer.
+   Printing over the network is not set up yet.
+3. Check that the right filament is loaded and start the file from the printer's screen.
+4. Watch the first layer. If it lifts, raise the bed temperature. If that does not help, there
+   is a glue stick nearby; after such a print, clean the plate yourself.
+5. You may leave the printer running, but it has no sensor for a part that came loose, so look
+   in from time to time.
+6. When the print is done, take the magnetic plate off, let it cool a little and flex the part
+   off. Do not pry parts off on the bed.
+
+## Take care
+
+- The nozzle runs at up to 300 °C and the bed at up to 110 °C. Keep your hands out while it
+  prints.
+- Clear away filament scraps and supports and put the plate back.
 
 ## Access
 
-The printer is in the hackspace room, so a plan that includes hackspace access is required.
-No induction is needed, but ask someone to show you the material change the first time.
+The printer is in the hackspace room, so a plan with hackspace access is required. No induction
+is needed.

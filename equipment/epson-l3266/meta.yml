@@ -3,10 +3,11 @@ slug:
   et: tindiprinter-skanner-epson-l3266
   ru: struynyy-printer-skaner-epson-l3266
 
-status: draft          # TODO: switch to active after the text is proofread
+status: active         # proofread 2026-09-03
 category: printing
 order: 26
 zone: coworking
+code: C02              # sticker code; the QR on the sticker opens fab20.ee/p/C02
 
 cover: images/cover.jpg
 gallery:

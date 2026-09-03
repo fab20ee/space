@@ -3,10 +3,11 @@ slug:
   et: bga-remondijaam-ir6500
   ru: bga-remontnaya-stantsiya-ir6500
 
-status: draft          # TODO: switch to active after the text is proofread
+status: active         # proofread 2026-09-03
 category: electronics
 order: 43
 zone: hackspace
+code: S03              # sticker code; the QR on the sticker opens fab20.ee/p/S03
 
 cover: images/cover.jpg
 gallery:
@@ -16,7 +17,9 @@ rental:
   enabled: false
 
 induction:
-  required: true       # IR heaters, mains-powered, easy to destroy a board — show people once
+  required: false      # nobody here has used it yet, so nobody can show it: "at your own risk" (2026-09-03)
+
+# TODO (buy): vacuum tweezers and reballing stencils — the station is useless for a real BGA job without them
 
 # serial: "..."        # TODO: copy from the nameplate
 

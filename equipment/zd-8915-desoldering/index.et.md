@@ -1,53 +1,42 @@
 ---
-title: "Lahtijootejaam ZD-8915"
-seoDescription: "Vaakumiga lahtijootejaam Tallinna hackspace'is. ZD-8915 kuumutatava imipüstoliga eemaldab läbiviikkomponendid puhtalt ja plaati kahjustamata."
+title: "Lahtijootmisjaam ZD-8915"
+seoDescription: "Vaakumiga lahtijootmisjaam Tallinna hackspace'is: ZD-8915, 90 W, 160–480 °C, kuumutatav otsik pumbaga võtab läbiviikkomponendid välja ilma padjandeid lahti kiskumata. Ligipääs 24/7."
 specs:
-  - { label: "Tüüp",        value: "vaakum-lahtijootepüstol sisseehitatud pumbaga" }
-  - { label: "Temperatuur", value: "160–480 °C, digitaalne reguleerimine" }
-  - { label: "Otsikud",     value: "vahetatavad imiotsikud, mitu läbimõõtu" }
-  - { label: "Ekraan",      value: "LCD seatud ja tegeliku temperatuuriga" }
+  - { label: "Tüüp",        value: "vaakumiga lahtijootepüstol sisseehitatud pumbaga" }
+  - { label: "Küttekeha",   value: "90 W, 160–480 °C" }
+  - { label: "Vaakum",      value: "kuni 600 mm Hg" }
+  - { label: "Otsik",       value: "üks, õõnes, temperatuurianduriga" }
+  - { label: "Ekraan",      value: "seatud ja tegelik temperatuur" }
 ---
 
-<!-- TODO: kontrolli päris jaama järgi — kütteelemendi võimsus, millised otsikute läbimõõdud on
-     laual, filtrite seisukord. -->
+Tööriist, millega võtta plaadilt läbiviikkomponente välja nii, et ei komponent ega plaat ei saaks
+kahju. Püstolis on õõnes kuumutatav otsik ja vaakumpump: otsik pannakse viigule, tina sulab, nupu
+vajutus tõmbab selle sisse ja auk jääb tühjaks. Kolvi ja vedruimuriga võtab sama asi kümme korda
+kauem ja lõpeb tihti lahti tulnud padjandiga.
 
-Lahtijootejaam teeb üht asja hästi: sulatab jootekoha ja imeb tina sama liigutusega välja. Püstolil
-on kuumutatav õõnes otsik ja selle taga vaakumpump — vajuta päästikule ja jootekoht on tühi. 40
-kontaktiga pistiku eemaldamine võtab nii minuti ja jätab jootepinnad ja komponendi terveks; tavalise
-kolvi ja vedruimuriga võtab see palju kauem ja tõstab sageli jootepinna üles.
-
-See on tööriist vanadelt plaatidelt osade päästmiseks, läbiviikkomponentide vahetamiseks ja aukude
-puhastamiseks enne uue detaili paigaldamist.
-
-## Milleks see sobib
-
-- Mitmekontaktiliste pistikute, kiibipesade ja DIP-kiipide eemaldamine ühes tükis
-- Elektrolüütkondensaatorite ja muude läbiviikosade vahetamine remondil
-- Metalliseeritud aukude puhastamine vanast tinast
-- Kasutuskõlblike komponentide päästmine vanadelt plaatidelt
-
-## Ohutus
-
-- Otsik on 350 °C või kuumem ja ka püstoli sees olev sisseimetud tina on kuum. Ära puutu otsikut
-  ega kogumiskambrit, enne kui need on jahtunud.
-- Pane püstol iga kord hoidikusse tagasi. Mitte kunagi lauale.
-- Pumba väljalase kannab räbustiaure — kasuta suitsuimurit või ava aken.
-- Ära suru otsikut tugevalt jootepinna vastu: kuumuta, oota tina sulamist, siis vajuta päästikule.
+Milleks seda päriselt vaja on: võtta 40 kontaktiga pistik või DIP-kiip minutiga tervelt välja,
+vahetada vana toiteploki paisunud elektrolüütkondensaatorid, päästa töökorras detailid
+praakplaadilt, puhastada augud enne uue detaili paigaldamist.
 
 ## Kuidas kasutada
 
-1. Lülita sisse ja sea pliivaba tina jaoks umbes 350–380 °C; veidi kõrgem kui jootmisel, sest otsik
-   peab jootekoha läbi õõnsuse üles sulatama.
-2. Vali otsik, mille auk on komponendi jala läbimõõdust veidi suurem.
-3. Aseta otsik jalale, oota kaks-kolm sekundit, kuni tina täielikult sulab, liiguta jalga õrnalt, et
-   see vabaneks, ja vajuta päästikule.
-4. Liigu järgmise jala juurde. Kui jootekoht ei tühjene, lisa sellele kõigepealt värsket tina ja
-   proovi uuesti.
-5. Lõpus lase pumbal paar sekundit otsik õhus töötada, et see puhtaks puhuda, puhasta otsik, tühjenda
-   kogumiskamber, kui see on täis, ja lülita välja.
+1. Lülita sisse, sea pliivaba tina jaoks 350–380 °C. See on veidi kõrgem kui jootmisel: otsik
+   soojendab liidet läbi õõnsuse.
+2. Pane otsik viigule, oota kaks-kolm sekundit, kuni tina on täielikult sulanud, liiguta viiku veidi
+   ja vajuta nuppu.
+3. Kui auk ei tühjenenud, lisa sellele värsket tina ja korda: vana oksüdeerunud tina sulab halvemini.
+4. Lõpus hoia pumpa mõni sekund töös otsikuga õhus, et see läbi puhuda, ja lülita jaam välja.
+
+Kogutud tina kambrit ja filtrit puhastame aeg-ajalt me. Kui kamber on täis ja tööd on vaja teha, saab
+selle ise tühjendada: see keeratakse püstoli küljest lahti, tina sees on tahkunud laastudena.
+
+## Oluline
+
+- Otsik ja tinakamber on kuumad. Püstol käib ainult hoidikusse.
+- Ära suru otsikuga padjandile. Kõigepealt sulata, siis vajuta nuppu.
+- Pumba väljalase kannab räbustiaure, ava aken.
 
 ## Ligipääs
 
-Jaam asub hackspace'i ruumi elektroonikalaual, seega on vaja paketti, mis sisaldab hackspace'i
-ligipääsu. Ohutusinstruktaaži pole vaja, aga esimesel korral palu kellelgi näidata, kuidas
-tinakambrit tühjendada.
+Jaam asub hackspace'i ruumi elektroonikalaual, vaja on hackspace'i ligipääsuga paketti. Instruktaaži
+ei ole vaja. Jaam jääb ruumi, rendile seda ei anta.

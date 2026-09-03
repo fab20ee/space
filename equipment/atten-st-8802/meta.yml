@@ -3,17 +3,21 @@ slug:
   et: jootejaam-atten-st-8802
   ru: payalnaya-stantsiya-atten-st-8802
 
-status: draft          # TODO: switch to active after the text is proofread
+status: active         # proofread 2026-09-03
 category: electronics
 order: 40
 zone: hackspace
+code: S01              # sticker code (S = soldering); the QR on the sticker opens fab20.ee/p/S01
 
 cover: images/cover.jpg
 gallery:
   - images/gallery-01.jpg
+  - images/gallery-02.jpg   # the box of tips, solder and flux that lives next to the station
 
-rental:
-  enabled: false
+rental:                # cheap enough to rent out: if it walks, another one gets bought (2026-09-03)
+  enabled: true
+  dailyRate: 10.00
+  deposit: 0.00
 
 induction:
   required: false

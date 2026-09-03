@@ -1,55 +1,38 @@
 ---
 title: "Programmeeritav toiteplokk OWON SPE3102"
-seoDescription: "Programmeeritav laboritoiteplokk Tallinna hackspace'is. OWON SPE3102: 0–30 V, 0–10 A, 200 W, üle- pinge- ja voolukaitsega ning USB-laadimispordiga."
+seoDescription: "Laboritoiteplokk Tallinna hackspace'is: OWON SPE3102, 0–30 V, 0–10 A, 200 W, voolupiirang, OVP- ja OCP-kaitse, tarbimise graafik ekraanil. Ligipääs 24/7."
 specs:
   - { label: "Väljund",     value: "0–30 V, 0–10 A, 200 W" }
-  - { label: "Lahutusvõime", value: "1 mV / 1 mA" }
+  - { label: "Lahutus",     value: "1 mV / 1 mA" }
   - { label: "Kaitse",      value: "OVP, OCP, ülekuumenemine" }
-  - { label: "Ekraan",      value: "2,8\" värviline LCD V/A trendigraafikuga" }
-  - { label: "Lisad",       value: "5 V / 1 A USB-laadimisport, USB arvutist juhtimiseks" }
+  - { label: "Ekraan",      value: "värviline 2,8\", pinge, vool ja graafik" }
+  - { label: "Veel",        value: "USB 5 V / 1 A laadimiseks; arvutist juhtimine seadistamata" }
+  - { label: "Juhtmed",     value: "plokis, varu on riiulil" }
 ---
 
-<!-- TODO: kontrolli päris seadme järgi — püsivara, kas arvutist juhtimine on seadistatud,
-     millised juhtmed on kaasas. -->
-
-Laua peamine toiteplokk. Programmeeritav toiteplokk annab puhta, reguleeritava alalispinge ja
-voolupiiri, mille sead ise — nii et kui värskes skeemis on lühis, jääb plokk lihtsalt piirile pidama,
-selle asemel et suitsu välja lasta. Saadaoleva 10 A juures toidab see ka mootoreid, LED-ribasid ja
-kütteelemente, mitte ainult väikeseid loogikaplaate.
-
-Ekraan näitab pinget ja voolu reaalajas ning joonistab trendigraafiku, mis on kasulik, kui tahad
-jälgida, kui palju seade aja jooksul tegelikult tarbib.
-
-## Milleks see sobib
-
-- Prototüübi toitmine täpselt vajaliku pingega ja ohutu voolupiiriga
-- Lühise otsimine: sea piir madalale, vaata, kuidas pinge kokku kukub, otsi soe detail
-- Seadme tarbimise mõõtmine — jõudeolekus, töös, unerežiimis
-- Akude laadimine või testimine järelevalve all, OVP valvurina
-- Mootorite, pumpade, LED-ribade ja muude kuni 200 W koormuste toitmine
-
-## Ohutus
-
-- Sea voolupiir **enne** skeemi ühendamist ja nii madalale, kui skeem lubab. Just see päästab
-  plaadid.
-- Kontrolli polaarsust kaks korda. Punane on pluss, must on miinus; roheline klemm on maandus, mitte
-  miinus.
-- 10 A läbi peenikeste juhtmete või makettplaadi on tuleoht — kasuta suurte voolude jaoks
-  korralikke juhtmeid.
-- Ära ühenda toiteploki väljundit kunagi pinge all oleva skeemi ega teise toiteallikaga.
-- Ära kasuta seda liitiumelementide jaoks ilma korraliku laadimisskeemita või inimeseta, kes teab,
-  mida ta teeb.
+Elektroonikalaua põhiline toiteplokk. Pinge ja voolupiir seatakse millivoldi ja milliampri
+täpsusega, ja kui värskes skeemis on lühis, jääb plokk piiri peale, mitte ei lase suitsu. 10 A
+jätkub mootoritele, LED-ribadele ja kütteelementidele, mitte ainult mikrokontrolleriplaatidele.
+Ekraani graafik näitab, kui palju seade ajas tarbib.
 
 ## Kuidas kasutada
 
-1. Lülita sisse **väljalülitatud** väljundiga. Sea pinge nupu ja V-klahviga, siis voolupiir
-   I-klahviga.
-2. Soovi korral sea OVP ja OCP veidi tööväärtustest kõrgemale teise valvurina.
-3. Ühenda juhtmed skeemiga, kontrolli polaarsust, siis vajuta On/Off, et väljund sisse lülitada.
-4. Jälgi ekraani: kui CC-indikaator põleb, on plokk voolupiiris — skeem tarbib rohkem, kui lubasid.
-5. Lõpus lülita esmalt väljund välja, siis ühenda juhtmed lahti, siis lülita seade välja.
+1. Lülita plokk sisse väljalülitatud väljundiga. Nupuga V ja nupuga sea pinge, nupuga I voolupiir.
+   Piir sea nii madalale, kui skeem lubab: see päästab plaadid.
+2. Soovi korral sea OVP ja OCP veidi üle tööväärtuste teiseks kaitseks.
+3. Ühenda juhtmed, kontrolli polaarsust: punane pluss, must miinus, roheline klemm on maandus, mitte
+   miinus. Vajuta On/Off, et väljund sisse lülitada.
+4. Indikaator CC tähendab, et skeem tarbib rohkem, kui lubasid, ja plokk hoiab voolu.
+5. Lõpus lülita esmalt välja väljund, siis võta juhtmed ära, siis lülita plokk välja.
+
+## Oluline
+
+- 10 A läbi peenikeste juhtmete või makettplaadi kuumutab need tulekahjuni. Suurte voolude jaoks
+  võta korralikud juhtmed riiulilt.
+- Ära ühenda väljundit pinge all oleva skeemiga ega paralleelselt teise allikaga.
+- Liitiumelemente sellest ei laeta, selleks on vaja laadimisskeemi.
 
 ## Ligipääs
 
-Toiteplokk asub hackspace'i ruumi elektroonikalaual, seega on vaja paketti, mis sisaldab hackspace'i
-ligipääsu. Ohutusinstruktaaži pole vaja.
+Plokk asub hackspace'i ruumi elektroonikalaual, vaja on hackspace'i ligipääsuga paketti. Instruktaaži
+ei ole vaja. Plokk jääb ruumi.

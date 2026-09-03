@@ -3,10 +3,11 @@ slug:
   et: laserprinter-canon-lbp7010c
   ru: lazernyy-printer-canon-lbp7010c
 
-status: draft          # TODO: switch to active after the text is proofread
+status: active         # proofread 2026-09-03
 category: printing
 order: 25
 zone: coworking
+code: C01              # sticker code; the QR on the sticker opens fab20.ee/p/C01
 
 cover: images/cover.jpg
 gallery:

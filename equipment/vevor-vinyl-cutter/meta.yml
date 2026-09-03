@@ -3,10 +3,11 @@ slug:
   et: vinuulloikur-vevor
   ru: rezhushchiy-plotter-vevor
 
-status: draft          # TODO: switch to active after the text is proofread
+status: active         # proofread 2026-09-03
 category: cutting
 order: 12
-zone: coworking        # TODO: confirm — photographed next to the printers on the coworking side
+zone: coworking        # next to the printers, confirmed 2026-09-03
+code: C05              # sticker code; the QR on the sticker opens fab20.ee/p/C05
 
 cover: images/cover.jpg
 gallery:

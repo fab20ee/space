@@ -3,10 +3,11 @@ slug:
   et: co2-laserloikur-100w
   ru: lazernyy-stanok-co2-100w
 
-status: draft          # TODO: switch to active after the text is proofread
+status: active         # proofread 2026-09-02
 category: cutting
 order: 10
 zone: hackspace
+code: L01              # sticker code; the QR on the sticker opens fab20.ee/p/L01
 
 cover: images/cover.jpg
 gallery:

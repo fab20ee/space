@@ -1,49 +1,39 @@
 ---
 title: "Kahekanaliline toiteplokk Farnell PDA3502A"
-seoDescription: "Kahe väljundiga lineaarne laboritoiteplokk Tallinna hackspace'is. Farnell PDA3502A: kaks sõltumatut 0–35 V, 0–2 A kanalit jälgimisrežiimiga sümmeetriliste ±V analoogskeemide jaoks."
+seoDescription: "Kahekanaliline lineaarne laboritoiteplokk Tallinna hackspace'is: Farnell PDA3502A, kaks kanalit 0–35 V, 0–2 A, jälgimisrežiim sümmeetriliseks ±V toiteks analoogskeemidele. Ligipääs 24/7."
 specs:
-  - { label: "Väljundid",   value: "2 sõltumatut kanalit" }
+  - { label: "Väljundid",  value: "2 sõltumatut kanalit" }
   - { label: "Kanali kohta", value: "0–35 V, 0–2 A" }
-  - { label: "Režiimid",    value: "sõltumatu või master/slave jälgimine" }
-  - { label: "Tüüp",        value: "lineaarne, osutinäidikud" }
+  - { label: "Režiimid",   value: "sõltumatu või juht/järgija (tracking)" }
+  - { label: "Tüüp",       value: "lineaarne, osutinäidikud" }
+  - { label: "Juhtmed",    value: "plokis, varu on riiulil" }
 ---
 
-<!-- TODO: kontrolli päris seadme järgi — kalibreerimise seis, kas mõlemad kanalid on
-     spetsifikatsiooni piires, klemmide seisukord. -->
+Vana kooli lineaarne plokk kahe väljundi ja osutitega, ja laual on ta põhjusega. Operatsioonivõimendite
+skeemid ja heliastmed vajavad plussi ja miinust korraga: jälgimisrežiimis kordab teine kanal
+esimest ja ühe nupuga saad sümmeetrilise ±12 või ±15 V. Lineaarse allikana ei tekita ta peaaegu
+üldse impulsshäireid, mis on märgata, kui vaatad nõrku signaale ostsilloskoobiga.
 
-Vana kooli lineaarne toiteplokk kahe väljundi ja osutinäidikutega, ja põhjus, miks see ikka laual
-seisab, on lihtne: kaks kanalit. Paljud analoogskeemid — operatsioonivõimendid, heliastmed,
-mõõtevõimendid — vajavad korraga positiivset ja negatiivset toitesiini. Jälgimisrežiimis järgib teine
-kanal esimest, nii et üks nupp annab puhta, sümmeetrilise ±12 V või ±15 V.
-
-Lineaarsena on sellel väga vähe lülitusmüra, mis on oluline, kui vaatad ostsilloskoobil väikeseid
-signaale. Näidikutel on kirjas „ainult orienteeruvaks" — kui täpne väärtus loeb, kasuta multimeetrit.
-
-## Milleks see sobib
-
-- Sümmeetriline toide operatsioonivõimendi- ja heliskeemidele
-- Kahe eraldi plaadi või plaadi ja selle anduri toitmine eri pingetel
-- Madala müraga toide mõõtmisteks, kus impulsstoiteplokk paistaks ostsilloskoobil välja
-- Kõik, mis vajab kuni 35 V — rohkem kui teised laual olevad toiteplokid annavad
-
-## Ohutus
-
-- Keera voolunupud enne uue skeemi ühendamist alla ja tõsta ainult nii palju, kui vaja.
-- Jälgimisrežiimis on kaks kanalit seespool jadamisi ühendatud — vaata enne esimest ±V toite
-  ehitamist juhendi ühendusskeemi.
-- Punane on pluss, must on miinus, roheline klemm on maandus. Kaks kanalit tähendab kaks korda
-  rohkem võimalusi eksida.
-- Seade läheb töös soojaks; hoia õhutusavad vabad.
+Osutinäidikud on orienteerumiseks. Kui täpne väärtus on tähtis, mõõda väljund multimeetriga.
 
 ## Kuidas kasutada
 
-1. Lülita sisse väljalülitatud väljunditega. Vali režiimilülitiga INDEP või TRACK.
-2. Sea pinge igal kanalil (või jälgimisrežiimis master-kanalil) ja voolupiir.
-3. Ühenda juhtmed, kontrolli polaarsust ja lülita väljund sisse.
-4. Kui täpsus loeb, mõõda pinge multimeetriga.
-5. Lõpus lülita väljundid välja, ühenda juhtmed lahti ja lülita seade välja.
+1. Lülita sisse väljalülitatud väljunditega. Lülitiga vali INDEP või TRACK.
+2. Voolunupud miinimumi, siis sea pinge igal kanalil või jälgimisrežiimis juhtkanalil. Voolupiiri
+   tõsta ainult skeemile vajalikuni.
+3. ±V jaoks vaata ühendusskeemi juhendist: jälgimisrežiimis on kanalid ühendatud jadamisi ja
+   keskpunkt saab ühiseks juhtmeks.
+4. Ühenda juhtmed, kontrolli polaarsust mõlemal kanalil, lülita väljund sisse.
+5. Lõpus lülita väljundid välja, võta juhtmed ära, lülita plokk välja.
+
+## Oluline
+
+- Punane pluss, must miinus, roheline klemm maandus. Kaks kanalit, kaks korda rohkem võimalusi segi
+  ajada.
+- Ära ühenda väljundit pinge all oleva skeemiga ega paralleelselt teise allikaga.
+- Töös plokk soojeneb, ära kata ventilatsiooniavasid.
 
 ## Ligipääs
 
-Toiteplokk asub hackspace'i ruumi elektroonikalaual, seega on vaja paketti, mis sisaldab hackspace'i
-ligipääsu. Ohutusinstruktaaži pole vaja.
+Plokk asub hackspace'i ruumi elektroonikalaual, vaja on hackspace'i ligipääsuga paketti. Instruktaaži
+ei ole vaja. Plokk jääb ruumi.

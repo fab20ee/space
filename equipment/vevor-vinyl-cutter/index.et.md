@@ -1,59 +1,36 @@
 ---
-title: "Vinüüllõikur Vevor"
-seoDescription: "Lauapealne vinüüli lõikeplotter FAB20-s Tallinnas. Vevor lõikur kleepvinüülist kleebiste, T-särkide termovinüüli, paberi ja kartongi jaoks — noaga lõikamine vektorfailist."
+title: "Lõikeplotter Vevor"
+seoDescription: "Lõikeplotter FAB20 coworkingus Tallinnas: Vevor kahe tööriista ja optilise märgiotsinguga, kleebised kontuuri järgi pärast printimist, vinüül, kile, papp. Ligipääs 24/7."
 specs:
-  - { label: "Tüüp",           value: "lauapealne lohisevnoaga lõikeplotter" }
-  - { label: "Materjali laius", value: "kuni 12\" (305 mm) lõikematil" }
-  - { label: "Materjalid",     value: "kleepvinüül, termovinüül, paber, kartong, õhukesed fooliumid" }
-  - { label: "Tööriistad",     value: "sügavuse reguleerimisega nuga, pliiatsihoidik" }
-  - { label: "Ühendus",        value: "USB, Bluetooth; vektorfailid (SVG, DXF)" }
+  - { label: "Tüüp",          value: "lauaplotter" }
+  - { label: "Tööriistad",    value: "kaks korraga: nuga ja teine tööriist, näiteks marker või nuutimine" }
+  - { label: "Märgid",        value: "optiline märgiotsing: lõikamine prinditu kontuuri järgi" }
+  - { label: "Materjalid",    value: "isekleepuv paber ja kile, vinüül, papp" }
+  - { label: "Juhtimine",     value: "plotteri programm kõrvalolevas arvutis" }
 ---
 
-<!-- TODO: kinnita täpne mudel, lõikelaius ja kasutatav tarkvara (Vevori rakendus, Inkscape'i
-     plugin, SignMaster); märgi, milline vinüül on laos ja kus on puhastustööriistad. -->
-
-Vinüüllõikur on plotter, millel on pliiatsi asemel nuga. Pane kleepvinüüli leht matile, saada sellele
-vektorjoonis ja tera lõikab kontuuri läbi vinüüli, aga mitte läbi aluspaberi. Koori üleliigne maha,
-kanna ülekandekilega peale ja sul on kleebis, silt või tähed, mis näevad välja nagu
-professionaalselt tehtud.
-
-Termovinüüliga teeb sama masin T-särgi- ja kotitrükke: lõika peegelpildis, puhasta, triigi peale.
-See lõikab ka paberit ja kartongi kaartide, šabloonide ja pakendimakettide jaoks.
-
-## Mida saab valmistada
-
-- Kleebised, dekaalid ja aknatähed
-- Sildid seadmetele ja hoiukarpidele
-- T-särgi- ja riidekotitrükid termovinüüliga
-- Paberi- ja kartongilõiked, šabloonid, õnnitluskaardid
-- Maskid pihustusvärvimiseks ja söövitamiseks
-
-## Materjalid
-
-**Sobivad hästi:** kleepvinüül (matt, läikiv, värviline), termovinüül, paber, kartong, õhukesed
-käsitööfooliumid.
-
-**Mitte siia:** kõik üle u 0,5 mm paksuse, kangas, nahk, magnetleht — see on laseri või noa töö. Ja
-erinevalt laserist tohib siin vinüüli lõigata — masin on selleks tehtud.
-
-## Ohutus
-
-- Tera on väike, aga terav. Hoia terahoidikut korpusest ja vaheta terasid pintsettidega.
-- Hoia sõrmed liikuvast kelgust eemal.
-- Puhastustööriistad on konksud ja noad — pane korgid peale ja tööriistad tagasi.
+Plotter lõikab vektorkontuuri järgi välja selle, mida printer printida saab, aga lõigata mitte:
+kleebised pildi kuju järgi, šabloonid, vinüülist kirjad, papist karbi laotused. Peamine oskus:
+lõikamine märkide järgi. Pildi ja märkidega leht prinditakse kõrvaloleval printeril, plotter leiab
+märgid kaameraga ja lõikab täpselt kontuuri järgi, ka kui leht on viltu. Kaks tööriista on korraga
+peal, nii et ühe läbimisega saab näiteks kleebised läbi lõigata ja murdejooned nuutida.
 
 ## Kuidas kasutada
 
-1. Valmista kujundus vektorina (SVG või DXF). Tekst tuleb teisendada kontuurideks. Termovinüüli
-   jaoks peegelda kujundus.
-2. Kleebi vinüül lõikematile, silu ja lae matt masinasse noolega sissepoole.
-3. Sea tera sügavus materjali järgi ja tee nurka väike testlõige. Lõige peab minema läbi vinüüli ja
-   ainult kriimustama aluspaberit.
-4. Saada töö ja jää masina juurde.
-5. Võta välja, puhasta üleliigne konksuga ja kanna ülekandekilega peale. Puhasta matt jääkidest ja
-   pane terale kate peale.
+1. Plotteri programm on printerite kõrval olevas arvutis. See juhib kogu protsessi: pildi
+   printimine märkidega printeril, seejärel lõikamine nende märkide järgi.
+2. Materjal on printerite kohal riiulil: isekleepuv paber, kile, papp. Oma materjali võib kaasa tuua.
+3. Valmista fail ette: lõikekontuurid eraldi kihil või värviga, märgid lisab programm.
+4. Prindi leht, pane see plotterisse märgiga programmi näidatud nurka, käivita märgiotsing ja
+   lõikamine.
+5. Printimiseta kleebistele, näiteks vinüülkirjadele, märke vaja ei ole: laadi materjal ja lõika kohe.
+6. Pärast tööd võta materjal ja jäägid välja, vii nuga parkimisasendisse.
+
+## Oluline
+
+- Noa sügavus leia prooviga materjalitükil: kleebiste puhul lõika ainult kile, mitte alust.
+- Ära lõika pabist paksemat ega metalliseeritud materjale ilma proovita.
 
 ## Ligipääs
 
-Lõikur asub coworking-poolel ja on iga paketi hinnas. Vinüüli on mõistlikes piirides; suurema töö
-jaoks too oma rull. Esimesel korral palu kellelgi tera sügavuse seadistamist näidata.
+Asub coworkingus, saadaval iga paketiga.

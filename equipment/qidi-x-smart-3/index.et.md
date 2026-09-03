@@ -1,60 +1,49 @@
 ---
 title: "3D-printer QIDI X-Smart 3"
-seoDescription: "Suletud kambriga CoreXY 3D-printer Tallinna kesklinnas. QIDI X-Smart 3 prindib ABS-i ja ASA-t kaardumiseta — väikesed, kiired ja täpsed detailid."
+seoDescription: "Suletud kambriga CoreXY 3D-printer Tallinna kesklinnas: QIDI X-Smart 3, ala 175 × 180 × 170 mm, kuni 500 mm/s, ABS ja ASA ilma kõverdumiseta. Ligipääs 24/7."
 specs:
-  - { label: "Tehnoloogia",  value: "FDM, CoreXY" }
-  - { label: "Tööala",       value: "175 × 180 × 170 mm" }
-  - { label: "Kamber",       value: "täielikult suletud" }
-  - { label: "Materjalid",   value: "PLA, PETG, ABS, ASA, TPU" }
-  - { label: "Otsik",        value: "0,4 mm, kuni 280 °C" }
-  - { label: "Max kiirus",   value: "500 mm/s" }
-  - { label: "Püsivara",     value: "Klipper" }
-  - { label: "Slicer",       value: "QIDI Slicer, OrcaSlicer" }
+  - { label: "Kinemaatika",   value: "CoreXY, suletud kamber" }
+  - { label: "Prindiala",     value: "175 × 180 × 170 mm" }
+  - { label: "Kiirus",        value: "kuni 500 mm/s" }
+  - { label: "Düüs",          value: "0,4 mm, kuni 280 °C" }
+  - { label: "Laud",          value: "painduv magnetplaat" }
+  - { label: "Materjalid",    value: "PLA, PETG, ABS, ASA, TPU" }
+  - { label: "Püsivara",      value: "Klipper" }
+  - { label: "Slicer",        value: "QIDIStudio printerite kõrval oleval sülearvutil" }
+  - { label: "Failid",        value: "mälupulgalt" }
 ---
 
-<!-- TODO: kontrolli päris masina järgi — milline otsik on paigaldatud, millised filamendid on
-     laos, kas kaamera ja võrgu kaudu printimine on seadistatud. -->
-
-Kompaktne, täielikult suletud CoreXY-printer. Suletud kamber on siin peamine: see hoiab detaili
-ümber sooja õhu, nii et ABS ja ASA tulevad välja kaardumise ja pragudeta — midagi, mida ruumi
-avatud printerid lubada ei saa. Tööala on väike, aga masin on kiire ja detailid täpsed.
-
-Kasuta seda funktsionaalsete detailide jaoks, mis peavad taluma kuumust või koormust: hammasrattad,
-klambrid, klõpsuga sulguvad korpused, kinnitused kõigele, mis elab mootori lähedal või autos.
-
-## Mida saab valmistada
-
-- ABS- ja ASA-detailid, mis peavad taluma kuumust, päikest või korduvat paindumist
-- Väikesed täpsed mehhanismid: hammasrattad, hinged, klõpskinnitused
-- Korpused anduritele ja väikesele elektroonikale
-- Kiired prototüübid, kui suurem printer on hõivatud
+Väike kiire printer suletud kambriga. Kamber hoiab detaili ümber sooja õhku, seepärast prindib
+ABS ja ASA siin ilma kõverdumise ja pragudeta, mida kõrval seisvad avatud Kobrad ei suuda. Ala on
+väike, 175 × 180 × 170 mm: väikesed korpused, hammasrattad, kinnitused, detailid, mis peavad
+vastu pidama koormusele ja kuumusele.
 
 ## Materjalid
 
-**Sobivad hästi:** ABS ja ASA (uksed suletud), PLA ja PETG (ülakate ja esiuks avatud — vt allpool),
-TPU.
-
-**Küsi enne:** abrasiivsed filamendid (süsinik- või klaaskiuga) ja kõik, mis vajab otsikul üle
-280 °C.
-
-## Ohutus
-
-- Otsik on kuni 280 °C, alus ja kamber on kuumad: lase masinal enne sisse haaramist jahtuda.
-- ABS ja ASA eraldavad aure — hoia uksed nende printimise ajal suletud ja tuuluta ruumi pärast.
-- Ära jäta esimest kihti järelevalveta.
-- Võta detail koos prindiplaadiga alusest ära, ära kasuta noaga masina sees.
+PETG on alati olemas ja seda võib kasutada. Oma filamenti võib kaasa tuua. ABS-i ja ASA jaoks hoia
+pealmine kaas kogu printimise ajal kinni, PLA jaoks võta see parem ära, muidu detail kuumeneb üle.
+Abrasiivseid filamente süsinik- või klaaskiuga ära laadi, need kulutavad tavalise düüsi.
 
 ## Kuidas kasutada
 
-1. Lõika mudel QIDI Sliceris või OrcaSliceris laaditud filamendi profiiliga.
-2. PLA ja TPU jaoks ava enne alustamist ülakate ja esiuks — muidu läheb kamber liiga soojaks,
-   filament pehmeneb ja otsik ummistub. ABS-i ja ASA jaoks hoia need suletud.
-3. Kontrolli, et laaditud filament vastab sinu profiilile.
-4. Käivita print, jää esimese kihi ajaks juurde ja kontrolli detaili paari millimeetri järel.
-5. Lõpus lase kambril jahtuda, võta detail ära, puhasta plaat ja pane järelejäänud filament koos
-   kuivatusainega kotti tagasi.
+1. Lõika STL- või 3MF-mudel QIDIStudios. Programm on printerite kõrval Lenovo sülearvutil, selle
+   saab panna ka enda arvutisse.
+2. Vii valmis fail mälupulgale, pulgad on printerite kõrval, ja pane pulk printerisse. Võrgu kaudu
+   printimine ei ole veel seadistatud.
+3. Kontrolli, et laetud on õige filament, ja käivita fail printeri ekraanilt.
+4. Jälgi esimest kihti. Kui see tuleb lahti, tõsta laua temperatuuri. Kui see ei aidanud, on kõrval
+   liimipulk; pärast sellist printi tuleb plaat ise puhtaks teha.
+5. Printiva printeri juurest võib ära minna, aga lahtitulnud mudeli andurit sellel pole, seega
+   vaata aeg-ajalt sisse.
+6. Pärast printimist võta magnetplaat ära, lase sellel veidi jahtuda ja painuta detail lahti. Ära
+   kangu detaili laual.
+
+## Oluline
+
+- Düüs kuumeneb 280 °C-ni, laud ja kambri õhk on kuumad. Ära pane kätt sisse printimise ajal.
+- ABS ja ASA lõhnavad printimisel. Ära ava kaant enne, kui print on läbi.
+- Korista filamendijäägid ja toed, pane plaat tagasi.
 
 ## Ligipääs
 
-Printer asub hackspace'i ruumis, seega on vaja paketti, mis sisaldab hackspace'i ligipääsu.
-Ohutusinstruktaaži pole vaja, aga esimesel korral palu kellelgi filamendivahetust näidata.
+Printer asub hackspace'i ruumis, vaja on hackspace'i ligipääsuga paketti. Instruktaaži ei ole vaja.

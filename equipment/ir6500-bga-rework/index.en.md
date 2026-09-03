@@ -1,57 +1,50 @@
 ---
-title: "Infrared BGA Rework Station IR6500"
-seoDescription: "Infrared BGA rework station at the Tallinn hackspace. IR6500 with top and bottom heaters for reballing, replacing GPUs, chipsets and other BGA chips on laptop and phone boards."
+title: "IR6500 Infrared BGA Rework Station"
+seoDescription: "Infrared BGA rework station at the Tallinn hackspace: IR6500, 400 W top heater, 800 W bottom preheater, boards up to 400 × 305 mm, thermocouples, balls and flux on site. Access 24/7."
 specs:
-  - { label: "Type",            value: "infrared rework, top and bottom heaters" }
-  - { label: "Top heater",      value: "IR, dark emitter, adjustable height" }
-  - { label: "Bottom preheater", value: "IR, full board preheating" }
-  - { label: "Control",         value: "two PID controllers with K-type thermocouples" }
-  - { label: "Board holder",    value: "adjustable rails, PCB up to approx. 350 × 400 mm" }
+  - { label: "Type",             value: "infrared, top and bottom heaters" }
+  - { label: "Top heater",       value: "IR 400 W, 80 × 80 mm, adjustable height" }
+  - { label: "Bottom preheater", value: "IR 800 W, 180 × 180 mm" }
+  - { label: "Board",            value: "up to 400 × 305 mm" }
+  - { label: "Control",          value: "two independent PID controllers, K-type thermocouples" }
+  - { label: "Next to it",       value: "thermocouples, balls, BGA flux" }
 ---
 
-<!-- TODO: verify against the actual station — heater powers, maximum board size, which
-     thermocouples and stencils are on the bench, whether the profile has been tuned. -->
+A station for chips without legs. BGA packages, that is GPUs, chipsets, memory, phone processors,
+are soldered with hundreds of balls under the package, and neither an iron nor hot air can reach
+them. The IR6500 heats the whole board from below with an infrared emitter and one chip from above
+along a temperature profile until the balls melt: then the chip can be lifted, a new one placed, or
+a chip with cracked joints simply reflowed.
 
-An infrared rework station is how you replace a chip that has no legs. BGA packages — GPUs,
-chipsets, memory, most phone processors — are soldered by hundreds of balls underneath, so a
-soldering iron cannot reach them. The IR6500 heats the whole board gently from below and the one
-chip strongly from above, following a temperature profile, until the balls melt and the chip
-can be lifted off or settles into place.
+The station is here just in case; nobody at the hackspace has used it yet and there is no profile
+set up for a particular solder. So there is no induction either. If you know what this is and how
+to use it, use it at your own risk.
 
-This is the most demanding tool on the electronics bench. A wrong profile cooks the board or
-leaves half the balls unsoldered, so an induction is required before the first job.
+## What lies next to it
 
-## What it is good for
+K-type thermocouples, reballing balls, BGA flux. No vacuum tweezers and no stencils yet.
 
-- Removing and refitting BGA chips: GPUs, chipsets, memory, phone SoCs
-- Reballing a chip with a stencil and new solder balls
-- Reflowing a suspect chip whose joints have cracked
-- Preheating a board for hot air work, so the copper does not pull all the heat away
+## How it works
 
-## Safety
+1. Batteries, plastic covers and anything that melts come off the board. Nearby plastic connectors
+   are covered with aluminium tape.
+2. The board is clamped in the rails, the chip under the top heater, heater height per the manual.
+3. A thermocouple is glued next to the chip, not onto it.
+4. Flux goes around the chip and a profile is set for the solder in use: lead-free needs a higher
+   peak than leaded.
+5. The cycle is started and nobody walks away. When the solder has visibly melted, the chip is
+   lifted or left to settle.
+6. The board cools in the holder. Moving it with molten balls ruins the job.
 
-- Both heaters are mains-powered and get far hotter than a soldering iron. The board, the
-  holder rails and the chip stay dangerously hot for minutes after the cycle ends.
-- Do not look into the top IR emitter while it is on.
-- Never leave a running cycle. Stay at the station and watch the thermocouple readings.
-- Let the board cool on the holder — moving a board with molten balls ruins the job.
-- Flux fumes are heavy during reflow; use the fume extractor.
+## Take care
 
-## How to use
-
-1. Remove batteries, plastic covers, stickers and anything that melts from the board. Shield
-   nearby plastic connectors with aluminium tape or metal covers.
-2. Clamp the board in the rails, level, with the target chip under the top heater. Set the
-   heater height per the manual.
-3. Tape a thermocouple next to the chip (not on it) and check it reads room temperature.
-4. Apply flux around the chip and select or enter the temperature profile for the solder used —
-   lead-free needs a higher peak than leaded.
-5. Run the cycle and watch the readings. When the peak is reached and the solder has visibly
-   melted, lift the chip with the vacuum pen, or leave it to settle if you are reflowing.
-6. Let everything cool down completely before touching the board. Clean off the flux.
+- Both heaters run off the mains and get hotter than any iron. The board, the rails and the chip
+  stay hot for several minutes after the cycle.
+- Do not look into the top emitter while it is on.
+- There is a lot of flux fume; open a window.
+- If the board starts to smoke, switch the station off and tell the staff.
 
 ## Access
 
-The station is in the hackspace room, so a plan that includes hackspace access is required.
-**An induction is mandatory** before your first job — it covers heater setup, thermocouple
-placement, profiles and what to do if the board starts to smoke.
+The station is in the hackspace room, so a plan with hackspace access is required. There is no
+induction, see above.

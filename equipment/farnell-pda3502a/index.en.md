@@ -1,51 +1,40 @@
 ---
-title: "Dual Channel Power Supply Farnell PDA3502A"
-seoDescription: "Dual-output linear bench supply at the Tallinn hackspace. Farnell PDA3502A: two independent 0–35 V, 0–2 A channels with tracking mode for symmetric ±V analogue circuits."
+title: "Farnell PDA3502A Dual-Channel Power Supply"
+seoDescription: "Dual-channel linear bench power supply at the Tallinn hackspace: Farnell PDA3502A, two channels 0–35 V, 0–2 A, tracking mode for symmetrical ±V supplies for analogue circuits. Access 24/7."
 specs:
-  - { label: "Outputs",   value: "2 independent channels" }
+  - { label: "Outputs",     value: "2 independent channels" }
   - { label: "Per channel", value: "0–35 V, 0–2 A" }
-  - { label: "Modes",     value: "independent, or master/slave tracking" }
-  - { label: "Type",      value: "linear, analogue meters" }
+  - { label: "Modes",       value: "independent or master/slave (tracking)" }
+  - { label: "Type",        value: "linear, analogue meters" }
+  - { label: "Leads",       value: "plugged into the supply, spares on the shelf" }
 ---
 
-<!-- TODO: verify against the actual instrument — calibration state, whether both channels are
-     within spec, condition of the terminals. -->
+An old-school linear supply with two outputs and needle meters, and it is on the bench for a
+reason. Op-amp circuits and audio stages need plus and minus at the same time: in tracking mode the
+second channel follows the first, and one knob gives a symmetrical ±12 or ±15 V. As a linear source
+it produces almost no switching noise, which shows when you look at weak signals on the scope.
 
-An old-school linear supply with two outputs and needle meters, and there is a reason it is
-still on the bench: two channels. Many analogue circuits — op-amps, audio stages, instrumentation
-amplifiers — need a positive and a negative rail at the same time. In tracking mode the second
-channel follows the first, so one knob gives you a clean, symmetric ±12 V or ±15 V.
-
-Being linear, it has very little switching noise, which matters when you are looking at small
-signals on the oscilloscope. The meters are marked "for indication only" — use a multimeter when
-the exact value matters.
-
-## What it is good for
-
-- Symmetric supplies for op-amp and audio circuits
-- Powering two separate boards, or a board and its sensor, at different voltages
-- Low-noise supply for measurements where a switching supply would show up on the scope
-- Anything that needs up to 35 V — higher than the other supplies on the bench
-
-## Safety
-
-- Turn the current knobs down before connecting a new circuit, and raise them only as far as
-  needed.
-- In tracking mode the two channels are connected in series inside — check the manual's wiring
-  diagram before making a ±V supply for the first time.
-- Red is plus, black is minus, the green terminal is earth. Two channels means twice as many
-  chances to get it wrong.
-- The unit gets warm in use; keep the vents clear.
+The needle meters are for orientation. When the exact value matters, measure the output with a
+multimeter.
 
 ## How to use
 
-1. Switch on with the outputs off. Choose INDEP or TRACK with the mode switch.
-2. Set the voltage on each channel (or on the master in tracking mode) and the current limit.
-3. Connect the leads, check polarity, and switch the output on.
-4. Read the exact voltage with a multimeter if precision matters.
-5. When done, switch the outputs off, disconnect the leads, and power down.
+1. Switch on with the outputs off. Select INDEP or TRACK with the mode switch.
+2. Current knobs to minimum, then set the voltage on each channel, or on the master in tracking
+   mode. Raise the current limit only as far as the circuit needs.
+3. For ±V check the wiring diagram in the manual: in tracking mode the channels are in series and
+   the middle point becomes the common.
+4. Connect the leads, check polarity on both channels, enable the output.
+5. When done, switch the outputs off, remove the leads, switch the supply off.
+
+## Take care
+
+- Red is plus, black is minus, the green terminal is earth. Two channels, twice the chances to mix
+  them up.
+- Do not connect the output to a live circuit or in parallel with another source.
+- The supply gets warm in use; do not cover the vents.
 
 ## Access
 
-The supply is on the electronics bench in the hackspace room, so a plan that includes hackspace
-access is required. No induction is needed.
+The supply is on the electronics bench in the hackspace room, so a plan with hackspace access is
+required. No induction is needed. The supply stays in the room.

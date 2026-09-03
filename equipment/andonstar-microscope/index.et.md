@@ -1,49 +1,39 @@
 ---
 title: "Digitaalmikroskoop Andonstar AD407"
-seoDescription: "7-tollise ekraaniga digitaalne jootemikroskoop Tallinna hackspace'is. Andonstar AD407 SMD-kontrolliks, peene sammuga jootmiseks ja pisikeste detailide markeeringute lugemiseks."
+seoDescription: "Digitaalmikroskoop jootmiseks Tallinna hackspace'is: Andonstar AD407, 7-tolline ekraan, kuni 270×, fotod ja videod microSD-kaardile, kaks lampi ja IR-pult heleduse jaoks. Ligipääs 24/7."
 specs:
-  - { label: "Ekraan",      value: "7\" LCD reguleeritaval statiivil" }
-  - { label: "Sensor",      value: "4 MP, 1080p video" }
-  - { label: "Suurendus",   value: "ekraanil kuni u 270×" }
-  - { label: "Valgustus",   value: "kaks painduva varrega LED-lampi" }
-  - { label: "Väljund",     value: "HDMI, fotod ja video microSD-kaardile" }
+  - { label: "Ekraan",       value: "7\" reguleeritaval statiivil" }
+  - { label: "Sensor",       value: "4 MP, video 1080p" }
+  - { label: "Suurendus",    value: "kuni 270× ekraanil" }
+  - { label: "Valgustus",    value: "kaks lampi painduvatel jalgadel, heledus IR-puldist" }
+  - { label: "Salvestus",    value: "fotod ja videod microSD-le, kaart on sees" }
+  - { label: "Toide",        value: "USB, lüliti juhtmel" }
 ---
 
-<!-- TODO: kinnita mudel andmesildilt (AD407 vs AD409 jne) ja kohanda pealkirja ja
-     spetsifikatsioone; kontrolli, kas HDMI-monitor ja microSD-kaart on kaasas. -->
-
-Digitaalmikroskoop on ekraaniga kaamera statiivil: vaatad ekraani, mitte okulaari, nii et kätel ja
-jootekolvil on objektiivi all ruumi ja tund aega tööd ei tee kaela kangeks. Sellise suurendusega
-täidab 0402 takisti hea osa ekraanist ning 0,5 mm sammuga kiibi jalad on selgelt eristatavad.
-
-See on jootejaamade kaaslane: kontrolli jootekohti, leia sillad ja külmad jootekohad, loe detaili
-markeering, mis on palja silma jaoks liiga väike, ja paiguta SMD-komponente käsitsi.
-
-## Milleks see sobib
-
-- Jootekohtade kontroll pärast kuumaõhu- või ülessulatamistööd
-- Peene sammuga detailide jootmine suurenduse all
-- Komponentide markeeringute ja plaadi viitetähiste lugemine
-- Pragunenud radade, korrosiooni või üles tõusnud jootepindade otsimine
-- Plaadi pildistamine remondipäeviku või foorumiküsimuse jaoks
-
-## Ohutus
-
-- Mikroskoop ise on ohutu, aga jootekolb selle all ei ole — hoia objektiiv töö kohal piisavalt
-  kõrgel, et sa seda kuuma otsikuga ei puutuks.
-- Ära puutu läätse. Tolm tuleb puhuriga maha, sõrmejäljed mitte.
-- Ära liiguta statiivi, kui kolb on selle all.
+Mikroskoop jootmiseks ja kontrolliks: selle all on näha peene sammuga viikude vahelejäänud ja
+sildunud liited, seesamiseemne suuruste takistite markeering, praod radades. Ekraan on statiivil, nii
+et joota saab otse objektiivi all ekraani vaadates, mitte okulaari kaudu. Fotod ja videod salvestuvad
+microSD-kaardile, kaart on sees. HDMI-väljund on, aga pole millegagi ühendatud.
 
 ## Kuidas kasutada
 
-1. Lülita toitenupuga sisse; pilt ilmub ekraanile.
-2. Pane plaat alusele ja langeta kaamerat, kuni pilt on umbes terav, siis teravusta täpselt
+1. Kontrolli, et mikroskoop on USB-toites ja sisse lülitatud toitejuhtme nupust. Ainult seadme
+   enda nupp ei lülita sisse, see ei ole ilmne.
+2. Pane plaat alusele, liiguta pead statiivil üles-alla, kuni pilt on terav. Peenfookus on
    objektiivi rõngaga.
-3. Lülita painduvad lambid sisse ja suuna need kahelt poolt, et varjud ja peegeldused kaoksid.
-4. Üles/alla nupud on digitaalne suum, kaameranupp teeb foto, M avab menüü.
-5. Lõpus tõsta kaamera üles, lülita välja ja jäta statiiv vabaks.
+3. Kõrval on IR-pult: sellest reguleeritakse heledust. Kui vajalik koht on üle- või alavalgustatud,
+   paranda esmalt heledust, siis liiguta painduvatel jalgadel lampe.
+4. Nupp korpusel teeb pildi, pikk vajutus või eraldi nupp salvestab videot. Failid on microSD-l,
+   kaardi saab välja võtta ja arvutisse kopeerida.
+5. Lõpus lülita välja juhtme nupust, pane pult tagasi.
+
+## Oluline
+
+- Ära joota otse objektiivi all minimaalsel kaugusel: räbustiaurud settivad klaasile. Objektiivi
+  puhasta ainult optikalapiga.
+- Pead liiguta statiivil sujuvalt, statiiv on plastist.
 
 ## Ligipääs
 
-Mikroskoop asub hackspace'i ruumi elektroonikalaual, seega on vaja paketti, mis sisaldab hackspace'i
-ligipääsu. Ohutusinstruktaaži pole vaja.
+Mikroskoop asub hackspace'i ruumi elektroonikalaual, vaja on hackspace'i ligipääsuga paketti.
+Instruktaaži ei ole vaja. Mikroskoop jääb ruumi.
