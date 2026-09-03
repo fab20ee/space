@@ -5,7 +5,7 @@ slug:
   et: lauamangud
   ru: nastolnye-igry
 
-status: draft          # TODO: switch to active once the host name and the chat link are confirmed
+status: active
 kind: series
 order: 10
 zone: coworking
@@ -16,13 +16,13 @@ audience: everyone
 cover: images/cover.jpg
 
 host:
-  name: "Ведущая"     # TODO: real name
+  name: "Viktoria"
   role: member
 
 links:
   - type: chat
     label: "Telegram"
-    url: "https://t.me/fab20chat"   # TODO: the board-games chat, if it is separate
+    url: "https://t.me/fab20chat"
 
 # 0 = free. Absent = not decided yet.
 price: 0

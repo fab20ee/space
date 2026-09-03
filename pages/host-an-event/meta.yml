@@ -5,7 +5,7 @@ slug:
   et: korralda-sundmus
   ru: provesti-meropriyatie
 
-status: draft          # TODO: switch to active once the terms are confirmed
+status: published
 layout: events-hosting
 order: 50
 

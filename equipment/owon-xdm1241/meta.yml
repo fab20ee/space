@@ -3,7 +3,7 @@ slug:
   et: lauamultimeeter-owon-xdm1241
   ru: nastolnyy-multimetr-owon-xdm1241
 
-status: draft          # TODO: switch to active after the text is proofread
+status: active         # proofread 2026-09-03
 category: measurement
 order: 32
 zone: hackspace

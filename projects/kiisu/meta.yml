@@ -3,7 +3,7 @@ slug:
   et: kiisu
   ru: kiisu
 
-status: draft          # TODO: confirm the facts about where prototypes are built, then set to published
+status: active
 featured: true
 order: 10
 
