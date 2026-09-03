@@ -3,7 +3,7 @@ slug:
   et: tasuta-ligipaas
   ru: besplatnyy-dostup
 
-status: draft          # TODO: switch to active once the wording is agreed with the team
+status: published
 order: 60
 
 # Not a document: keeps the page out of the footer list (any layout value does), rendered as a plain page.

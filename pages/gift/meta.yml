@@ -3,7 +3,7 @@ slug:
   et: kinkekaart
   ru: podarochnyy-sertifikat
 
-status: draft          # TODO: switch to active once the store listing exists
+status: published
 order: 61
 
 # Not a document: keeps the page out of the footer list (any layout value does), rendered as a plain page.
