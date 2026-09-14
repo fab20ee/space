@@ -1,0 +1,29 @@
+slug:
+  en: sdr-transceiver-hackrf-one
+  et: sdr-transiiver-hackrf-one
+  ru: sdr-transiver-hackrf-one
+
+status: active         # proofread 2026-09-14
+category: measurement  # TODO (decide): measurement or electronics — it sits on the RF bench next to the RSA3030N
+order: 34
+zone: hackspace
+code: M05              # next free code in the M group; the sticker QR opens fab20.ee/p/M05
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+  - images/gallery-02.jpg
+
+rental:
+  enabled: false       # TODO (decide): can it leave the space?
+
+induction:
+  required: true       # TODO (confirm): it can transmit, so a briefing on what may be sent on air
+
+# serial: "..."        # TODO: from the label, needed only if it goes into rental
+
+externalLinks:
+  - { type: github, label: "Source and firmware", url: "https://github.com/greatscottgadgets/hackrf" }
+# - { type: manual, label: "Documentation", url: "" }   # TODO: docs are online only, no PDF in fab20ee/docs
+
+relatedSubscriptions: []   # TODO: fill in once subscription slugs are settled
