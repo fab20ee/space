@@ -1,0 +1,30 @@
+slug:
+  en: usb-power-meter-fnirsi-fnb58
+  et: usb-voolumootja-fnirsi-fnb58
+  ru: usb-tester-fnirsi-fnb58
+
+status: active         # live 2026-09-18; text still to be proofread
+category: measurement
+order: 40
+zone: hackspace
+code: M12              # sticker code; the QR opens fab20.ee/p/M12
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+  - images/gallery-02.jpg
+# TODO: the photos are all of a brand-new unit in its box; shelf and in-use shots come later.
+# This unit has no Bluetooth — do not add app/BT claims to the card.
+
+rental:                # yes (2026-09-17)
+  enabled: true
+  dailyRate: 5.00
+  deposit: 0.00
+
+induction:
+  required: false
+
+externalLinks:
+  - { type: manual, label: "FNB58 user manual", url: "https://manuals.plus/ae/1005004683542341" }
+
+relatedSubscriptions: []

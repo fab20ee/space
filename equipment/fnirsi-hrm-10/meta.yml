@@ -1,0 +1,29 @@
+slug:
+  en: battery-internal-resistance-tester-fnirsi-hrm-10
+  et: aku-sisetakistuse-tester-fnirsi-hrm-10
+  ru: tester-vnutrennego-soprotivleniya-fnirsi-hrm-10
+
+status: active         # live 2026-09-18; text still to be proofread
+category: measurement
+order: 39
+zone: hackspace
+code: M11              # sticker code; the QR opens fab20.ee/p/M11
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+  - images/gallery-02.jpg
+
+rental:                # yes — sorting used cells is exactly a job people do at home (2026-09-17)
+  enabled: true
+  dailyRate: 5.00
+  deposit: 0.00
+
+induction:
+  required: false
+
+externalLinks:
+  - { type: link,   label: "FNIRSI HRM-10 (manufacturer)", url: "https://www.fnirsi.com/products/hrm-10" }
+  - { type: manual, label: "HRM-10 user manual", url: "https://manuals.plus/asin/B0D6FPBGCX" }
+
+relatedSubscriptions: []

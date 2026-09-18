@@ -1,0 +1,34 @@
+slug:
+  en: pcb-holder-sensepeek-pcbite
+  et: plaadihoidik-sensepeek-pcbite
+  ru: derzhatel-plat-sensepeek-pcbite
+
+status: active         # live 2026-09-18; text still to be proofread
+category: measurement  # probing is the point of it; flip to electronics if it should sit with the soldering gear
+order: 36
+zone: hackspace
+code: M07              # sticker code; the QR opens fab20.ee/p/M07
+                       # the sticker goes on the plastic box on the shelf — the bench-side half of
+                       # the set (small plate, 4 holders, a couple of probes) lives out in the open
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+  - images/gallery-02.jpg
+
+# Assembled from separate Sensepeek parts, not bought as one kit:
+#   base plates  — 1x A5 (small) + 1x A4 (large), 4 magnetic board holders each
+#   probes       — 4x needle probes with leads, 1x SQ200 200 MHz oscilloscope probe
+# Everything combines freely; the box on the shelf holds whatever is not on the bench.
+
+rental:
+  enabled: false       # split between the bench and the box, and the needles are consumable
+
+induction:
+  required: false
+
+externalLinks:
+  - { type: link,   label: "Sensepeek PCBite (manufacturer)", url: "https://sensepeek.com/" }
+  - { type: manual, label: "SQ200 user's guide (PDF)", url: "https://www.mouser.com/datasheet/2/1503/Sensepeek_UG_SQXX0_Rev1_1-3313275.pdf" }
+
+relatedSubscriptions: []

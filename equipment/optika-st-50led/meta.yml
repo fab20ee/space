@@ -1,0 +1,28 @@
+slug:
+  en: stereo-microscope-optika-st-50led
+  et: stereomikroskoop-optika-st-50led
+  ru: stereomikroskop-optika-st-50led
+
+status: active         # live 2026-09-18; text still to be proofread
+category: optics
+order: 51
+zone: hackspace
+code: M08              # sticker code; the QR opens fab20.ee/p/M08
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+  - images/gallery-02.jpg
+
+rental:
+  enabled: false       # stays on the electronics bench
+
+induction:
+  required: false
+
+serial: "694207"       # overhanging-stand version: no stage, incident light only
+
+externalLinks:
+  - { type: link, label: "OPTIKA ST-50Led (manufacturer)", url: "https://www.optikamicroscopes.com/optikamicroscopes/product/st-50led/" }
+
+relatedSubscriptions: []

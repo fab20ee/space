@@ -1,0 +1,30 @@
+slug:
+  en: electronic-load-150w
+  et: elektrooniline-koormus-150w
+  ru: elektronnaya-nagruzka-150-vt
+
+status: active         # live 2026-09-18; text still to be proofread
+category: electronics
+order: 41
+zone: hackspace
+code: P08              # sticker code (P = power side); the QR opens fab20.ee/p/P08
+                       # the sticker goes on the container on the shelf
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+  - images/gallery-02.jpg
+
+# No brand, no model, no serial: an unmarked Chinese board. The only marking on it is a production
+# code (1413798818-230307) and the screen shows OPP 150.0 W. Everything it does is in the card,
+# because there is no manual to link.
+
+rental:
+  enabled: false       # stays in the space (decided 2026-09-17)
+
+induction:
+  required: false
+
+externalLinks: []
+
+relatedSubscriptions: []

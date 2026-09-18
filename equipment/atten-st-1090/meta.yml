@@ -1,0 +1,34 @@
+slug:
+  en: soldering-tip-thermometer-atten-st-1090
+  et: jooteotsiku-termomeeter-atten-st-1090
+  ru: termometr-dlya-zhala-atten-st-1090
+
+status: active         # live 2026-09-18; text still to be proofread
+category: measurement
+order: 37
+zone: hackspace
+code: M09              # sticker code; the QR opens fab20.ee/p/M09
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+  - images/gallery-02.jpg
+
+rental:                # renting it to check your own iron at home (decided 2026-09-17)
+  enabled: true
+  dailyRate: 10.00
+  deposit: 0.00
+
+induction:
+  required: false
+
+serial: "11902241200392"
+
+# The instrument, spare sensors and the external K-type thermocouple share one plastic container
+# on the shelf; the sticker goes on the container.
+
+externalLinks:
+  - { type: link,   label: "ATTEN ST-1090 (manufacturer)", url: "https://www.atten.eu/product/5405545/atten-st-1090-temperature-tester" }
+  - { type: manual, label: "ST-1090 user manual (PDF)", url: "https://cdn-reichelt.de/documents/datenblatt/D200/ATTEN_ST-1090_USER_MANUAL.pdf" }
+
+relatedSubscriptions: []

@@ -1,0 +1,31 @@
+slug:
+  en: lcr-meter-uni-t-ut612
+  et: lcr-meeter-uni-t-ut612
+  ru: lcr-metr-uni-t-ut612
+
+status: active         # live 2026-09-18; text still to be proofread
+category: measurement
+order: 38
+zone: hackspace
+code: M10              # sticker code; the QR opens fab20.ee/p/M10
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+  - images/gallery-02.jpg
+
+rental:                # yes — repairing something at home is exactly when ESR matters (2026-09-17)
+  enabled: true
+  dailyRate: 5.00
+  deposit: 0.00
+
+induction:
+  required: false
+
+# serial: "..."        # TODO: copy from the back if there is one
+
+externalLinks:
+  - { type: link,   label: "UNI-T UT612 (manufacturer)", url: "https://meters.uni-trend.com/product/ut612/" }
+  - { type: manual, label: "UT612 operating manual", url: "https://manuals.plus/uni-t/ut612-lcr-meter-manual" }
+
+relatedSubscriptions: []

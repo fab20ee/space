@@ -1,0 +1,33 @@
+slug:
+  en: portable-power-supply-fnirsi-dps-150
+  et: kaasaskantav-toiteplokk-fnirsi-dps-150
+  ru: portativnyy-blok-pitaniya-fnirsi-dps-150
+
+status: active         # live 2026-09-18; text still to be proofread
+category: electronics
+order: 44
+zone: hackspace
+code: P07              # sticker code (P = power supplies); the QR opens fab20.ee/p/P07
+                       # the sticker goes on the container on the shelf
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+  - images/gallery-02.jpg
+
+rental:
+  enabled: true
+  dailyRate: 5.00
+  deposit: 0.00
+                       # the PD charger is NOT part of the rental kit — renters bring their own
+
+induction:
+  required: false
+
+# No serial number on this unit — the back label carries none.
+
+externalLinks:
+  - { type: link,   label: "FNIRSI DPS-150 (manufacturer)", url: "https://www.fnirsi.com/products/dps-150" }
+  - { type: manual, label: "DPS-150 user manual", url: "https://manuals.plus/asin/B0DFPK3S19" }
+
+relatedSubscriptions: []

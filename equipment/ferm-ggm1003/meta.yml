@@ -1,0 +1,31 @@
+slug:
+  en: cordless-glue-gun-ferm-ggm1003
+  et: juhtmevaba-liimipustol-ferm-ggm1003
+  ru: akkumulyatornyy-kleevoy-pistolet-ferm-ggm1003
+
+status: active         # live 2026-09-18; text still to be proofread
+category: tools        # first card in this category — the app already knows it
+                       # ("Hand tools / Käsitööriistad / Инструмент"); hand tools, micro
+                       # screwdrivers and a cordless driver land here too
+order: 70
+zone: hackspace
+code: T02              # sticker code; the QR opens fab20.ee/p/T02
+                       # T01 is the ultrasonic cleaner; confirm T is the right letter for tools
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+
+rental:                # yes, same rate as the small instruments (2026-09-17)
+  enabled: true
+  dailyRate: 5.00
+  deposit: 0.00
+                       # glue sticks are consumable; the charger goes with it
+
+induction:
+  required: false
+
+externalLinks:
+  - { type: link, label: "FERM GGM1003 (manufacturer)", url: "https://ferm-diy.com/en/ggm1003-li-ion-glue-gun.html" }
+
+relatedSubscriptions: []

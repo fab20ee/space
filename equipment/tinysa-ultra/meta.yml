@@ -1,0 +1,36 @@
+slug:
+  en: portable-spectrum-analyzer-tinysa-ultra
+  et: kaasaskantav-spektrianaluusaator-tinysa-ultra
+  ru: portativnyy-analizator-spektra-tinysa-ultra
+
+status: active         # proofread 2026-09-17
+category: measurement
+order: 35
+zone: hackspace
+code: M06              # sticker code; the QR opens fab20.ee/p/M06
+                       # the same code marks its place on the shelf, so it comes back where it belongs
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+  - images/gallery-02.jpg
+# TODO: add a shelf photo (container in its marked place) once the stickers are printed
+
+rental:                # small, cheap, made to be carried — the second rental after the XDM1241
+  enabled: true
+  dailyRate: 5.00
+  deposit: 0.00
+
+induction:
+  required: false      # the input is the fragile part; the card says how not to kill it
+
+serial: "SU-24032807"  # ZS-405, hardware V0.4.5.1.1
+
+# TODO: confirm on the device which connector the generator output uses — the official wiki says
+#       RF (the same as the input), some shop descriptions say CAL. The card follows the wiki.
+externalLinks:
+  - { type: link,   label: "tinySA project site", url: "https://tinysa.org/" }
+  - { type: manual, label: "tinySA Ultra specification (official wiki)", url: "https://tinysa.org/wiki/pmwiki.php?n=TinySA4.Specification" }
+  - { type: manual, label: "tinySA Ultra menu tree", url: "https://tinysa.org/wiki/pmwiki.php?n=TinySA4.MenuTree" }
+
+relatedSubscriptions: []
