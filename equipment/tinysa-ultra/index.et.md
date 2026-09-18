@@ -62,7 +62,7 @@ kleebis.
 
 ## Kuidas kasutada
 
-1. Seade on plastkonteineris riiulil. Konteineri koht riiulil kannab sama kleebist M06 — sinna ta
+1. Seade on plastkonteineris riiulil. Konteineri koht riiulil kannab sama kleebist M05 — sinna ta
    tagasi käibki.
 2. Lülita sisse ja vaata aku olekut. Laeb USB-C kaudu, täis akuga töötab umbes kaks tundi.
 3. Sea algus- ja lõppsagedus või kesksagedus koos vaateribaga.

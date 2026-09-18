@@ -5,9 +5,10 @@ slug:
 
 status: active         # proofread 2026-09-14
 category: measurement  # TODO (decide): measurement or electronics — it sits on the RF bench next to the RSA3030N
-order: 34
+order: 40
 zone: hackspace
-code: M05              # next free code in the M group; the sticker QR opens fab20.ee/p/M05
+code: M12              # M05-M11 went to the batch of ten added 2026-09-18, whose stickers were
+                       # already printed; this one was not. The QR opens fab20.ee/p/M12
 
 cover: images/cover.jpg
 gallery:

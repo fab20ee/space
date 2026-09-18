@@ -65,7 +65,7 @@ and its own sticker.
 ## How to use
 
 1. The instrument is in a plastic container on the shelf. Its place on the shelf carries the
-   same M06 sticker — that is where it goes back.
+   same M05 sticker — that is where it goes back.
 2. Switch on and check the charge. It charges over USB-C and runs about two hours on a full
    battery.
 3. Set start and stop frequencies, or a centre frequency and a span.

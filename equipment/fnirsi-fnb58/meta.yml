@@ -5,9 +5,9 @@ slug:
 
 status: active         # live 2026-09-18; text still to be proofread
 category: measurement
-order: 40
+order: 39
 zone: hackspace
-code: M12              # sticker code; the QR opens fab20.ee/p/M12
+code: M11              # sticker code; the QR opens fab20.ee/p/M11
 
 cover: images/cover.jpg
 gallery:

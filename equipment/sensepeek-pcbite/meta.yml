@@ -5,9 +5,9 @@ slug:
 
 status: active         # live 2026-09-18; text still to be proofread
 category: measurement  # probing is the point of it; flip to electronics if it should sit with the soldering gear
-order: 36
+order: 35
 zone: hackspace
-code: M07              # sticker code; the QR opens fab20.ee/p/M07
+code: M06              # sticker code; the QR opens fab20.ee/p/M06
                        # the sticker goes on the plastic box on the shelf — the bench-side half of
                        # the set (small plate, 4 holders, a couple of probes) lives out in the open
 

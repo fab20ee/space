@@ -7,7 +7,7 @@ status: active         # live 2026-09-18; text still to be proofread
 category: optics
 order: 51
 zone: hackspace
-code: M08              # sticker code; the QR opens fab20.ee/p/M08
+code: M07              # sticker code; the QR opens fab20.ee/p/M07
 
 cover: images/cover.jpg
 gallery:

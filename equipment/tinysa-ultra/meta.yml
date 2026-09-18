@@ -5,9 +5,9 @@ slug:
 
 status: active         # proofread 2026-09-17
 category: measurement
-order: 35
+order: 34
 zone: hackspace
-code: M06              # sticker code; the QR opens fab20.ee/p/M06
+code: M05              # sticker code; the QR opens fab20.ee/p/M05
                        # the same code marks its place on the shelf, so it comes back where it belongs
 
 cover: images/cover.jpg
