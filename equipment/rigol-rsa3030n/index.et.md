@@ -33,7 +33,8 @@ Sellega on häälestatud projekti KIISU antennid; seade on ka projekti seadmete 
   tuntud objektidel.
 - Eri tüüpi RF-üleminekute komplekt ja VNA kalibreerimiskomplekt.
 
-Kõik see jääb seadme juurde.
+Demoplaat, üleminekud ja kalibreerimiskomplektid on
+[RF-konteineris](/et/seadmed/rf-tarvikud) — seadme kõrval ei ole neid kuhugi panna.
 
 ## Seadme sisend
 

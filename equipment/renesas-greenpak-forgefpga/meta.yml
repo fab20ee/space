@@ -1,0 +1,29 @@
+slug:
+  en: renesas-greenpak-and-forgefpga-boards
+  et: renesas-greenpak-ja-forgefpga-plaadid
+  ru: platy-renesas-greenpak-i-forgefpga
+
+status: active         # live 2026-10-19; text still to be proofread
+category: electronics
+order: 56              # the electronics block 40-49 is full; see TODO.md
+zone: hackspace
+code: D02              # sticker code (D = development boards); the QR opens fab20.ee/p/D02
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+  - images/gallery-02.jpg
+
+# Contents change as boards are added; the list in the text is correct as of 2026-10-19.
+
+rental:
+  enabled: false
+
+induction:
+  required: false
+
+externalLinks:
+  - { type: link, label: "GreenPAK (Renesas)", url: "https://www.renesas.com/en/products/programmable-mixed-signal-asic-ip-products/greenpak-programmable-mixed-signal-products" }
+  - { type: link, label: "ForgeFPGA SLG47910 (Renesas)", url: "https://www.renesas.com/en/products/slg47910" }
+
+relatedSubscriptions: []

@@ -1,0 +1,26 @@
+slug:
+  en: oscilloscope-tektronix-tds794d
+  et: ostsilloskoop-tektronix-tds794d
+  ru: ostsillograf-tektronix-tds794d
+
+status: active         # live 2026-10-19; text still to be proofread
+category: measurement
+order: 44
+zone: hackspace
+code: M16              # sticker code; the QR opens fab20.ee/p/M16
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+  - images/gallery-02.jpg
+
+rental:
+  enabled: false       # 2 GHz of bench instrument that stays where it stands
+
+induction:
+  required: false      # the input is the fragile part; the card says how not to kill it
+
+externalLinks:
+  - { type: link, label: "TDS794D on TekWiki", url: "https://w140.com/tekwiki/wiki/TDS794D" }
+
+relatedSubscriptions: []

@@ -1,0 +1,26 @@
+slug:
+  en: electronic-modules
+  et: elektroonikamoodulid
+  ru: elektronnye-moduli
+
+status: active         # live 2026-10-19; text still to be proofread
+category: electronics
+order: 61              # the electronics block 40-49 is full; see TODO.md
+zone: hackspace
+code: K04              # sticker code (K = kits and parts containers); the QR opens fab20.ee/p/K04
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+
+# Contents change constantly; the text describes types rather than exact part numbers.
+
+rental:
+  enabled: false
+
+induction:
+  required: false
+
+externalLinks: []
+
+relatedSubscriptions: []

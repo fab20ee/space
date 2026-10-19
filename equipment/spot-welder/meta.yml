@@ -1,0 +1,32 @@
+slug:
+  en: battery-spot-welder
+  et: akude-punktkeevitaja
+  ru: apparat-tochechnoy-svarki
+
+status: active         # live 2026-10-19; text still to be proofread
+category: electronics  # battery work; flip to tools if it belongs with the hand tools instead
+order: 54              # the electronics block 40-49 is full; see TODO.md
+zone: hackspace
+code: S08              # sticker code; the QR opens fab20.ee/p/S08
+                       # S has meant soldering so far — joining metal is close enough, but say if
+                       # welding should get a letter of its own before the sticker is printed
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+  - images/gallery-02.jpg
+
+# No brand, no model, no serial: an unmarked Chinese unit. Everything it does is in the card,
+# because there is no manual to link. A stock of nickel strip lives in the container with it.
+
+rental:
+  enabled: true
+  dailyRate: 10.00
+  deposit: 0.00
+
+induction:
+  required: false      # no briefing, but the card is explicit about lithium cells
+
+externalLinks: []
+
+relatedSubscriptions: []

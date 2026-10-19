@@ -1,0 +1,29 @@
+slug:
+  en: fume-extractor-eleshop-ele-fu1
+  et: jootesuitsu-imeja-eleshop-ele-fu1
+  ru: dymoulovitel-eleshop-ele-fu1
+
+status: active         # live 2026-10-19; text still to be proofread
+category: electronics
+order: 51              # the electronics block 40-49 is full; see TODO.md
+zone: hackspace
+code: S05              # sticker code (S = soldering); the QR opens fab20.ee/p/S05
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+  - images/gallery-02.jpg
+
+# The case is printed "90 m3/hr"; Eleshop's own page gives 23 m3/h measured. The card says both
+# and explains the difference — free-air fan rating versus what comes through hose and filters.
+
+rental:
+  enabled: false       # mains powered, belongs to the soldering bench
+
+induction:
+  required: false
+
+externalLinks:
+  - { type: link, label: "ELE-FU1 at Eleshop", url: "https://eleshop.eu/ele-fu1-desktop-fume-extractor.html" }
+
+relatedSubscriptions: []

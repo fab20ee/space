@@ -1,0 +1,27 @@
+slug:
+  en: stepper-motors-and-drivers
+  et: sammmootorid-ja-draiverid
+  ru: shagovye-dvigateli-i-drayvery
+
+status: active         # live 2026-10-19; text still to be proofread
+category: electronics
+order: 62
+zone: hackspace
+code: K05              # sticker code (K = kits and parts containers); the QR opens fab20.ee/p/K05
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+
+# TODO: the photos show servos and timing belts in the same box alongside the steppers and
+#       drivers — confirm that they live here and not somewhere else.
+
+rental:
+  enabled: false
+
+induction:
+  required: false
+
+externalLinks: []
+
+relatedSubscriptions: []

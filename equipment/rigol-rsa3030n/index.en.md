@@ -35,7 +35,8 @@ list below.
   known objects.
 - A set of RF adapters of various types and a VNA calibration kit.
 
-All of it stays with the instrument.
+The demo board, the adapters and the calibration kits live in the
+[RF container](/en/equipment/rf-accessories) — there is nowhere to keep them beside the instrument.
 
 ## The input
 

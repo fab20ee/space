@@ -59,8 +59,9 @@ Printed on the case next to the connector: "+6 dBm RF, 5 VDC Max".
   discharge static.
 - SMA is tightened with fingers — no spanner, no cross-threading.
 
-Attenuators, DC blocks, adapters and cables live in a separate RF container with its own card
-and its own sticker.
+A DC block, adapters, calibration kits and cables live in a separate
+[RF container](/en/equipment/rf-accessories). There is no attenuator in it yet, so do not put a
+transmitter on the input — write to us instead.
 
 ## How to use
 

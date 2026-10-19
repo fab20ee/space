@@ -1,0 +1,29 @@
+slug:
+  en: cordless-soldering-iron-miniware-ts1c
+  et: juhtmevaba-jootekolb-miniware-ts1c
+  ru: besprovodnoy-payalnik-miniware-ts1c
+
+status: active         # live 2026-10-19; text still to be proofread
+category: electronics
+order: 52              # the electronics block 40-49 is full; see TODO.md
+zone: hackspace
+code: S06              # sticker code (S = soldering); the QR opens fab20.ee/p/S06
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+
+# Spare tips live either in the container with the iron or in the big consumables box.
+
+rental:                # cordless is exactly when taking it home makes sense (2026-10-19)
+  enabled: true
+  dailyRate: 5.00
+  deposit: 0.00
+                       # the USB-C PD brick is NOT part of the rental — ours are shared
+
+induction:
+  required: false
+
+externalLinks: []      # TODO: link the manufacturer page or the manual
+
+relatedSubscriptions: []

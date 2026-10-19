@@ -1,0 +1,25 @@
+slug:
+  en: label-printer-brother-vc-500w
+  et: sildiprinter-brother-vc-500w
+  ru: printer-naklejek-brother-vc-500w
+
+status: active         # live 2026-10-19; text still to be proofread
+category: printing
+order: 27
+zone: coworking
+code: C10              # sticker code (C = coworking side); the QR opens fab20.ee/p/C10
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+  - images/gallery-02.jpg
+
+rental:
+  enabled: false       # stays in the coworking room
+
+induction:
+  required: false
+
+externalLinks: []
+
+relatedSubscriptions: []

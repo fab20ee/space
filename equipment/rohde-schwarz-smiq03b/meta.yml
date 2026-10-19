@@ -1,0 +1,24 @@
+slug:
+  en: signal-generator-rohde-schwarz-smiq03b
+  et: signaaligeneraator-rohde-schwarz-smiq03b
+  ru: generator-signalov-rohde-schwarz-smiq03b
+
+status: active         # live 2026-10-19; text still to be proofread
+category: measurement
+order: 45
+zone: hackspace
+code: M17              # sticker code; the QR opens fab20.ee/p/M17
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+
+rental:
+  enabled: false       # rack instrument, stays where it stands
+
+induction:
+  required: false
+
+externalLinks: []
+
+relatedSubscriptions: []

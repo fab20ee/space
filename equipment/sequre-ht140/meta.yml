@@ -1,0 +1,32 @@
+slug:
+  en: hot-tweezers-sequre-ht140
+  et: kuumpintsetid-sequre-ht140
+  ru: payalnyy-pintset-sequre-ht140
+
+status: active         # live 2026-10-19; text still to be proofread
+category: electronics
+order: 53              # the electronics block 40-49 is full; see TODO.md
+zone: hackspace
+code: S07              # sticker code (S = soldering); the QR opens fab20.ee/p/S07
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+  - images/gallery-02.jpg
+
+# Cartridges — C120 tweezer pairs and C210 iron tips — live either in the container with the tool
+# or in the big consumables box. On the bench it runs off one of the shared 65 W USB-C PD bricks.
+
+rental:                # light, and it runs off any PD charger (2026-10-19)
+  enabled: true
+  dailyRate: 5.00
+  deposit: 0.00
+                       # the USB-C PD brick is NOT part of the rental — ours are shared
+
+induction:
+  required: false
+
+externalLinks:
+  - { type: link, label: "SEQURE HT140 at Eleshop", url: "https://eleshop.eu/sequre-ht140-portable-soldering-tweezer.html" }
+
+relatedSubscriptions: []

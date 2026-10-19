@@ -1,0 +1,27 @@
+slug:
+  en: assorted-hand-tools
+  et: mitmesugused-kasitooriistad
+  ru: raznoobraznyy-ruchnoy-instrument
+
+status: active         # live 2026-10-19; text still to be proofread
+category: tools
+order: 75
+zone: hackspace
+code: T05              # sticker code; the QR opens fab20.ee/p/T05
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+  - images/gallery-02.jpg
+
+# Contents change as things are added; the text describes types rather than exact sets.
+
+rental:
+  enabled: false
+
+induction:
+  required: false
+
+externalLinks: []
+
+relatedSubscriptions: []

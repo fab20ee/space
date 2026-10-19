@@ -1,0 +1,30 @@
+slug:
+  en: thermal-camera-infiray-t2s-plus
+  et: soojuskaamera-infiray-t2s-plus
+  ru: teplovizor-infiray-t2s-plus
+
+status: active         # live 2026-10-19; text still to be proofread
+category: measurement
+order: 42
+zone: hackspace
+code: M14              # sticker code; the QR opens fab20.ee/p/M14
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+  - images/gallery-02.jpg
+
+# TODO: a phone with the app already set up is to join it in the same container — add it here and
+#       to the text once it does.
+
+rental:
+  enabled: true
+  dailyRate: 15.00
+  deposit: 0.00
+
+induction:
+  required: false
+
+externalLinks: []
+
+relatedSubscriptions: []

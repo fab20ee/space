@@ -1,0 +1,27 @@
+slug:
+  en: cordless-rotary-tool
+  et: juhtmevaba-graveerimistrell
+  ru: akkumulyatornyy-graver
+
+status: active         # live 2026-10-19; text still to be proofread
+category: tools
+order: 73
+zone: hackspace
+code: T04              # sticker code; the QR opens fab20.ee/p/T04
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+  - images/gallery-02.jpg
+
+# TODO: the exact Black+Decker model is not readable in the photos — copy it from the body.
+
+rental:
+  enabled: false       # TODO: decide — it is cordless and would travel well
+
+induction:
+  required: false
+
+externalLinks: []
+
+relatedSubscriptions: []

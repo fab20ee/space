@@ -1,0 +1,24 @@
+slug:
+  en: breadboards-and-jumpers
+  et: maketeerimislauad-ja-uhendusjuhtmed
+  ru: maketnye-platy-i-peremychki
+
+status: active         # live 2026-10-19; text still to be proofread
+category: electronics
+order: 64
+zone: hackspace
+code: K07              # sticker code (K = kits and parts containers); the QR opens fab20.ee/p/K07
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+
+rental:
+  enabled: false
+
+induction:
+  required: false
+
+externalLinks: []
+
+relatedSubscriptions: []

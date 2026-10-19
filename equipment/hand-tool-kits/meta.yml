@@ -1,0 +1,25 @@
+slug:
+  en: hand-tool-kits
+  et: kasitooriistade-komplektid
+  ru: nabory-ruchnogo-instrumenta
+
+status: active         # live 2026-10-19; text still to be proofread
+category: tools
+order: 72
+zone: hackspace
+code: T03              # sticker code; the QR opens fab20.ee/p/T03
+                       # one card for both kits; the colour marking is what tells them apart
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+
+rental:
+  enabled: false       # they are meant to travel to a bench and back, not out of the building
+
+induction:
+  required: false
+
+externalLinks: []
+
+relatedSubscriptions: []

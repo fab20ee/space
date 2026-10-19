@@ -1,0 +1,24 @@
+slug:
+  en: motors-and-pumps
+  et: mootorid-ja-pumbad
+  ru: dvigateli-i-nasosy
+
+status: active         # live 2026-10-19; text still to be proofread
+category: electronics
+order: 63
+zone: hackspace
+code: K06              # sticker code (K = kits and parts containers); the QR opens fab20.ee/p/K06
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+
+rental:
+  enabled: false
+
+induction:
+  required: false
+
+externalLinks: []
+
+relatedSubscriptions: []

@@ -57,8 +57,9 @@ Korpusele pistiku kõrvale on trükitud „+6 dBm RF, 5 VDC Max".
   laadida.
 - SMA keeratakse sõrmedega — ilma võtmeta ja ilma viltu ajamata.
 
-Sumbutid, DC-blokid, üleminekud ja kaablid on eraldi RF-konteineris, millel on oma kaart ja oma
-kleebis.
+DC-blokk, üleminekud, kalibreerimiskomplektid ja kaablid on eraldi
+[RF-konteineris](/et/seadmed/rf-tarvikud). Sumbutit seal praegu ei ole, nii et saatjat sisendisse
+ära pane — kirjuta meile.
 
 ## Kuidas kasutada
 

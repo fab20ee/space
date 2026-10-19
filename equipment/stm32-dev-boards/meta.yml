@@ -1,0 +1,28 @@
+slug:
+  en: stm32-development-boards
+  et: stm32-arendusplaadid
+  ru: otladochnye-platy-stm32
+
+status: active         # live 2026-10-19; text still to be proofread
+category: electronics
+order: 55              # the electronics block 40-49 is full; see TODO.md
+zone: hackspace
+code: D01              # proposed sticker code: D = development boards, so the Renesas, TI and NXP
+                       # boxes can be D02, D03... Say if another letter suits better before printing.
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+
+# The contents change as boards are added. The list in the text is correct as of 2026-10-19 —
+# update the text, not just this comment, when the box changes.
+
+rental:
+  enabled: false       # TODO: decide — lending a single board is not the same as renting the box
+
+induction:
+  required: false
+
+externalLinks: []
+
+relatedSubscriptions: []

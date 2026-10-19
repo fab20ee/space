@@ -1,0 +1,30 @@
+slug:
+  en: ti-and-nxp-development-boards
+  et: ti-ja-nxp-arendusplaadid
+  ru: otladochnye-platy-ti-i-nxp
+
+status: active         # live 2026-10-19; text still to be proofread
+category: electronics
+order: 57              # the electronics block 40-49 is full; see TODO.md
+zone: hackspace
+code: D03              # sticker code (D = development boards); the QR opens fab20.ee/p/D03
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+  - images/gallery-02.jpg
+
+# Two boards so far, both still in their factory boxes. The set is meant to grow — update the text
+# when it does. Correct as of 2026-10-19.
+
+rental:
+  enabled: false
+
+induction:
+  required: false
+
+externalLinks:
+  - { type: link, label: "LP-MSPM0L1117 (Texas Instruments)", url: "https://www.ti.com/tool/LP-MSPM0L1117" }
+  - { type: link, label: "FRDM-MCXN947 (NXP)", url: "https://www.nxp.com/design/design-center/development-boards-and-designs/FRDM-MCXN947" }
+
+relatedSubscriptions: []

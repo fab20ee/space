@@ -1,0 +1,28 @@
+slug:
+  en: rf-accessories
+  et: rf-tarvikud
+  ru: vch-prinadlezhnosti
+
+status: active         # live 2026-10-19; text still to be proofread
+category: measurement
+order: 41
+zone: hackspace
+code: M13              # sticker code; the QR opens fab20.ee/p/M13
+                       # the sticker goes on the container on the shelf
+
+cover: images/cover.jpg
+gallery: []            # TODO: a photo of the kit laid out, and one of the cal standards up close
+
+rental:
+  enabled: false       # serves the RF instruments that stay in the space
+
+induction:
+  required: false
+
+# NB: no attenuators in the box as of 2026-10-19. The tinySA, HackRF One and RIGOL cards all tell
+# people to use one before connecting a transmitter. Either the box gains attenuators or those
+# three cards need rewording — see the note in the body text.
+
+externalLinks: []
+
+relatedSubscriptions: []

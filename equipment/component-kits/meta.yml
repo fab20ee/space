@@ -1,0 +1,26 @@
+slug:
+  en: component-kits
+  et: detailikomplektid
+  ru: nabory-detaley
+
+status: active         # live 2026-10-19; text still to be proofread
+category: electronics
+order: 65
+zone: hackspace
+code: K09              # sticker code (K = kits and parts containers); the QR opens fab20.ee/p/K09
+                       # one sticker for the whole shelf
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+  - images/gallery-02.jpg
+
+rental:
+  enabled: false
+
+induction:
+  required: false
+
+externalLinks: []
+
+relatedSubscriptions: []

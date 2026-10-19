@@ -1,0 +1,28 @@
+slug:
+  en: displays-and-indicators
+  et: ekraanid-ja-indikaatorid
+  ru: displei-i-indikatory
+
+status: active         # live 2026-10-19; text still to be proofread
+category: electronics
+order: 58              # the electronics block 40-49 is full; see TODO.md
+zone: hackspace
+code: K01              # proposed sticker code: K = kits and parts containers, so the sensor kit,
+                       # the leads box and the modules box can be K02, K03, K04
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+  - images/gallery-02.jpg
+
+# Contents change; the text describes types rather than exact part numbers on purpose.
+
+rental:
+  enabled: false
+
+induction:
+  required: false
+
+externalLinks: []
+
+relatedSubscriptions: []

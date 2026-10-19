@@ -1,0 +1,27 @@
+slug:
+  en: power-profiler-kit-ii-nordic-ppk2
+  et: voolutarbe-mootja-nordic-ppk2
+  ru: izmeritel-potrebleniya-nordic-ppk2
+
+status: active         # live 2026-10-19; text still to be proofread
+category: measurement
+order: 43
+zone: hackspace
+code: M15              # sticker code; the QR opens fab20.ee/p/M15
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+
+rental:
+  enabled: true
+  dailyRate: 5.00
+  deposit: 0.00
+
+induction:
+  required: false
+
+externalLinks:
+  - { type: link, label: "Power Profiler Kit II (Nordic Semiconductor)", url: "https://www.nordicsemi.com/Products/Development-hardware/Power-Profiler-Kit-2" }
+
+relatedSubscriptions: []

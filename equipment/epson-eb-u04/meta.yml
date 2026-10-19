@@ -1,0 +1,26 @@
+slug:
+  en: projector-epson-eb-u04
+  et: projektor-epson-eb-u04
+  ru: proektor-epson-eb-u04
+
+status: active         # live 2026-10-19; text still to be proofread
+category: office
+order: 62
+zone: coworking
+code: C08              # sticker code (C = coworking side); the QR opens fab20.ee/p/C08
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+
+rental:
+  enabled: true
+  dailyRate: 15.00
+  deposit: 0.00
+
+induction:
+  required: false
+
+externalLinks: []
+
+relatedSubscriptions: []

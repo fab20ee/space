@@ -1,0 +1,24 @@
+slug:
+  en: tapes-box
+  et: teipide-karp
+  ru: korobka-so-skotchem-i-izolentoy
+
+status: active         # live 2026-10-19; text still to be proofread
+category: tools
+order: 74
+zone: hackspace
+code: K11              # sticker code (K = kits and parts containers); the QR opens fab20.ee/p/K11
+
+cover: images/cover.jpg
+gallery:
+  - images/gallery-01.jpg
+
+rental:
+  enabled: false
+
+induction:
+  required: false
+
+externalLinks: []
+
+relatedSubscriptions: []
